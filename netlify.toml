@@ -1,0 +1,13 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "22"
+  NITRO_PRESET = "netlify"
+
+[functions]
+  directory = ".netlify/functions-internal"
+
+[functions."*"]
+  node_bundler = "none"

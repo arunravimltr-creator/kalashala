@@ -1,0 +1,85 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@theme {
+  --font-sans: "Figtree", "Noto Sans Malayalam", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Fraunces", "Noto Serif Malayalam", ui-serif, Georgia, "Times New Roman", serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+
+  --color-bg: #f3eee6;
+  --color-bg-warm: #ebe4d8;
+  --color-surface: #fbf7f1;
+  --color-surface-2: #f6f0e6;
+  --color-ink: #1a1714;
+  --color-ink-soft: #3f3832;
+  --color-muted: #6f675e;
+  --color-subtle: #8a8176;
+  --color-line: #ddd4c6;
+  --color-line-strong: #c9bfb0;
+  --color-prussian: #1f4e5c;
+  --color-prussian-deep: #163843;
+  --color-prussian-fg: #f4f0ea;
+  --color-sage: #2f5a42;
+  --color-brick: #8f3d32;
+  --color-amber: #8a5a28;
+  --color-chip: #e7dfd2;
+
+  --radius-xs: 0.25rem;
+  --radius-sm: 0.5rem;
+  --radius-md: 0.75rem;
+  --radius-lg: 1rem;
+  --radius-xl: 1.5rem;
+
+  --shadow-soft: 0 1px 0 rgba(26, 23, 20, 0.04), 0 12px 32px -18px rgba(26, 23, 20, 0.18);
+}
+
+@layer base {
+  html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background: var(--color-bg);
+    color: var(--color-ink);
+  }
+
+  body {
+    font-family: var(--font-sans);
+    background: var(--color-bg);
+    color: var(--color-ink);
+    min-height: 100dvh;
+  }
+
+  button:not(:disabled),
+  [role="button"]:not(:disabled) {
+    cursor: pointer;
+  }
+
+  h1,
+  h2,
+  h3 {
+    text-wrap: balance;
+    font-family: var(--font-display);
+  }
+
+  p {
+    text-wrap: pretty;
+  }
+
+  ::selection {
+    background: color-mix(in oklab, var(--color-prussian) 22%, transparent);
+    color: var(--color-ink);
+  }
+}
+
+@utility font-display {
+  font-family: var(--font-display);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
