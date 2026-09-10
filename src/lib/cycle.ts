@@ -28,7 +28,7 @@ export const PUBLISHED_CYCLE: CycleId = "2026-H2";
 
 export const CONTENT_VERSION = {
   id: PUBLISHED_CYCLE,
-  publishedAt: "2026-08-01",
+  publishedAt: "2026-09-09",
   cadence: "6 months",
 };
 

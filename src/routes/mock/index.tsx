@@ -4,7 +4,8 @@ import { useT } from "@/components/t";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
-import { MOCKS, questionsForMock } from "@/data/catalog";
+import { allMocks, questionsForMock } from "@/data/catalog";
+import { LATEST_PACK } from "@/data/pack-meta";
 import { useKalashala } from "@/lib/store";
 
 export const Route = createFileRoute("/mock/")({ component: MockIndex });
@@ -12,13 +13,25 @@ export const Route = createFileRoute("/mock/")({ component: MockIndex });
 function MockIndex() {
   const { t, x } = useT();
   const attempts = useKalashala((s) => s.attempts);
+  const installed = useKalashala((s) => s.installedPack);
+  const mocks = allMocks();
 
   return (
     <div className="space-y-8">
       <PageHero kicker={t("timed")} title={t("navMocks")} lead={t("mockListLead")} />
       <p className="text-sm text-ink-soft">{t("densityNote")}</p>
+      {installed !== LATEST_PACK.id ? (
+        <Card className="border-prussian/30 bg-prussian/5">
+          <CardContent className="flex flex-col gap-3 pt-5 sm:flex-row sm:items-center">
+            <p className="flex-1 text-sm leading-relaxed text-ink-soft">{t("packHomeCta")}</p>
+            <Button size="sm" asChild>
+              <Link to="/updates">{t("installPack")}</Link>
+            </Button>
+          </CardContent>
+        </Card>
+      ) : null}
       <div className="grid gap-3">
-        {MOCKS.map((m) => {
+        {mocks.map((m) => {
           const n = questionsForMock(m).length;
           const open = attempts.find((a) => a.mockId === m.id && !a.finishedAt);
           const last = [...attempts].reverse().find((a) => a.mockId === m.id && a.finishedAt);
@@ -29,6 +42,7 @@ function MockIndex() {
                   <div className="flex flex-wrap gap-1.5">
                     {m.kind === "combined" ? <Badge tone="prussian">{t("jrf")}</Badge> : null}
                     {m.kind === "predicted" ? <Badge tone="amber">{t("predictedBadge")}</Badge> : null}
+                    {m.kind === "packset" ? <Badge tone="sage">{t("hallSets")}</Badge> : null}
                     {open ? <Badge tone="amber">{t("unfinished")}</Badge> : null}
                   </div>
                   <h2 className="font-display text-xl">{x(m.title)}</h2>

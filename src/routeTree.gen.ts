@@ -11,6 +11,7 @@
 import { Route as rootRouteImport } from './routes/__root'
 import { Route as IndexRouteImport } from './routes/index'
 import { Route as ExamRouteImport } from './routes/exam'
+import { Route as GlossaryRouteImport } from './routes/glossary'
 import { Route as MethodsRouteImport } from './routes/methods'
 import { Route as MistakesRouteImport } from './routes/mistakes'
 import { Route as PredictedRouteImport } from './routes/predicted'
@@ -32,6 +33,11 @@ const IndexRoute = IndexRouteImport.update({
 const ExamRoute = ExamRouteImport.update({
   id: '/exam',
   path: '/exam',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const GlossaryRoute = GlossaryRouteImport.update({
+  id: '/glossary',
+  path: '/glossary',
   getParentRoute: () => rootRouteImport,
 } as any)
 const MethodsRoute = MethodsRouteImport.update({
@@ -98,6 +104,7 @@ const LearnPaperUnitRoute = LearnPaperUnitRouteImport.update({
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
   '/exam': typeof ExamRoute
+  '/glossary': typeof GlossaryRoute
   '/methods': typeof MethodsRoute
   '/mistakes': typeof MistakesRoute
   '/predicted': typeof PredictedRoute
@@ -114,6 +121,7 @@ export interface FileRoutesByFullPath {
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
   '/exam': typeof ExamRoute
+  '/glossary': typeof GlossaryRoute
   '/methods': typeof MethodsRoute
   '/mistakes': typeof MistakesRoute
   '/predicted': typeof PredictedRoute
@@ -131,6 +139,7 @@ export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
   '/exam': typeof ExamRoute
+  '/glossary': typeof GlossaryRoute
   '/methods': typeof MethodsRoute
   '/mistakes': typeof MistakesRoute
   '/predicted': typeof PredictedRoute
@@ -149,6 +158,7 @@ export interface FileRouteTypes {
   fullPaths:
     | '/'
     | '/exam'
+    | '/glossary'
     | '/methods'
     | '/mistakes'
     | '/predicted'
@@ -165,6 +175,7 @@ export interface FileRouteTypes {
   to:
     | '/'
     | '/exam'
+    | '/glossary'
     | '/methods'
     | '/mistakes'
     | '/predicted'
@@ -181,6 +192,7 @@ export interface FileRouteTypes {
     | '__root__'
     | '/'
     | '/exam'
+    | '/glossary'
     | '/methods'
     | '/mistakes'
     | '/predicted'
@@ -198,6 +210,7 @@ export interface FileRouteTypes {
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
   ExamRoute: typeof ExamRoute
+  GlossaryRoute: typeof GlossaryRoute
   MethodsRoute: typeof MethodsRoute
   MistakesRoute: typeof MistakesRoute
   PredictedRoute: typeof PredictedRoute
@@ -226,6 +239,13 @@ declare module '@tanstack/react-router' {
       path: '/exam'
       fullPath: '/exam'
       preLoaderRoute: typeof ExamRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/glossary': {
+      id: '/glossary'
+      path: '/glossary'
+      fullPath: '/glossary'
+      preLoaderRoute: typeof GlossaryRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/methods': {
@@ -318,6 +338,7 @@ declare module '@tanstack/react-router' {
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
   ExamRoute: ExamRoute,
+  GlossaryRoute: GlossaryRoute,
   MethodsRoute: MethodsRoute,
   MistakesRoute: MistakesRoute,
   PredictedRoute: PredictedRoute,

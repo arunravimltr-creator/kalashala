@@ -14,6 +14,8 @@ import { Button } from "@/components/ui/button";
 import { useT } from "@/components/t";
 import { cycleFromDate, cycleLabel } from "@/lib/cycle";
 import { useKalashala } from "@/lib/store";
+import { registerKalashalaWorker } from "@/lib/pwa";
+import { syncNta } from "@/lib/use-nta-sync";
 import { cn } from "@/lib/utils";
 
 const MAIN = [
@@ -27,6 +29,7 @@ const MORE = [
   { to: "/predicted", key: "navPredicted" as const },
   { to: "/mistakes", key: "navMistakes" as const },
   { to: "/methods", key: "navMethods" as const },
+  { to: "/glossary", key: "navGlossary" as const },
   { to: "/progress", key: "navProgress" as const },
   { to: "/exam", key: "navExam" as const },
   { to: "/updates", key: "navUpdates" as const },
@@ -38,9 +41,23 @@ export function AppShell({ children }: { children: React.ReactNode }) {
   const pathname = useRouterState({ select: (s) => s.location.pathname });
   const [more, setMore] = useState(false);
   const cycle = cycleFromDate();
+  useKalashala((s) => s.installedPack);
+  const notices = useKalashala((s) => s.notices);
+  const seenIds = useKalashala((s) => s.seenNoticeIds);
+  const unread = notices.filter((n) => !seenIds.includes(n.id)).length;
 
   useEffect(() => {
     void useKalashala.persist.rehydrate();
+    void registerKalashalaWorker();
+  }, []);
+
+  useEffect(() => {
+    const kick = () => {
+      void syncNta({ force: false });
+    };
+    const unsub = useKalashala.persist.onFinishHydration(kick);
+    if (useKalashala.persist.hasHydrated()) kick();
+    return unsub;
   }, []);
 
   useEffect(() => {
@@ -122,7 +139,13 @@ export function AppShell({ children }: { children: React.ReactNode }) {
             {t("more")}
           </p>
           {MORE.map((item) => (
-            <NavItem key={item.to} to={item.to} label={t(item.key)} pathname={pathname} />
+            <NavItem
+              key={item.to}
+              to={item.to}
+              label={t(item.key)}
+              pathname={pathname}
+              badge={item.to === "/updates" ? unread : 0}
+            />
           ))}
         </aside>
 
@@ -141,9 +164,14 @@ export function AppShell({ children }: { children: React.ReactNode }) {
               <Link
                 key={item.to}
                 to={item.to}
-                className="flex h-11 items-center rounded-md px-3 text-sm font-medium hover:bg-chip"
+                className="flex h-11 items-center justify-between rounded-md px-3 text-sm font-medium hover:bg-chip"
               >
-                {t(item.key)}
+                <span>{t(item.key)}</span>
+                {item.to === "/updates" && unread ? (
+                  <span className="grid min-w-5 place-items-center rounded-full bg-prussian px-1.5 text-[0.65rem] tabular-nums text-prussian-fg">
+                    {unread}
+                  </span>
+                ) : null}
               </Link>
             ))}
           </div>
@@ -174,10 +202,13 @@ export function AppShell({ children }: { children: React.ReactNode }) {
             <button
               type="button"
               onClick={() => setMore(true)}
-              className="flex h-14 w-full flex-col items-center justify-center gap-0.5 text-[0.65rem] font-medium text-muted"
+              className="relative flex h-14 w-full flex-col items-center justify-center gap-0.5 text-[0.65rem] font-medium text-muted"
             >
               <Ellipsis className="size-5" strokeWidth={1.8} />
               {t("more")}
+              {unread ? (
+                <span className="absolute right-3 top-2 size-2 rounded-full bg-prussian" />
+              ) : null}
             </button>
           </li>
         </ul>
@@ -191,11 +222,13 @@ function NavItem({
   label,
   icon: Icon,
   pathname,
+  badge = 0,
 }: {
   to: string;
   label: string;
   icon?: typeof Home;
   pathname: string;
+  badge?: number;
 }) {
   const active = to === "/" ? pathname === "/" : pathname.startsWith(to);
   return (
@@ -207,7 +240,12 @@ function NavItem({
       )}
     >
       {Icon ? <Icon className="size-4" strokeWidth={1.8} /> : <LineChart className="size-4 opacity-0" />}
-      {label}
+      <span className="flex-1 truncate">{label}</span>
+      {badge ? (
+        <span className="grid min-w-5 place-items-center rounded-full bg-prussian px-1.5 text-[0.65rem] tabular-nums text-prussian-fg">
+          {badge}
+        </span>
+      ) : null}
     </Link>
   );
 }

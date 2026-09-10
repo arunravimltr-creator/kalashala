@@ -57,7 +57,7 @@ export type Question = {
   fix: Text;
 };
 
-export type MockKind = "mini" | "paper" | "combined" | "predicted";
+export type MockKind = "mini" | "paper" | "combined" | "predicted" | "packset";
 
 export type MockDef = {
   id: string;

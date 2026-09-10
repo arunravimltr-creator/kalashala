@@ -1,0 +1,93 @@
+import { L } from "./builder";
+import type { Text } from "@/lib/types";
+
+export const LATEST_PACK = {
+  id: "2026.09.09.1",
+  publishedAt: "2026-09-09",
+  cycle: "2026-H2" as const,
+  questionCount: 160,
+  title: L("December 2026 bilingual package", "ഡിസംബർ 2026 ദ്വിഭാഷാ പായ്ക്ക്"),
+  blurb: L(
+    "160 new hall-style questions (4 timed sets), English–Malayalam glossary, weightage map, 16-week plan, and a JRF age / NET-AP eligibility desk. Questions stay in English — that is the paper. Teaching stays bilingual.",
+    "160 പുതിയ ഹാൾ-സ്റ്റൈൽ ചോദ്യങ്ങൾ (4 ടൈംഡ് സെറ്റ്), ഇംഗ്ലീഷ്–മലയാളം പദകോശം, ഭാരപട്ടിക, 16 ആഴ്ച പ്ലാൻ, ജെആർഎഫ് പ്രായ / നെറ്റ്-എപി യോഗ്യതാ ഡെസ്ക്. ചോദ്യങ്ങൾ ഇംഗ്ലീഷിൽ — അതാണ് പേപ്പർ. പഠിപ്പിക്കൽ ദ്വിഭാഷ.",
+  ),
+};
+
+export const PACK_CHANGES: { title: Text; body: Text }[] = [
+  {
+    title: L("Four bilingual timed sets", "നാല് ദ്വിഭാഷാ ടൈംഡ് സെറ്റ്"),
+    body: L(
+      "Each set is 40 questions — 15 Paper I + 25 Visual Art — at hall pace (72 seconds each). Open them from Mocks after this pack is installed.",
+      "ഓരോ സെറ്റും 40 ചോദ്യം — 15 പേപ്പർ I + 25 ദൃശ്യകല — ഹാൾ വേഗം (72 സെക്കൻഡ്). ഇൻസ്റ്റാൾ കഴിഞ്ഞാൽ മോക്കിൽ തുറക്കുക.",
+    ),
+  },
+  {
+    title: L("Finish line: NET-AP, with JRF only if eligible", "ലക്ഷ്യരേഖ: നെറ്റ്-എപി; ജെആർഎഫ് യോഗ്യതയുണ്ടെങ്കിൽ മാത്രം"),
+    body: L(
+      "JRF has an upper age of 30, relaxed to 35 for OBC-NCL, SC, ST, PwD, Third Gender and all women. Assistant Professor NET has no age cap. This pack adds a checker on the Exam desk. Always re-read the official December 2026 notification at ugcnet.nta.ac.in.",
+      "ജെആർഎഫിന് 30 വയസ്; OBC-NCL, SC, ST, PwD, തേർഡ് ജെൻഡർ, എല്ലാ വനിതകൾക്കും 35. അസിസ്റ്റന്റ് പ്രൊഫസർ നെറ്റിന് പ്രായപരിധിയില്ല. പരീക്ഷ ഡെസ്കിൽ ചെക്കർ. ugcnet.nta.ac.in-ലെ ഔദ്യോഗിക വിജ്ഞാപനം തന്നെയാണ് അധികാരം.",
+    ),
+  },
+  {
+    title: L("Weightage, not folklore", "ഭാരപട്ടിക — ഗ്യാരണ്ടി ചോദ്യമല്ല"),
+    body: L(
+      "NTA does not sell sure-shot papers. What repeats is the topic map: Indian art history, Western movements, modern Indian groups, materials, aesthetics. The Updates desk now carries that map.",
+      "എൻടിഎ ഗ്യാരണ്ടി ചോദ്യം വിറ്റില്ല. ആവർത്തിക്കുന്നത് ടോപ്പിക് മാപ്പാണ്: ഇന്ത്യൻ കലാചരിത്രം, പാശ്ചാത്യ പ്രസ്ഥാനങ്ങൾ, ആധുനിക ഇന്ത്യൻ ഗ്രൂപ്പുകൾ, മെറ്റീരിയൽ, സൗന്ദര്യശാസ്ത്രം.",
+    ),
+  },
+  {
+    title: L("Glossary + last-ten-days method", "പദകോശവും അവസാന പത്ത് ദിവസവും"),
+    body: L(
+      "Hall English under a clock. Words like concomitance, tenebrism, provenance, vyapti now have a Malayalam desk so you do not spend twelve seconds decoding the stem.",
+      "ക്ലോക്കിനടിയിലെ ഹാൾ ഇംഗ്ലീഷ്. concomitance, tenebrism, provenance, vyapti എന്നിവയ്ക്ക് മലയാളം ഡെസ്ക് — സ്റ്റെം ഡീകോഡ് ചെയ്യാൻ പന്ത്രണ്ട് സെക്കൻഡ് കളയരുത്.",
+    ),
+  },
+];
+
+export const WEIGHTAGE: { rank: number; area: Text; qs: string; stars: number }[] = [
+  { rank: 1, area: L("Indian art history — Indus to 19th c.", "ഇന്ത്യൻ കലാചരിത്രം — സിന്ധു മുതൽ 19-ാം നൂറ്റാണ്ട്"), qs: "22–28", stars: 5 },
+  { rank: 2, area: L("Western art — Renaissance to postmodern", "പാശ്ചാത്യ കല — നവോത്ഥാനം മുതൽ പോസ്റ്റ്‌മോഡേൺ"), qs: "20–25", stars: 5 },
+  { rank: 3, area: L("Modern & contemporary Indian art", "ആധുനിക–സമകാലിക ഇന്ത്യൻ കല"), qs: "12–16", stars: 5 },
+  { rank: 4, area: L("Materials and techniques", "മെറ്റീരിയലും ടെക്നിക്കും"), qs: "10–14", stars: 5 },
+  { rank: 5, area: L("Aesthetics — rasa to Greenberg", "സൗന്ദര്യശാസ്ത്രം"), qs: "10–12", stars: 5 },
+  { rank: 6, area: L("Fundamentals — elements, colour, composition", "ഫണ്ടമെന്റൽസ്"), qs: "6–8", stars: 4 },
+  { rank: 7, area: L("Folk, tribal, craft", "നാടോടി–ഗോത്ര–കരകൗശലം"), qs: "6–8", stars: 4 },
+  { rank: 8, area: L("Applied art, design, ICT", "അപ്ലൈഡ് ആർട്ട്, ഡിസൈൻ, ഐസിടി"), qs: "5–7", stars: 3 },
+  { rank: 9, area: L("Asian and other regional art", "ഏഷ്യൻ / മറ്റ് പ്രാദേശിക കല"), qs: "4–6", stars: 3 },
+  { rank: 10, area: L("Museology, curation, art market", "മ്യൂസിയോളജി, ക്യുറേഷൻ"), qs: "3–5", stars: 3 },
+];
+
+export const WEEK16: { weeks: string; title: Text; body: Text }[] = [
+  {
+    weeks: "1–4",
+    title: L("Grammar of Paper I + Indian sculpture", "പേപ്പർ I വ്യാകരണവും ഇന്ത്യൻ ശില്പവും"),
+    body: L(
+      "Paper I units 1, 2, 4, 8, 10 as tables. Visual Art: Indus–Gupta–Ellora–Chola. One 10-question drill every morning. 3–4 hours a day; one hour is Paper I.",
+      "പേപ്പർ I 1, 2, 4, 8, 10 ടേബിൾ. ദൃശ്യകല: സിന്ധു–ഗുപ്ത–എല്ലോറ–ചോള. ദിവസം 3–4 മണിക്കൂർ; ഒരു മണിക്കൂർ പേപ്പർ I.",
+    ),
+  },
+  {
+    weeks: "5–8",
+    title: L("Western map + remaining Paper I", "പാശ്ചാത്യ മാപ്പും ബാക്കി പേപ്പർ I-ഉം"),
+    body: L(
+      "Renaissance to conceptual. Paper I maths, logic, DI, environment. Do not skip numbers — there is no negative marking, but a blank is still zero.",
+      "നവോത്ഥാനം മുതൽ കൺസെപ്ച്വൽ. പേപ്പർ I ഗണിതം, യുക്തി, DI, പരിസ്ഥിതി. നെഗറ്റീവ് ഇല്ല; ശൂന്യം പൂജ്യം തന്നെ.",
+    ),
+  },
+  {
+    weeks: "9–12",
+    title: L("Modern Indian groups + matching lists", "ആധുനിക ഇന്ത്യൻ ഗ്രൂപ്പുകളും മാച്ചിംഗും"),
+    body: L(
+      "Bengal School, Santiniketan, PAG, Baroda, Cholamandal, Kochi Biennale. Folk/tribal names. Sit Bilingual Set 1 and 2 timed. Rewrite every miss as one line.",
+      "ബംഗാൾ സ്കൂൾ, ശാന്തിനികേതൻ, PAG, ബറോഡ, ചോഴമണ്ഡലം, കൊച്ചി ബിനാലെ. സെറ്റ് 1, 2 ടൈംഡ്. തെറ്റ് ഒരു വരിയായി.",
+    ),
+  },
+  {
+    weeks: "13–16",
+    title: L("Mocks, weak-unit surgery, last ten days", "മോക്ക്, ദുർബല യൂണിറ്റ്, അവസാന പത്ത് ദിവസം"),
+    body: L(
+      "Sets 3–4 and the combined sitting. Last ten days: glossary, fact sheets, no new books. Answer all 150 in the hall. A guess is free.",
+      "സെറ്റ് 3–4, കമ്പൈൻഡ്. അവസാന പത്ത്: പദകോശം, ഫാക്ട് ഷീറ്റ്, പുതിയ പുസ്തകമില്ല. ഹാളിൽ 150-ഉം എഴുതുക. ഊഹം സൗജന്യം.",
+    ),
+  },
+];

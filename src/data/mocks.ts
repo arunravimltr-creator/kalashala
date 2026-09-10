@@ -79,3 +79,54 @@ export const MOCKS: MockDef[] = [
     seed: "pred",
   },
 ];
+
+export const PACK_MOCKS: MockDef[] = [
+  {
+    id: "pack-1",
+    kind: "packset",
+    title: L("Bilingual set 1 · hall pace", "ദ്വിഭാഷാ സെറ്റ് 1 · ഹാൾ വേഗം"),
+    blurb: L(
+      "40 hall-English questions — 15 Paper I + 25 Visual Art. 48 minutes (72 seconds each). Teaching after you submit.",
+      "40 ഹാൾ-ഇംഗ്ലീഷ് ചോദ്യം — 15 പേപ്പർ I + 25 ദൃശ്യകല. 48 മിനിറ്റ് (72 സെക്കൻഡ്). സമർപ്പിച്ച ശേഷം പഠിപ്പിക്കൽ.",
+    ),
+    minutes: 48,
+    perUnit: 0,
+    seed: "pk1",
+  },
+  {
+    id: "pack-2",
+    kind: "packset",
+    title: L("Bilingual set 2 · hall pace", "ദ്വിഭാഷാ സെറ്റ് 2 · ഹാൾ വേഗം"),
+    blurb: L(
+      "Second mixed 40. Sit only after you have rewritten Set 1’s misses as one-line facts.",
+      "രണ്ടാം മിക്സഡ് 40. സെറ്റ് 1-ന്റെ തെറ്റുകൾ ഒരു വരിയായി എഴുതിയ ശേഷം മാത്രം.",
+    ),
+    minutes: 48,
+    perUnit: 0,
+    seed: "pk2",
+  },
+  {
+    id: "pack-3",
+    kind: "packset",
+    title: L("Bilingual set 3 · hall pace", "ദ്വിഭാഷാ സെറ്റ് 3 · ഹാൾ വേഗം"),
+    blurb: L(
+      "Third mixed 40. Same clock. Use this in weeks 13–16 of the plan.",
+      "മൂന്നാം മിക്സഡ് 40. അതേ ക്ലോക്ക്. 13–16 ആഴ്ച പ്ലാനിൽ ഇത് ഇരുത്തുക.",
+    ),
+    minutes: 48,
+    perUnit: 0,
+    seed: "pk3",
+  },
+  {
+    id: "pack-4",
+    kind: "packset",
+    title: L("Bilingual set 4 · hall pace", "ദ്വിഭാഷാ സെറ്റ് 4 · ഹാൾ വേഗം"),
+    blurb: L(
+      "Last mixed 40 of this pack. Then sit the combined JRF paper the same week.",
+      "ഈ പായ്ക്കിലെ അവസാന മിക്സഡ് 40. അതേ ആഴ്ച കൂട്ടിയ ജെആർഎഫ് പേപ്പറും ഇരുത്തുക.",
+    ),
+    minutes: 48,
+    perUnit: 0,
+    seed: "pk4",
+  },
+];

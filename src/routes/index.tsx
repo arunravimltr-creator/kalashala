@@ -1,11 +1,14 @@
 import { Link, createFileRoute } from "@tanstack/react-router";
-import { ArrowRight } from "lucide-react";
+import { ArrowRight, ExternalLink } from "lucide-react";
+import { InstallAppCard } from "@/components/install-app";
 import { useT } from "@/components/t";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { Progress } from "@/components/ui/progress";
-import { ALL_UNITS, UNITS_P1, UNITS_VA, predictedQuestions } from "@/data/catalog";
+import { ALL_UNITS, UNITS_P1, UNITS_VA, allQuestions, predictedQuestions } from "@/data/catalog";
+import { SEED_NOTICES } from "@/data/nta-seed";
+import { LATEST_PACK } from "@/data/pack-meta";
 import { CONTENT_VERSION, CUTOFFS, JRF_TARGET, cycleFromDate, cycleLabel, notesFor } from "@/lib/cycle";
 import { useKalashala } from "@/lib/store";
 import { accuracy } from "@/lib/quiz";
@@ -22,8 +25,16 @@ function Home() {
   const seen = useKalashala((s) => s.seenCycle);
   const ack = useKalashala((s) => s.ackCycle);
   const reviews = useKalashala((s) => s.reviews);
+  const installed = useKalashala((s) => s.installedPack);
+  const notices = useKalashala((s) => s.notices);
+  const seenIds = useKalashala((s) => s.seenNoticeIds);
   const cycle = cycleFromDate();
   const newCycle = seen !== cycle;
+  const packLive = installed === LATEST_PACK.id;
+  const bank = allQuestions().length;
+  const desk = notices.length ? notices : SEED_NOTICES;
+  const unread = desk.filter((n) => !seenIds.includes(n.id)).length;
+  const latest = desk.slice(0, 3);
 
   const mastered = ALL_UNITS.filter((u) => lessons[u.id]?.completed).length;
   const due = Object.values(reviews).filter((r) => r.dueAt <= Date.now()).length;
@@ -46,6 +57,54 @@ function Home() {
           </CardContent>
         </Card>
       ) : null}
+
+      <Card className={packLive ? "" : "border-prussian/30 bg-prussian/5"}>
+        <CardContent className="flex flex-col gap-3 pt-5 sm:flex-row sm:items-center">
+          <p className="flex-1 text-sm leading-relaxed text-ink-soft">
+            {packLive ? t("packHomeDone") : t("packHomeCta")}
+            <span className="mt-1 block text-xs tabular-nums text-muted">
+              {bank} {t("bankSize")} · {LATEST_PACK.id}
+            </span>
+          </p>
+          <Button size="sm" variant={packLive ? "outline" : "default"} asChild>
+            <Link to="/updates">{packLive ? t("navUpdates") : t("installPack")}</Link>
+          </Button>
+        </CardContent>
+      </Card>
+
+      <Card className={unread ? "border-prussian/30 bg-prussian/5" : ""}>
+        <CardContent className="space-y-3 pt-5">
+          <div className="flex flex-wrap items-center justify-between gap-2">
+            <h2 className="font-display text-xl">{t("homeNotices")}</h2>
+            {unread ? (
+              <Badge tone="amber">
+                {unread} {t("unreadN")}
+              </Badge>
+            ) : null}
+          </div>
+          <ul className="space-y-2">
+            {latest.map((n) => (
+              <li key={n.id}>
+                <a
+                  href={n.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="flex items-start justify-between gap-2 text-sm leading-snug text-ink-soft hover:text-ink"
+                >
+                  <span>{n.title}</span>
+                  <ExternalLink className="mt-0.5 size-3.5 shrink-0" />
+                </a>
+              </li>
+            ))}
+          </ul>
+          <div className="flex flex-wrap gap-2">
+            <Button size="sm" asChild>
+              <Link to="/updates">{t("collectUpdates")}</Link>
+            </Button>
+            <InstallAppCard compact />
+          </div>
+        </CardContent>
+      </Card>
 
       <section className="space-y-3">
         <p className="text-[0.7rem] uppercase tracking-[0.18em] text-subtle">{t("studio")}</p>

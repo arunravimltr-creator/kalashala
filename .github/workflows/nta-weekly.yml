@@ -1,0 +1,31 @@
+name: Weekly NTA collect
+
+on:
+  schedule:
+    - cron: "0 4 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Collect official NTA notices
+        run: node scripts/collect-nta.mjs
+      - name: Commit feed if it changed
+        run: |
+          git config user.name "kalashala-bot"
+          git config user.email "kalashala-bot@users.noreply.github.com"
+          git add public/nta-feed.json
+          if git diff --staged --quiet; then
+            echo "No notice changes"
+          else
+            git commit -m "chore: weekly NTA notice collect"
+            git push
+          fi
