@@ -1,0 +1,1 @@
+import{T as e,x as t}from"./t-XepA_ntI.js";var n=e();function r({className:e,...r}){return(0,n.jsx)(`div`,{className:t(`rounded-xl border border-line bg-surface shadow-soft`,e),...r})}function i({className:e,...r}){return(0,n.jsx)(`div`,{className:t(`p-5`,e),...r})}export{i as n,r as t};
