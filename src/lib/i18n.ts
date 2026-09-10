@@ -397,6 +397,15 @@ export const ui = {
     en: "Add Kalashala to the Home Screen. It works offline for lessons and mocks. Notices still need a network collect.",
     ml: "കലാശാല ഹോം സ്ക്രീനിലേക്ക് ചേർക്കുക. പാഠവും മോക്കും ഓഫ്‌ലൈനിൽ. നോട്ടീസിന് നെറ്റ്‌വർക്ക് ശേഖരണം വേണം.",
   },
+  installOpenPhone: {
+    en: "Open the GitHub install page on your phone. Chrome → Install app. iPhone → Share → Add to Home Screen.",
+    ml: "ഫോണിൽ GitHub ഇൻസ്റ്റാൾ പേജ് തുറക്കുക. Chrome → Install app. iPhone → Share → Add to Home Screen.",
+  },
+  openInstallPage: { en: "Open install page", ml: "ഇൻസ്റ്റാൾ പേജ് തുറക്കുക" },
+  githubBuilt: {
+    en: "GitHub builds this app every week and whenever NTA notices change.",
+    ml: "ഓരോ ആഴ്ചയും, എൻടിഎ നോട്ടീസ് മാറുമ്പോഴും GitHub ഈ ആപ്പ് ബിൽഡ് ചെയ്യും.",
+  },
   installManual: {
     en: "Use the browser menu: Install app / Add to Home Screen.",
     ml: "ബ്രൗസർ മെനു: Install app / Add to Home Screen.",

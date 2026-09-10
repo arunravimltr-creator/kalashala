@@ -12,15 +12,16 @@ const NTA_NOTICES_2026 = "https://ugcnet.nta.nic.in/document-category/public-not
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 
 function decode(text) {
+  const named = { nbsp: " ", amp: "&", quot: '"', lt: "<", gt: ">", apos: "'" };
   return String(text)
     .replace(/<[^>]+>/g, " ")
-    .replace(/&nbsp;/gi, " ")
-    .replace(/&/gi, "&")
-    .replace(/"/gi, '"')
-    .replace(/&#39;/gi, "'")
-    .replace(/</gi, "<")
-    .replace(/>/gi, ">")
-    .replace(/&#(\d+);/g, (_, n) => String.fromCharCode(Number(n)))
+    .replace(/&(#x[0-9a-f]+|#\d+|[a-z]+);/gi, (_, raw) => {
+      if (raw[0] === "#") {
+        const n = raw[1] === "x" || raw[1] === "X" ? Number.parseInt(raw.slice(2), 16) : Number(raw.slice(1));
+        return Number.isFinite(n) ? String.fromCharCode(n) : "";
+      }
+      return named[String(raw).toLowerCase()] ?? `&${raw};`;
+    })
     .replace(/\s+/g, " ")
     .trim();
 }

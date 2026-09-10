@@ -6,14 +6,16 @@ Progress stays on the device. No login.
 
 ## Install on your phone
 
-This is a **Progressive Web App**. Open the live site in Chrome (Android) or Safari (iPhone):
+GitHub builds this app and publishes it here:
 
-1. Tap **Install on this device** inside Updates, or
-2. Browser menu → **Install app** / **Add to Home Screen**.
+**[https://arunravimltr-creator.github.io/kalashala/](https://arunravimltr-creator.github.io/kalashala/)**
+
+1. Open that page in **Chrome** (Android) or **Safari** (iPhone).
+2. Chrome menu → **Install app**. iPhone → Share → **Add to Home Screen**.
 
 Lessons and mocks work offline after the first visit. Official NTA notices need a network collect.
 
-Repo: [github.com/arunravimltr-creator/kalashala](https://github.com/arunravimltr-creator/kalashala)
+Source: [github.com/arunravimltr-creator/kalashala](https://github.com/arunravimltr-creator/kalashala)
 
 ## Updates desk
 
@@ -27,10 +29,13 @@ Repo: [github.com/arunravimltr-creator/kalashala](https://github.com/arunravimlt
 - Answer key
 - Result / cut-off
 
-The app also checks automatically **every 7 days**. A GitHub Action refreshes `public/nta-feed.json` every Monday.
+The app also checks automatically **every 7 days**. A GitHub Action:
+
+- refreshes `public/nta-feed.json` every Monday
+- rebuilds the installable PWA whenever `main` changes
 
 Official source is always [ugcnet.nta.nic.in](https://ugcnet.nta.nic.in/). Kalashala does not replace NTA.
 
 ## Netlify
 
-Import this GitHub repo in [Netlify](https://app.netlify.com). `netlify.toml` already has the build command. After the first deploy, that public URL is what you install to the Home Screen.
+Import this GitHub repo in [Netlify](https://app.netlify.com) if you want a second host. `netlify.toml` already has the build command. GitHub Pages is the default install URL.

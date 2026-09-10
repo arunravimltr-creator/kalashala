@@ -1,8 +1,9 @@
-import { Download, Smartphone } from "lucide-react";
+import { Download, ExternalLink, Smartphone } from "lucide-react";
 import { useEffect, useState } from "react";
 import { useT } from "@/components/t";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
+import { INSTALL_URL, publicUrl } from "@/lib/base";
 
 type PromptEvent = Event & { prompt: () => Promise<void> };
 
@@ -15,6 +16,11 @@ function isStandalone(): boolean {
 function isIos(): boolean {
   if (typeof navigator === "undefined") return false;
   return /iPhone|iPad|iPod/i.test(navigator.userAgent) || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
+}
+
+function onPublicHost(): boolean {
+  if (typeof window === "undefined") return false;
+  return window.location.hostname.endsWith("github.io");
 }
 
 export function InstallAppCard({ compact = false }: { compact?: boolean }) {
@@ -40,7 +46,7 @@ export function InstallAppCard({ compact = false }: { compact?: boolean }) {
       return;
     }
     if (isIos()) {
-      window.location.assign("/?install=1&platform=ios");
+      window.location.assign(`${publicUrl("")}?install=1&platform=ios`);
       return;
     }
     setHint(true);
@@ -59,12 +65,27 @@ export function InstallAppCard({ compact = false }: { compact?: boolean }) {
     );
   }
 
+  const openPage = (
+    <Button asChild variant={compact ? "outline" : "default"} size={compact ? "sm" : "default"}>
+      <a href={INSTALL_URL} target="_blank" rel="noopener noreferrer">
+        <ExternalLink className="size-4" />
+        {t("openInstallPage")}
+      </a>
+    </Button>
+  );
+
   if (compact) {
     return (
-      <Button size="sm" variant="outline" onClick={() => void install()}>
-        <Download className="size-4" />
-        {t("installApp")}
-      </Button>
+      <div className="flex flex-wrap gap-2">
+        {onPublicHost() ? (
+          <Button size="sm" variant="outline" onClick={() => void install()}>
+            <Download className="size-4" />
+            {t("installApp")}
+          </Button>
+        ) : (
+          openPage
+        )}
+      </div>
     );
   }
 
@@ -76,10 +97,17 @@ export function InstallAppCard({ compact = false }: { compact?: boolean }) {
           <p className="text-[0.7rem] uppercase tracking-[0.14em] text-prussian">{t("installApp")}</p>
         </div>
         <p className="text-sm leading-relaxed text-ink-soft">{t("installAppLead")}</p>
-        <Button onClick={() => void install()}>
-          <Download className="size-4" />
-          {t("installApp")}
-        </Button>
+        <p className="text-sm leading-relaxed text-ink-soft">{t("installOpenPhone")}</p>
+        <p className="break-all font-mono text-xs text-prussian">{INSTALL_URL}</p>
+        <div className="flex flex-wrap gap-2">
+          {openPage}
+          {onPublicHost() || prompt ? (
+            <Button variant="outline" onClick={() => void install()}>
+              <Download className="size-4" />
+              {t("installApp")}
+            </Button>
+          ) : null}
+        </div>
         {hint ? <p className="text-sm text-ink-soft">{t("installManual")}</p> : null}
       </CardContent>
     </Card>

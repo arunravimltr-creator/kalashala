@@ -4,6 +4,7 @@ import { PreviewHostBridge } from "@/components/preview-host-bridge";
 import { AppShell } from "@/components/app-shell";
 import { useT } from "@/components/t";
 import { Button } from "@/components/ui/button";
+import { publicUrl } from "@/lib/base";
 import appCss from "../styles.css?url";
 
 const APP_NAME = "Kalashala";
@@ -19,12 +20,14 @@ export const Route = createRootRoute({
         content: "UGC NET JRF academy for Paper I and Visual Art (79) — English and Malayalam.",
       },
       { name: "theme-color", content: "#1f4e5c" },
+      { name: "apple-mobile-web-app-capable", content: "yes" },
+      { name: "apple-mobile-web-app-title", content: APP_NAME },
     ],
     links: [
-      { rel: "icon", type: "image/svg+xml", href: "/favicon.svg" },
+      { rel: "icon", type: "image/svg+xml", href: publicUrl("favicon.svg") },
       { rel: "stylesheet", href: appCss },
-      { rel: "manifest", href: "/manifest.webmanifest" },
-      { rel: "apple-touch-icon", href: "/icons/icon-180.png" },
+      { rel: "manifest", href: publicUrl("manifest.webmanifest") },
+      { rel: "apple-touch-icon", href: publicUrl("icons/icon-180.png") },
       { rel: "preconnect", href: "https://fonts.googleapis.com" },
       { rel: "preconnect", href: "https://fonts.gstatic.com", crossOrigin: "anonymous" },
       {

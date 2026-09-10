@@ -143,6 +143,8 @@ function UpdatesPage() {
     <div className="space-y-8">
       <PageHero kicker={t("cyclePack")} title={t("navUpdates")} lead={t("updatesLead")} />
 
+      <InstallAppCard />
+
       <Card className="border-prussian/30 bg-prussian/5">
         <CardContent className="space-y-3 pt-5">
           <div className="flex flex-wrap items-center gap-2">
@@ -155,6 +157,7 @@ function UpdatesPage() {
           </div>
           <p className="text-sm leading-relaxed text-ink-soft">{t("officialDeskLead")}</p>
           <p className="text-sm leading-relaxed text-ink-soft">{t("weeklyAuto")}</p>
+          <p className="text-sm leading-relaxed text-ink-soft">{t("githubBuilt")}</p>
           <p className="text-xs text-muted">
             {lastFetch
               ? `${t("lastChecked")} ${new Date(lastFetch).toLocaleString(locale)}`
@@ -173,8 +176,6 @@ function UpdatesPage() {
           </div>
         </CardContent>
       </Card>
-
-      <InstallAppCard />
 
       <section className="space-y-3">
         <h2 className="font-display text-xl">{t("watchTitle")}</h2>

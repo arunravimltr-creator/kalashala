@@ -19,15 +19,23 @@ type FeedResult = {
 };
 
 function decode(text: string): string {
+  const named: Record<string, string> = {
+    nbsp: " ",
+    amp: "&",
+    quot: '"',
+    lt: "<",
+    gt: ">",
+    apos: "'",
+  };
   return text
     .replace(/<[^>]+>/g, " ")
-    .replace(/&nbsp;/gi, " ")
-    .replace(/&/gi, "&")
-    .replace(/"/gi, '"')
-    .replace(/&#39;/gi, "'")
-    .replace(/</gi, "<")
-    .replace(/>/gi, ">")
-    .replace(/&#(\d+);/g, (_, n) => String.fromCharCode(Number(n)))
+    .replace(/&(#x[0-9a-f]+|#\d+|[a-z]+);/gi, (_, raw: string) => {
+      if (raw[0] === "#") {
+        const n = raw[1] === "x" || raw[1] === "X" ? Number.parseInt(raw.slice(2), 16) : Number(raw.slice(1));
+        return Number.isFinite(n) ? String.fromCharCode(n) : "";
+      }
+      return named[raw.toLowerCase()] ?? `&${raw};`;
+    })
     .replace(/\s+/g, " ")
     .trim();
 }
