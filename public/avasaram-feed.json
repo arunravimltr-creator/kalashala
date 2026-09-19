@@ -1,1 +1,47 @@
 {"updatedAt":"2026-09-19T06:00:00Z","items":[]}
+{
+  "updatedAt": "2026-09-19T06:30:00Z",
+  "items": [
+    {
+      "id": "p-hfbk-hamburg-phd-practice-2027",
+      "title": "HFBK Hamburg — PhD in Art Practice (Summer 2027)",
+      "org": "Hochschule für bildende Künste Hamburg",
+      "country": "DE",
+      "location": "Hamburg, Germany",
+      "deadline": "2026-10-14",
+      "deadlineType": "fixed",
+      "deadlineNote": "14 Oct 2026, 16:00 — digital portfolio cutoff",
+      "category": "phd",
+      "phdType": "practice",
+      "funding": "Semester contribution only (public art academy; confirm current fee page). Separate DAAD possible, not automatic.",
+      "eligibility": "Diplom / Meisterschüler / Master with artistic-practical focus, usually overall grade at least 'good', or equivalent foreign degree with equivalence proof. Special aptitude for artistic research.",
+      "howToApply": "Create applicant account on HFBK HIS-in-One and upload separate PDFs (summary, exposé, degree, CV) in German or English.",
+      "url": "https://hfbk-hamburg.de/en/information/prospective-students/apply/application-phd-in-art-practice",
+      "officialUrl": "https://hfbk-hamburg.de/en/information/prospective-students/apply/application-phd-in-art-practice",
+      "visaSponsor": "student",
+      "verified": "official",
+      "verifyNote": "Official HFBK page: window 1 Sep–14 Oct 2026 16:00 for Summer 2027. Curriculum German and English.",
+      "addedAt": "2026-09-19T06:30:00Z"
+    },
+    {
+      "id": "r-mass-moca-studios-2027h2",
+      "title": "Studios at MASS MoCA — July–December 2027 residencies",
+      "org": "MASS MoCA / Assets for Artists",
+      "country": "US",
+      "location": "North Adams, Massachusetts",
+      "deadline": "2026-11-01",
+      "deadlineType": "fixed",
+      "deadlineNote": "1 Nov 2026, 23:59 EST",
+      "category": "residency",
+      "funding": "Studio + housing. Financial aid / fellowships selectable on the same form; aid typically $0–$450 per week depending on need.",
+      "eligibility": "Visual artists (painting, sculpture, installation, photo, video, fiber, print) and writers. International applicants welcome. All career stages.",
+      "howToApply": "General application on MASS MoCA Studios / Submittable. Open 1 Sep–1 Nov 2026.",
+      "url": "https://massmoca.org/studios/",
+      "officialUrl": "https://massmoca.org/studios/applying-financial-aid/",
+      "visaSponsor": "check",
+      "verified": "official",
+      "verifyNote": "Official MASS MoCA Studios page: Jul–Dec 2027 call live 1 Sep–1 Nov 2026.",
+      "addedAt": "2026-09-19T06:30:00Z"
+    }
+  ]
+}
