@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T08:21:00Z",
+  "updatedAt": "2026-09-20T08:48:00Z",
   "items": [
     {
       "id": "p-hfbk-hamburg-phd-practice-2027",
@@ -20,7 +20,7 @@
       "visaSponsor": "student",
       "verified": "official",
       "verifyNote": "Official HFBK page: window 1 Sep–14 Oct 2026 16:00 for Summer 2027. Curriculum German and English.",
-      "addedAt": "2026-09-19T06:30:00Z"
+      "addedAt": "2026-09-20T08:48:00Z"
     },
     {
       "id": "r-mass-moca-studios-2027h2",
@@ -40,7 +40,7 @@
       "visaSponsor": "check",
       "verified": "official",
       "verifyNote": "Official MASS MoCA Studios page: Jul–Dec 2027 call live 1 Sep–1 Nov 2026.",
-      "addedAt": "2026-09-19T06:30:00Z"
+      "addedAt": "2026-09-20T08:48:00Z"
     }
   ]
 }
