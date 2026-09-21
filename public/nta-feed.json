@@ -1,7 +1,31 @@
 {
-  "fetchedAt": "2026-09-14T09:43:36.762Z",
+  "fetchedAt": "2026-09-21T09:47:34.275Z",
   "source": "live",
   "items": [
+    {
+      "id": "301eee509ee2f68dc6014898c309e86bf-uploads-2026-09-202609171984449363-pdf",
+      "kind": "result",
+      "title": "Declaration of results of UGC-NET June 2026 for 3 subjects– reg.",
+      "url": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/09/202609171984449363.pdf",
+      "published": "2026-09-17",
+      "source": "nta"
+    },
+    {
+      "id": "301eee509ee2f68dc6014898c309e86bf-uploads-2026-09-202609171798518057-pdf",
+      "kind": "key",
+      "title": "Display of Final Answer Keys of UGC-NET June 2026 for 3 Subjects– reg.",
+      "url": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/09/202609171798518057.pdf",
+      "published": "2026-09-17",
+      "source": "nta"
+    },
+    {
+      "id": "s301eee509ee2f68dc6014898c309e86bf-uploads-2026-09-20260917470201068-pdf",
+      "kind": "cutoff",
+      "title": "UGC-NET Exam June-2026, (Re-Exam) Subjects Category Wise Cut off Marks",
+      "url": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/09/20260917470201068.pdf",
+      "published": "2026-09-17",
+      "source": "nta"
+    },
     {
       "id": "301eee509ee2f68dc6014898c309e86bf-uploads-2026-09-202609101788985717-pdf",
       "kind": "key",
@@ -72,30 +96,6 @@
       "title": "Public Notice regarding Challenge of Provisional Answer Keys for UGC-NET June 2026",
       "url": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/08/20260816809171641.pdf",
       "published": "2026-08-16",
-      "source": "nta"
-    },
-    {
-      "id": "301eee509ee2f68dc6014898c309e86bf-uploads-2026-08-202608101857573785-pdf",
-      "kind": "key",
-      "title": "Provisional Answer Key Public Notice UGC NET",
-      "url": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/08/202608101857573785.pdf",
-      "published": "2026-08-10",
-      "source": "nta"
-    },
-    {
-      "id": "s301eee509ee2f68dc6014898c309e86bf-uploads-2026-06-20260622477163215-pdf",
-      "kind": "notice",
-      "title": "Public Notice dated: 22.06.2026",
-      "url": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/06/20260622477163215.pdf",
-      "published": "2026-06-22",
-      "source": "nta"
-    },
-    {
-      "id": "s301eee509ee2f68dc6014898c309e86bf-uploads-2026-06-20260618603677570-pdf",
-      "kind": "notice",
-      "title": "Public Notice regarding opening of Portal for Submitting Scribe Details by the PwDPwBD Candidates of UGC-NET June 2026 exam",
-      "url": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/06/20260618603677570.pdf",
-      "published": "2026-06-18",
       "source": "nta"
     }
   ]
