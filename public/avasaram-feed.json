@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T08:48:00Z",
+  "updatedAt": "2026-09-21T00:50:00Z",
   "items": [
     {
       "id": "p-hfbk-hamburg-phd-practice-2027",
@@ -41,6 +41,26 @@
       "verified": "official",
       "verifyNote": "Official MASS MoCA Studios page: Jul–Dec 2027 call live 1 Sep–1 Nov 2026.",
       "addedAt": "2026-09-20T08:48:00Z"
+    },
+    {
+      "id": "t-kpsc-artist-ipr-130-2026",
+      "title": "Kerala PSC — Artist (Information and Public Relations)",
+      "org": "Kerala Public Service Commission",
+      "country": "IN",
+      "location": "Kerala (Statewide)",
+      "deadline": "2026-10-07",
+      "deadlineType": "fixed",
+      "deadlineNote": "07 Oct 2026, 12 Midnight",
+      "category": "artist",
+      "funding": "₹35,600 – 75,400/- scale of pay",
+      "eligibility": "Diploma in Drawing and Painting (MGTE or KGTE) or any equivalent qualification. Age 19–43 (born 02.01.1983–01.01.2007) with usual SC/ST/OBC relaxation.",
+      "howToApply": "Online only via One Time Registration on www.keralapsc.gov.in. No application fee.",
+      "url": "https://www.keralapsc.gov.in/sites/default/files/2026-08/noti-130-26.pdf",
+      "officialUrl": "https://www.keralapsc.gov.in/notifications",
+      "visaSponsor": "n/a",
+      "verified": "official",
+      "verifyNote": "Official KPSC Extraordinary Gazette Cat. No. 130/2026, last date 07.10.2026. Anticipated vacancies, Direct Recruitment.",
+      "addedAt": "2026-09-21T00:50:00Z"
     }
   ]
 }
