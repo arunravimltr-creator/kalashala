@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T10:00:00Z",
+  "updatedAt": "2026-09-24T01:00:00Z",
   "items": [
     {
       "id": "p-hfbk-hamburg-phd-practice-2027",
@@ -109,6 +109,24 @@
       "visaSponsor": "na",
       "verified": "official",
       "addedAt": "2026-09-23T09:55:00Z"
+    },
+    {
+      "id": "r-hbk-braunschweig-projects-2027",
+      "title": "HBK Braunschweig — Braunschweig Projects Visual Arts Fellowships 2027/28",
+      "org": "HBK Braunschweig",
+      "country": "DE",
+      "location": "Braunschweig, Germany",
+      "deadline": "2026-10-04",
+      "deadlineType": "fixed",
+      "deadlineNote": "4 Oct 2026, 23:59. Email application.",
+      "category": "residency",
+      "funding": "€1,600/month stipend + rent-free studio apartment (fellow pays €250/month incidental). Project/travel allowance.",
+      "eligibility": "Completed art degree after 1 Apr 2016 and before 1 Apr 2023. Extensive artistic practice and exhibition participation. No concurrent regular third-party payments.",
+      "url": "https://www.hbk-bs.de/bs-projects-english/call-and-application-1/",
+      "officialUrl": "https://www.hbk-bs.de/bs-projects-english/call-and-application-1/",
+      "visaSponsor": "check",
+      "verified": "official",
+      "addedAt": "2026-09-24T01:00:00Z"
     }
   ]
 }
