@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T01:00:00Z",
+  "updatedAt": "2026-09-25T00:45:00Z",
   "items": [
     {
       "id": "p-hfbk-hamburg-phd-practice-2027",
@@ -127,6 +127,24 @@
       "visaSponsor": "check",
       "verified": "official",
       "addedAt": "2026-09-24T01:00:00Z"
+    },
+    {
+      "id": "r-art-explora-cite-2027",
+      "title": "Art Explora × Cité internationale des arts — Residency Programme 2027",
+      "org": "Art Explora / Cité internationale des arts",
+      "country": "FR",
+      "location": "Paris, France (Montmartre)",
+      "deadline": "2026-10-30",
+      "deadlineType": "fixed",
+      "deadlineNote": "30 Oct 2026, 23:59 (Europe/Paris). Applications open 21 Sep 2026.",
+      "category": "residency",
+      "funding": "€1,000/month living stipend + up to €3,000 production grant + furnished studio apt (~50 m²) + round-trip to Paris. 3 or 6 months (SOLO) / 3 months (COLLECTIVE).",
+      "eligibility": "Visual/performing/digital artists (or collectives/artist+researcher). Min. 5 years professional experience + international exhibition track record. All nationalities, no age limit. Project on art/science, social/ecological issues preferred.",
+      "url": "https://www.artexplora.org/en/the-artists-residencies-programme-presentation",
+      "officialUrl": "https://www.citeinternationaledesarts.fr/en/appels-a-candidature/art-explora-x-cite-internationale-des-arts/",
+      "visaSponsor": "check",
+      "verified": "official",
+      "addedAt": "2026-09-25T00:45:00Z"
     }
   ]
 }
