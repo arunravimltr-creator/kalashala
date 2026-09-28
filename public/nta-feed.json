@@ -1,7 +1,15 @@
 {
-  "fetchedAt": "2026-09-21T09:47:34.275Z",
+  "fetchedAt": "2026-09-28T10:44:30.453Z",
   "source": "live",
   "items": [
+    {
+      "id": "s301eee509ee2f68dc6014898c309e86bf-uploads-2026-09-20260924982245914-pdf",
+      "kind": "notice",
+      "title": "Public Notice regarding Issuance of e-Certificates for UGC-NET June 2026 Examination",
+      "url": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/09/20260924982245914.pdf",
+      "published": "2026-09-24",
+      "source": "nta"
+    },
     {
       "id": "301eee509ee2f68dc6014898c309e86bf-uploads-2026-09-202609171984449363-pdf",
       "kind": "result",
@@ -87,14 +95,6 @@
       "kind": "notice",
       "title": "Public Notice Re-conduct of the English, Commerce and Sociology papers",
       "url": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/08/202608161987098773.pdf",
-      "published": "2026-08-16",
-      "source": "nta"
-    },
-    {
-      "id": "s301eee509ee2f68dc6014898c309e86bf-uploads-2026-08-20260816809171641-pdf",
-      "kind": "key",
-      "title": "Public Notice regarding Challenge of Provisional Answer Keys for UGC-NET June 2026",
-      "url": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/08/20260816809171641.pdf",
       "published": "2026-08-16",
       "source": "nta"
     }
