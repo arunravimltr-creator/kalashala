@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T00:45:00Z",
+  "updatedAt": "2026-09-28T00:45:00Z",
   "items": [
     {
       "id": "p-hfbk-hamburg-phd-practice-2027",
@@ -145,6 +145,24 @@
       "visaSponsor": "check",
       "verified": "official",
       "addedAt": "2026-09-25T00:45:00Z"
+    },
+    {
+      "id": "r-camargo-fellowship-2027-28",
+      "title": "Camargo Foundation — Camargo Fellowship 2027–2028",
+      "org": "Camargo Foundation",
+      "country": "FR",
+      "location": "Cassis, France",
+      "deadline": "2026-10-01",
+      "deadlineType": "fixed",
+      "deadlineNote": "1 Oct 2026, 23:59 CET / 17:59 EST. Research-based residency.",
+      "category": "residency",
+      "funding": "€350/week stipend (€3,500 total) + basic return travel + furnished apartment + studio/workspace. 10 weeks.",
+      "eligibility": "Visual artists (and other disciplines) with at least 5 years professional practice and mature body of work (exhibitions etc.). Research-focused, not production-heavy. All nationalities. Fall 2027 or Spring 2028 slots.",
+      "url": "https://camargofoundation.org/en/camargo-fellowship-2026-2027",
+      "officialUrl": "https://camargofoundation.org/en/camargo-fellowship-2026-2027",
+      "visaSponsor": "check",
+      "verified": "official",
+      "addedAt": "2026-09-28T00:45:00Z"
     }
   ]
 }
