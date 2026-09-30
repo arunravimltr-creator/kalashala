@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T00:45:00Z",
+  "updatedAt": "2026-09-30T00:45:00Z",
   "items": [
     {
       "id": "p-hfbk-hamburg-phd-practice-2027",
@@ -163,6 +163,42 @@
       "visaSponsor": "check",
       "verified": "official",
       "addedAt": "2026-09-28T00:45:00Z"
+    },
+    {
+      "id": "t-visva-bharati-kala-advt-03-2026",
+      "title": "Visva-Bharati Kala Bhavana — Associate Professor Painting (OBC) + Assistant Professor Graphic Art (UR)",
+      "org": "Visva-Bharati",
+      "country": "IN",
+      "location": "Santiniketan, West Bengal",
+      "deadline": "2026-10-31",
+      "deadlineType": "fixed",
+      "deadlineNote": "31 Oct 2026, 23:59. Advt. No. 03/2026 dated 28.09.2026. Apply via Samarth Chayan.",
+      "category": "teach",
+      "funding": "7th CPC. Assoc. Prof Level 13A; Asst. Prof Level 10 ₹57,700–1,82,400.",
+      "eligibility": "UGC 2018 visual-arts path. Professional-artist route exists for painting/graphic art; NET usually required on academic path. Check PDF for Path B wording.",
+      "url": "https://www.visvabharati.ac.in/home/wp-content/uploads/2026/09/Advt.-03-2026-dated-28.09.2026.pdf",
+      "officialUrl": "https://www.visvabharati.ac.in/home/all-careers/",
+      "visaSponsor": "na",
+      "verified": "official",
+      "addedAt": "2026-09-30T00:45:00Z"
+    },
+    {
+      "id": "r-goyki3-air-2027",
+      "title": "Goyki 3 Art Inkubator — AiR Goyki 3 2027 (visual arts / literature)",
+      "org": "Goyki 3 Art Inkubator",
+      "country": "PL",
+      "location": "Sopot, Poland",
+      "deadline": "2026-10-14",
+      "deadlineType": "fixed",
+      "deadlineNote": "14 Oct 2026. Spring 5 Apr–5 Jun 2027 or Autumn 13 Sep–13 Nov 2027. Two months.",
+      "category": "residency",
+      "funding": "Spring: free housing + PLN 2,000 project. Autumn: up to PLN 10,000 stipend + PLN 2,000 project. Travel not covered separately. Studio + curatorial support.",
+      "eligibility": "Contemporary visual artists and literary creators. International. Research-based projects connected to Sopot / Goyki 3. Duos allowed.",
+      "url": "https://goyki3.pl/open-call-do-air-goyki-3/",
+      "officialUrl": "https://goyki3.pl/open-call-do-air-goyki-3/",
+      "visaSponsor": "check",
+      "verified": "official",
+      "addedAt": "2026-09-30T00:45:00Z"
     }
   ]
 }
