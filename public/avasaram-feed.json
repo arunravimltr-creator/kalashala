@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T20:05:00Z",
+  "updatedAt": "2026-10-01T00:45:00Z",
   "items": [
     {
       "id": "p-hfbk-hamburg-phd-practice-2027",
@@ -208,6 +208,42 @@
       "verified": "official",
       "verifyNote": "Official PKF page. Rolling, no deadline. Confirmed 1 Oct 2026.",
       "addedAt": "2026-09-30T20:05:00Z"
+    },
+    {
+      "id": "r-banff-leighton-solo-2027-28",
+      "title": "Banff Centre — Leighton Artist Studio Residency: Solo 2027–28",
+      "org": "Banff Centre for Arts and Creativity",
+      "country": "CA",
+      "location": "Banff, Alberta, Canada",
+      "deadline": "2026-10-14",
+      "deadlineType": "fixed",
+      "category": "residency",
+      "funding": "Banff Centre Arts Scholarship applied; participant cost about CAD $979.97 per week after scholarship. Single room + meals + studio. Named scholarships limited.",
+      "eligibility": "Degree: not stated. Who: domestic and international creative professionals 18+ with a demonstrated record and a defined project; visual arts include drawing, painting, digital art, multimedia. Not eligible if you attended a Leighton Studio residency in the past three years. IELTS: not stated. NET: not required. Language: English (work in another language should include a translation sample). Age: 18+. Fee: application CAD $65 ($35 Indigenous). Participant cost after scholarship about CAD $979.97 per week; longer stays calculated on acceptance. Visa: visitor visa; Banff programmes do not qualify for a Canadian student visa. Applicant must arrange IRCC visitor entry.",
+      "url": "https://www.banffcentre.ca/programs/interdisciplinary-leighton-artists-studios/leighton-artist-studio-residency-solo-2027-28",
+      "officialUrl": "https://www.banffcentre.ca/programs/interdisciplinary-leighton-artists-studios/leighton-artist-studio-residency-solo-2027-28",
+      "visaSponsor": "visitor",
+      "verified": "official",
+      "verifyNote": "Official Banff Centre page. Deadline 14 Oct 2026 confirmed 1 Oct 2026.",
+      "addedAt": "2026-10-01T00:45:00Z"
+    },
+    {
+      "id": "g-hopper-prize-fall-2026",
+      "title": "Hopper Prize — Fall 2026 artist grants",
+      "org": "The Hopper Prize",
+      "country": "US",
+      "location": "International (online)",
+      "deadline": "2026-11-17",
+      "deadlineType": "fixed",
+      "category": "artist",
+      "funding": "2 grants of $4,500 and 4 grants of $1,000 (USD, unrestricted). 30-artist shortlist archived on hopperprize.org.",
+      "eligibility": "Degree: not required. Who: all artists age 18+ worldwide, any visual media including painting. IELTS: not required. NET: not required. Language: not stated. Age: 18+. Fee: $40 submission fee. Visa: na (grant, not a visa post).",
+      "url": "https://hopperprize.org/",
+      "officialUrl": "https://hopperprize.org/",
+      "visaSponsor": "na",
+      "verified": "official",
+      "verifyNote": "Official hopperprize.org open for Fall cycle; deadline 17 Nov 2026 confirmed via official apply page plus Colossal 28 Sep 2026 listing.",
+      "addedAt": "2026-10-01T00:45:00Z"
     }
   ]
 }
