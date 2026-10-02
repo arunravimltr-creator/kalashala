@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T05:00:00Z",
+  "updatedAt": "2026-10-02T00:45:00Z",
   "items": [
     {
       "id": "p-hfbk-hamburg-phd-practice-2027",
@@ -244,6 +244,42 @@
       "verified": "official",
       "verifyNote": "Official hopperprize.org. Deadline 17 Nov 2026.",
       "addedAt": "2026-10-01T00:45:00Z"
+    },
+    {
+      "id": "r-est-nord-est-2027-28",
+      "title": "Est-Nord-Est — artist residencies 2027–2028",
+      "org": "Est-Nord-Est",
+      "country": "CA",
+      "location": "Saint-Jean-Port-Joli, Quebec, Canada",
+      "deadline": "2026-11-08",
+      "deadlineType": "fixed",
+      "category": "residency",
+      "funding": "Fund: partial\nApplication fee: not stated\nProgramme fee: none\nTravel: you pay\nStay: covered (individual studio that is also housing)\nLiving: residency fee CAD $2,080. Materials and other subsistence you pay\nYou pay in total: your travel, materials, and living above the CAD $2,080. Application fee not stated. Not fully funded.",
+      "eligibility": "Degree: not stated. Who: professional visual artists, emerging or established, Quebec, Canada, and international. Summer 2027 session gives priority to artists of African descent, and also welcomes anyone whose practice fits the theme. IELTS: not stated. NET: not required. Language: French or English. Age: not stated.",
+      "url": "https://estnordest.org/residence-artistes/regulier/",
+      "officialUrl": "https://estnordest.org/residence-artistes/regulier/",
+      "visaSponsor": "check",
+      "verified": "official",
+      "verifyNote": "Official ENE page. Deadline 8 Nov 2026, 23:59 ET. 8 weeks. Spring, summer, fall 2027 or winter 2028.",
+      "addedAt": "2026-10-02T00:45:00Z"
+    },
+    {
+      "id": "r-bogliasco-fall-2027",
+      "title": "Bogliasco Foundation — Fellowship, Fall 2027 (Spring 2028 also open)",
+      "org": "Bogliasco Foundation",
+      "country": "IT",
+      "location": "Bogliasco, Italy",
+      "deadline": "2026-12-01",
+      "deadlineType": "fixed",
+      "category": "residency",
+      "funding": "Fund: partial\nApplication fee: $30 up to one week before the deadline, then $45 until the final deadline\nProgramme fee: none\nTravel: you pay\nStay: covered (room)\nLiving: board covered. Personal expenses and materials you pay\nYou pay in total: $30 if you apply by 24 Nov 2026, or $45 until 1 Dec 2026, plus your travel, materials, and personal costs. Room and board are covered. A partner staying with you is charged $35 a day.",
+      "eligibility": "Degree: not a student in a degree programme. Who: visual artists and other arts/humanities fields, any nationality, any age. Preference for people comfortable in a small international community. Previous fellows must wait five years. IELTS: not stated. NET: not required. Language: conversational English. Age: not stated.",
+      "url": "https://www.bfny.org/en/apply/requirements",
+      "officialUrl": "https://www.bfny.org/en/apply/requirements",
+      "visaSponsor": "check",
+      "verified": "official",
+      "verifyNote": "Official requirements page. Portal open. Fall 2027 deadline 1 Dec 2026. Spring 2028 deadline 11 Mar 2027.",
+      "addedAt": "2026-10-02T00:45:00Z"
     }
   ]
 }
