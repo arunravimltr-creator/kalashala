@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T00:45:00Z",
+  "updatedAt": "2026-10-03T00:45:00Z",
   "items": [
     {
       "id": "p-hfbk-hamburg-phd-practice-2027",
@@ -280,6 +280,60 @@
       "verified": "official",
       "verifyNote": "Official requirements page. Portal open. Fall 2027 deadline 1 Dec 2026. Spring 2028 deadline 11 Mar 2027.",
       "addedAt": "2026-10-02T00:45:00Z"
+    },
+    {
+      "id": "r-hiap-learning-materials-intl-2027",
+      "title": "HIAP — Learning Materials International Artist in Residence 2027",
+      "org": "HIAP / Kone Foundation (Learning Materials)",
+      "country": "FI",
+      "location": "Suomenlinna, Helsinki, Finland",
+      "deadline": "2026-10-26",
+      "deadlineType": "fixed",
+      "category": "residency",
+      "funding": "Fund: fully funded\nApplication fee: not stated\nProgramme fee: none\nTravel: covered (1 return trip; visa application fees and visa-office travel also budgeted)\nStay: covered (furnished apartment and workspace)\nLiving: covered (working grant €1,350/month, €4,050 total, via Kone Foundation). Material budget up to €750. Access budget up to €1,000 only if disabled\nYou pay in total: not stated",
+      "eligibility": "Degree: not stated. Who: artists and arts practitioners living and working outside Finland, with demonstrated material and socially engaged practice. Collectives may apply but the grant pays one person only. Family welcome in a small apartment (up to 2 adults and 1 child). IELTS: not required. NET: not required. Language: English. Age: not stated.",
+      "url": "https://www.hiap.fi/open-call/open-call-learning-materials-international-artist-in-residence-2027/",
+      "officialUrl": "https://www.hiap.fi/open-call/open-call-learning-materials-international-artist-in-residence-2027/",
+      "visaSponsor": "check",
+      "verified": "official",
+      "verifyNote": "Official HIAP page. Deadline 26 Oct 2026, 15:00 GMT+2. Spring 12 Apr–11 Jul 2027 or autumn 16 Aug–14 Nov 2027.",
+      "addedAt": "2026-10-03T00:45:00Z"
+    },
+    {
+      "id": "g-acc-ny-fellowship-2027",
+      "title": "Asian Cultural Council — New York Fellowship 2027 cycle",
+      "org": "Asian Cultural Council",
+      "country": "US",
+      "location": "New York, United States",
+      "deadline": "2026-11-10",
+      "deadlineType": "fixed",
+      "category": "artist",
+      "funding": "Fund: fully funded\nApplication fee: not stated\nProgramme fee: none\nTravel: covered inside the grant (USD 3,000 advance includes examples such as the USD 185 DS-160 visa fee and airfare)\nStay: covered if you take International House; those fees are deducted from the grant (about USD 19,400–20,600 for six months). Own housing is your arrangement\nLiving: USD 38,000 grant for six months. After SEVIS USD 220, insurance about USD 675–800, and housing choice, ACC says USD 10,000–31,100 remains after arrival\nYou pay in total: not stated",
+      "eligibility": "Degree: not required. Who: Indian citizens or permanent residents, visual artists with at least 5 years of practice. US citizens are not eligible. Age: 21+ by the start. No paid work, teaching, or university study during the fellowship. IELTS: not stated; English ability is required for the J-1 visa. NET: not required. Language: English.",
+      "url": "https://www.asianculturalcouncil.org/grant-opportunities",
+      "officialUrl": "https://www.asianculturalcouncil.org/grant-opportunities",
+      "visaSponsor": "J-1",
+      "verified": "official",
+      "verifyNote": "Official ACC page. Applications open. Due 10 Nov 2026, 09:59 ET. Letters due 16 Nov 2026. Cohorts Jan–Jun 2028 or Jul–Dec 2028. Not a production grant.",
+      "addedAt": "2026-10-03T00:45:00Z"
+    },
+    {
+      "id": "g-acc-individual-fellowship-2027",
+      "title": "Asian Cultural Council — Individual Fellowship 2027 cycle",
+      "org": "Asian Cultural Council",
+      "country": "US",
+      "location": "Asia or United States (self-designed, 1–6 months)",
+      "deadline": "2026-11-10",
+      "deadlineType": "fixed",
+      "category": "artist",
+      "funding": "Fund: fully funded\nApplication fee: not stated\nProgramme fee: none\nTravel: covered if in the approved budget (economy airfare and ground transport)\nStay: covered if accommodation is in the approved budget\nLiving: covered if daily expenses are in the approved budget. Award up to USD 35,000. For a US trip ACC deducts USD 220 SEVIS; the grantee pays the USD 185 J-1 visa fee (budget may include visa costs). Asia travel insurance is bought by the fellow\nYou pay in total: not stated",
+      "eligibility": "Degree: not required. Who: Indian citizens or permanent residents, visual artists with at least 5 years of practice. Travel must be to an ACC-eligible place that is new or less familiar, including other parts of Asia or the US. Not a production residency and not only one event. Age: not stated. IELTS: not stated; English required if the J-1 US route is used. NET: not required. Language: enough for the destination, or budget an interpreter.",
+      "url": "https://www.asianculturalcouncil.org/grant-opportunities",
+      "officialUrl": "https://www.asianculturalcouncil.org/grant-opportunities",
+      "visaSponsor": "check",
+      "verified": "official",
+      "verifyNote": "Official ACC page. Same cycle as the New York Fellowship but a different grant. Due 10 Nov 2026, 09:59 ET. Activities 1 Aug 2027–31 Dec 2028. One application only per cycle.",
+      "addedAt": "2026-10-03T00:45:00Z"
     }
   ]
 }
