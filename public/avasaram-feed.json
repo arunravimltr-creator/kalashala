@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T00:50:00Z",
+  "updatedAt": "2026-10-05T00:45:00Z",
   "items": [
     {
       "id": "p-hfbk-hamburg-phd-practice-2027",
@@ -104,7 +104,8 @@
       "officialUrl": "https://ktet.kerala.gov.in",
       "visaSponsor": "na",
       "verified": "official",
-      "addedAt": "2026-09-23T09:55:00Z"
+      "addedAt": "2026-09-23T09:55:00Z",
+      "verifyNote": "Deadline 3 Oct 2026 has passed. Left on the card so it is not re-added."
     },
     {
       "id": "r-hbk-braunschweig-projects-2027",
@@ -121,7 +122,8 @@
       "officialUrl": "https://www.hbk-bs.de/bs-projects-english/call-and-application-1/",
       "visaSponsor": "check",
       "verified": "official",
-      "addedAt": "2026-09-24T01:00:00Z"
+      "addedAt": "2026-09-24T01:00:00Z",
+      "verifyNote": "Official call. Deadline 4 Oct 2026 has passed."
     },
     {
       "id": "r-art-explora-cite-2027",
@@ -410,6 +412,60 @@
       "verified": "official",
       "verifyNote": "Official Bunnell page. Open call 1 Sep–15 Oct 2026 via callforentry.org. Cost figures not on that page. Confirmed 4 Oct 2026.",
       "addedAt": "2026-10-04T00:50:00Z"
+    },
+    {
+      "id": "r-factory-willow-air-2027",
+      "title": "The Factory on Willow — Artist in Residence 2027",
+      "org": "The Factory on Willow",
+      "country": "US",
+      "location": "Manchester, New Hampshire",
+      "deadline": "2026-12-31",
+      "deadlineType": "rolling",
+      "category": "residency",
+      "funding": "Fund: partial\nApplication fee: free\nProgramme fee: none\nTravel: $350 stipend. You pay the rest of the fare from India\nStay: covered (studio apartment, utilities and internet)\nLiving: $1,600 stipend for food and art supplies for the stay. Anything above that you pay\nYou pay in total: $0 to apply. Airfare above $350, plus living and materials above $1,600. One artwork made in residence is donated to the Factory collection.",
+      "eligibility": "Degree: not required. Who: emerging and amateur visual artists, all nationalities; advanced-career artists may be too senior. IELTS: not required. NET: not required. Language: English. Age: not stated. Sessions March–May, June–August, September–November 2027, up to 12 weeks.",
+      "url": "https://www.factoryonwillow.com/air",
+      "officialUrl": "https://www.factoryonwillow.com/air",
+      "visaSponsor": "check",
+      "verified": "official",
+      "verifyNote": "Official Factory on Willow AIR page, confirmed 5 Oct 2026. No applicant fee. Deadline is rolling; spots fill. Travel stipend is $350, not a full fare.",
+      "addedAt": "2026-10-05T00:45:00Z"
+    },
+    {
+      "id": "g-material-works-award-2026",
+      "title": "Material Works Art Award 2026",
+      "org": "Material Works Art",
+      "country": "US",
+      "location": "International (online)",
+      "deadline": "2026-12-06",
+      "deadlineType": "fixed",
+      "category": "artist",
+      "funding": "Fund: application fee only\nApplication fee: $40\nProgramme fee: none\nTravel: not a residency\nStay: not provided\nLiving: one award of $2,500, paid in exchange for an original artwork of similar value. Shipping of that work is covered by Material Works\nYou pay in total: $40 to apply, plus the artwork you give if selected.",
+      "eligibility": "Degree: not required. Who: visual artists worldwide in painting, sculpture, drawing, printmaking, photography, installation, mixed media, experimental and conceptual work. Film and time-based media not accepted. IELTS: not required. NET: not required. Language: English application. Age: 18+.",
+      "url": "https://materialworksart.com/main",
+      "officialUrl": "https://materialworksart.com/main",
+      "visaSponsor": "na",
+      "verified": "official",
+      "verifyNote": "Official Material Works page, confirmed 5 Oct 2026. Closes 6 Dec 2026 or at the first 300 applications.",
+      "addedAt": "2026-10-05T00:45:00Z"
+    },
+    {
+      "id": "g-meridian-award-cycle2-2026",
+      "title": "Meridian Award — cycle 2, $1,000 unrestricted prize",
+      "org": "The Meridian Award",
+      "country": "US",
+      "location": "International (online)",
+      "deadline": "2026-10-15",
+      "deadlineType": "fixed",
+      "category": "artist",
+      "funding": "Fund: application fee only\nApplication fee: $25\nProgramme fee: none\nTravel: none\nStay: none\nLiving: one unrestricted cash prize of $1,000 if selected\nYou pay in total: $25 to apply. Fee is non-refundable.",
+      "eligibility": "Degree: not required. Who: contemporary artists worldwide, any medium except short films and feature films. IELTS: not required. NET: not required. Language: English application. Age: not stated.",
+      "url": "https://www.meridianaward.com/about",
+      "officialUrl": "https://www.meridianaward.com/about",
+      "visaSponsor": "na",
+      "verified": "official",
+      "verifyNote": "Official Meridian Award page, confirmed 5 Oct 2026. Regular deadline 15 Oct 2026. Fee $25.",
+      "addedAt": "2026-10-05T00:45:00Z"
     }
   ]
 }
