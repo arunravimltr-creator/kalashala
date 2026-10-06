@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T00:45:00Z",
+  "updatedAt": "2026-10-06T00:50:00Z",
   "items": [
     {
       "id": "p-hfbk-hamburg-phd-practice-2027",
@@ -466,6 +466,62 @@
       "verified": "official",
       "verifyNote": "Official Meridian Award page, confirmed 5 Oct 2026. Regular deadline 15 Oct 2026. Fee $25.",
       "addedAt": "2026-10-05T00:45:00Z"
+    },
+    {
+      "id": "r-swatch-art-peace-hotel-rolling",
+      "title": "Swatch Art Peace Hotel — artist residency (rolling)",
+      "org": "Swatch Art Peace Hotel",
+      "country": "CN",
+      "location": "Shanghai, China",
+      "deadline": "2026-12-31",
+      "deadlineType": "rolling",
+      "category": "residency",
+      "funding": "Fund: partial\nApplication fee: 30 Swiss francs (donated to Médecins Sans Frontières)\nProgramme fee: none\nTravel: covered (economy round trip, booked by Swatch)\nStay: covered (furnished apartment and workshop, 3–6 months)\nLiving: you pay. No stipend\nYou pay in total: CHF 30 to apply, plus your own living costs in Shanghai, plus any visa fee above the CHF 300 Swatch may pay toward the visa.",
+      "eligibility": "Degree: not stated. Who: artists worldwide, known or emerging. IELTS: not stated. NET: not required. Language: application in English only. Age: not stated. Visa: business visa; Swatch gives an invitation and up to CHF 300 toward the visa fee.",
+      "url": "https://www.swatch-art-peace-hotel.com/apply",
+      "officialUrl": "https://www.swatch-art-peace-hotel.com/what-you-get",
+      "visaSponsor": "check",
+      "phdType": null,
+      "verified": "official",
+      "verifyNote": "Official apply and what-you-get pages. No deadline. No stipend. Confirmed 6 Oct 2026.",
+      "addedAt": "2026-10-06T00:50:00Z"
+    },
+    {
+      "id": "r-wsw-artists-book-grant-2027",
+      "title": "Women's Studio Workshop — Artist's Book Residency Grant",
+      "org": "Women's Studio Workshop",
+      "country": "US",
+      "location": "Rosendale, New York",
+      "deadline": "2026-11-15",
+      "deadlineType": "fixed",
+      "category": "residency",
+      "funding": "Fund: partial\nApplication fee: not stated\nProgramme fee: none\nTravel: up to $250 only inside the continental US. Travel from India you pay\nStay: covered (free onsite housing)\nLiving: stipend $350/week. Materials up to $1,000\nYou pay in total: application fee not stated. Airfare from India is yours. Living above the weekly stipend is yours. A physical book mock-up must also be mailed.",
+      "eligibility": "Degree: not stated. Who: artists making a limited-edition book; international applicants have been accepted on the form. IELTS: not stated. NET: not required. Language: English application. Age: not stated. Residency 8–10 weeks, September–June the year after application.",
+      "url": "https://wsworkshop.org/residencies/artists-book-residency-grant/",
+      "officialUrl": "https://wsworkshop.org/residencies/artists-book-residency-grant/",
+      "visaSponsor": "check",
+      "phdType": null,
+      "verified": "official",
+      "verifyNote": "Official WSW page. Deadline 15 Nov 2026, 11:59pm EST. Confirmed 6 Oct 2026.",
+      "addedAt": "2026-10-06T00:50:00Z"
+    },
+    {
+      "id": "r-banff-sounding-mountain-2027",
+      "title": "Banff Centre — Visual Arts: Sounding Like a Mountain",
+      "org": "Banff Centre for Arts and Creativity",
+      "country": "CA",
+      "location": "Banff, Alberta, Canada",
+      "deadline": "2026-11-18",
+      "deadlineType": "fixed",
+      "category": "residency",
+      "funding": "Fund: self-funded\nApplication fee: CAD $65 (CAD $35 Indigenous)\nProgramme fee: CAD $4,476.78 after the Banff Centre Arts Scholarship (full programme fee CAD $10,033.70)\nTravel: you pay\nStay: included in the participant cost, not free\nLiving: meals included in the participant cost\nYou pay in total: CAD $65 to apply, then CAD $4,476.78 plus airfare and a visitor visa if accepted. Named scholarships are limited and not guaranteed.",
+      "eligibility": "Degree: not stated. Who: domestic and international visual artists, 18+ at programme start (17 May–18 Jun 2027). IELTS: not stated. NET: not required. Language: English (French page also exists). Age: 18+. Visa: visitor, not a student visa.",
+      "url": "https://www.banffcentre.ca/programs/visual-arts/visual-arts-sounding-mountain",
+      "officialUrl": "https://www.banffcentre.ca/programs/visual-arts/visual-arts-sounding-mountain",
+      "visaSponsor": "visitor",
+      "verified": "official",
+      "verifyNote": "Official Banff page. Deadline 18 Nov 2026, 11:59pm MST. Costs stated after scholarship. Confirmed 6 Oct 2026.",
+      "addedAt": "2026-10-06T00:50:00Z"
     }
   ]
 }
