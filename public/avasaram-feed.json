@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T00:45:00Z",
+  "updatedAt": "2026-10-08T00:50:00Z",
   "items": [
     {
       "id": "p-hfbk-hamburg-phd-practice-2027",
@@ -617,6 +617,42 @@
       "verified": "official",
       "verifyNote": "Official Beam Center event page. Deadline 30 Nov 2026, 11:59pm EST. Single PDF.",
       "addedAt": "2026-10-07T00:45:00Z"
+    },
+    {
+      "id": "r-byrdcliffe-communal-2027",
+      "title": "Woodstock Byrdcliffe Guild — Summer 2027 Communal Residency",
+      "org": "Woodstock Byrdcliffe Guild",
+      "country": "US",
+      "location": "Woodstock, New York",
+      "deadline": "2026-11-23",
+      "deadlineType": "fixed",
+      "category": "residency",
+      "funding": "Fund: self-funded, unless a merit or need fellowship is awarded\nApplication fee: $30\nProgramme fee: $850 per monthly session (lodging). FAQ page also says $800; the communal fees section says $850\nTravel: you pay. A need-based travel stipend is possible only if the supplemental grant is awarded\nStay: covered only by the programme fee you pay\nLiving: you pay meals and materials. Arrival dinner is complimentary\nYou pay in total: $30 to apply, then $850 per session plus airfare, visa, food, and materials, unless a fellowship cuts the fee.",
+      "eligibility": "Degree: not stated. Who: visual, literary, and performing artists, all career stages, international welcome. IELTS: not stated. NET: not required. Language: English for the campus. Age: not stated. Visa: visitor, check.",
+      "url": "https://www.woodstockguild.org/communal-residencies/",
+      "officialUrl": "https://www.woodstockguild.org/communal-residencies/",
+      "visaSponsor": "check",
+      "verified": "official",
+      "verifyNote": "Official communal page. Priority review 16 Nov 2026. Closes 23 Nov 2026. Sessions May–Sep 2027.",
+      "addedAt": "2026-10-08T00:50:00Z"
+    },
+    {
+      "id": "r-arteles-way-beyond-2027",
+      "title": "Arteles — Way Beyond thematic residency, April or May 2027",
+      "org": "Arteles Creative Center",
+      "country": "FI",
+      "location": "Haukijärvi, Finland",
+      "deadline": "2026-10-29",
+      "deadlineType": "fixed",
+      "category": "residency",
+      "funding": "Fund: self-funded\nApplication fee: free\nProgramme fee: €1,950 regular, or €1,350 financially supported if selected for the limited reduced fee. Optional contributor fee €2,610. All include a €120 non-refundable registration fee paid only if selected\nTravel: you pay\nStay: private bedroom included in the programme fee\nLiving: you pay food and materials. Not stated as covered\nYou pay in total: €0 to apply. If selected, €1,350 or €1,950 plus your travel and living.",
+      "eligibility": "Degree: not stated. Who: emerging and professional artists and other creatives, all fields, international. IELTS: not stated. NET: not required. Language: English. Age: not stated. Visa: check.",
+      "url": "https://www.arteles.org/way_beyond_residency.html",
+      "officialUrl": "https://www.arteles.org/way_beyond_residency.html",
+      "visaSponsor": "check",
+      "verified": "official",
+      "verifyNote": "Official Arteles page. Deadline 29 Oct 2026, 23:59 UTC-10. Periods 2–30 Apr or 3–31 May 2027.",
+      "addedAt": "2026-10-08T00:50:00Z"
     }
   ]
 }
