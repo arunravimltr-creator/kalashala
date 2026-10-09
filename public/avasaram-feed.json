@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T00:50:00Z",
+  "updatedAt": "2026-10-09T00:45:00Z",
   "items": [
     {
       "id": "p-hfbk-hamburg-phd-practice-2027",
@@ -653,6 +653,60 @@
       "verified": "official",
       "verifyNote": "Official Arteles page. Deadline 29 Oct 2026, 23:59 UTC-10. Periods 2–30 Apr or 3–31 May 2027.",
       "addedAt": "2026-10-08T00:50:00Z"
+    },
+    {
+      "id": "r-dot-ateliers-accra-2027",
+      "title": "dot.ateliers — Artist Residency 2027, Accra",
+      "org": "dot.ateliers",
+      "country": "GH",
+      "location": "Accra, Ghana",
+      "deadline": "2026-10-12",
+      "deadlineType": "fixed",
+      "category": "residency",
+      "funding": "Fund: partial\nApplication fee: free\nProgramme fee: none\nTravel: covered to Accra; return fare not stated\nStay: accommodation covered\nLiving: you pay (daily upkeep and self-maintenance)\nYou pay in total: your living costs. Material stipend amount not stated. Return travel not stated.",
+      "eligibility": "Degree: not stated. Who: visual artists of all nationalities, 18+, emerging and established, individual applications only. IELTS: not stated. NET: not required. Language: English on the call page. Visa: check.",
+      "url": "https://www.dotateliers.space/apply",
+      "officialUrl": "https://www.dotateliers.space/apply",
+      "visaSponsor": "check",
+      "verified": "official",
+      "verifyNote": "Official apply page open until 12 Oct 2026, 23:59 GMT. FAQ confirms studio, accommodation, material stipend, travel to Accra; artist pays daily upkeep. FAQ still says notify by end of 2025 — treat that line as stale.",
+      "addedAt": "2026-10-09T00:45:00Z"
+    },
+    {
+      "id": "e-lendhauer-urban-ecologies-2027",
+      "title": "Lendhauer — Open Call 2027, Urban Ecologies: Coexistence and Control",
+      "org": "Lendhauer",
+      "country": "AT",
+      "location": "Lendhafen, Klagenfurt, Austria",
+      "deadline": "2026-11-02",
+      "deadlineType": "fixed",
+      "category": "exhibition",
+      "funding": "Fund: partial\nApplication fee: not stated (email PDF; no fee named)\nProgramme fee: none\nTravel: covered up to €1,000\nStay: not stated\nLiving: you pay. Artist fee up to €2,500 gross per project; production up to €4,000 gross\nYou pay in total: stay not stated. Travel above €1,000 is yours. Living above the fee is yours.",
+      "eligibility": "Degree: not stated. Who: individuals and collectives in Austria and abroad, including visual artists, designers, architects, performers, theorists. Site-specific public work at Lendhafen, June–September 2027. IELTS: not stated. NET: not required. Language: German or English call page. Visa: check.",
+      "url": "https://www.lendhafen.at/open-call-2027-urban-ecologies-coexistence-and-control/",
+      "officialUrl": "https://www.lendhafen.at/open-call-2027-urban-ecologies-coexistence-and-control/",
+      "visaSponsor": "check",
+      "verified": "official",
+      "verifyNote": "Official Lendhauer page. Email office@lendhauer.org by 2 Nov 2026. Results by end of December 2026.",
+      "addedAt": "2026-10-09T00:45:00Z"
+    },
+    {
+      "id": "r-a4-chengdu-intl-2028",
+      "title": "A4 Residency Art Center — International Residency Fellowship 2028 (Chengdu)",
+      "org": "A4 Art Museum / A4 Residency Art Center",
+      "country": "CN",
+      "location": "Chengdu, China",
+      "deadline": "2026-12-31",
+      "deadlineType": "fixed",
+      "category": "residency",
+      "funding": "Fund: fully funded track (Light Version is self-funded — do not choose that)\nApplication fee: not stated\nProgramme fee: none on the fellowship track\nTravel: covered within a set budget (economy airfare or 2nd-class train; budget figure not stated)\nStay: private workspace and living quarters covered\nLiving: not stated (no daily stipend named)\nYou pay in total: living costs not stated. Travel above the unnamed budget is yours. Production grant RMB 10,000 is provided, not a fee.",
+      "eligibility": "Degree: not stated. Who: multidisciplinary artists including visual arts, international. 2027 recruitment closed 30 Jun 2026; 2028 spring and autumn cycles still open. Materials in Chinese and English. IELTS: not stated. NET: not required. Language: Chinese and English required for the file. Visa: check.",
+      "url": "https://www.a4artmuseum.com/en/a4-residencyartcenter/residing/latest-recruitment/",
+      "officialUrl": "https://www.a4artmuseum.com/en/a4-residencyartcenter/residing/latest-recruitment/",
+      "visaSponsor": "check",
+      "verified": "official",
+      "verifyNote": "Official English page. Fellowship email a4residency@a4am.cn. About 8 weeks. Spring 2028 Apr–Jun; Autumn 2028 Jul–Oct.",
+      "addedAt": "2026-10-09T00:45:00Z"
     }
   ]
 }
