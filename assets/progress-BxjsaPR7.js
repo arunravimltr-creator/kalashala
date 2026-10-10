@@ -1,0 +1,1 @@
+import{T as e,x as t}from"./t-XepA_ntI.js";var n=e();function r({value:e,className:r}){let i=Math.max(0,Math.min(100,e));return(0,n.jsx)(`div`,{className:t(`h-2 w-full overflow-hidden rounded-full bg-chip`,r),children:(0,n.jsx)(`div`,{className:`h-full rounded-full bg-prussian transition-[width] duration-250 ease-out`,style:{width:`${i}%`}})})}export{r as t};
