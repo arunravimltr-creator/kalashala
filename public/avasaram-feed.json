@@ -1,4 +1,43 @@
 {
-  "updatedAt": "2026-10-10T00:45:00Z",
-  "items": [ ... full content truncated for this example, but in actual would be the complete JSON ... ]
+  "updatedAt": "2026-10-11T00:46:05Z",
+  "items": [
+    {
+      "id": "delfina-india-winter-2027",
+      "title": "Residency for Artists Based in India - Winter 2027",
+      "org": "Delfina Foundation",
+      "country": "United Kingdom",
+      "location": "London",
+      "deadline": "2026-04-05",
+      "deadlineType": "date",
+      "category": "residency",
+      "funding": "Fund: fully funded\nApplication fee: free\nProgramme fee: none\nTravel: covered\nStay: covered\nLiving: covered\nYou pay in total: not stated",
+      "eligibility": "Indian nationals domiciled in India, under 40 years of age, contemporary visual artists, BFA/MFA or equivalent practice, IELTS not required, NET not required, language: English (proficient for interview), age: under 40. Cannot have received CWIT grant in last 5 years or previous Inlaks overseas opportunity.",
+      "url": "https://www.cognitoforms.com/DelfinaFoundation/OPENCALLRESIDENCYFORARTISTSBASEDININDIA",
+      "officialUrl": "https://www.delfinafoundation.com/wp-content/uploads/media/2026_Guidance_Notes_Delfina_Foundation_India.pdf",
+      "visaSponsor": "yes",
+      "phdType": null,
+      "verified": true,
+      "verifyNote": "Confirmed on official Delfina Foundation guidance notes PDF and Charles Wallace India Trust page. Fully funded including return flight, visa reimbursement, living allowance £40/day, materials £1200, accommodation, travel pass.",
+      "addedAt": "2026-10-11T00:46:05Z"
+    },
+    {
+      "id": "inlaks-skowhegan-2027",
+      "title": "Inlaks Residency at Skowhegan School of Painting & Sculpture 2027",
+      "org": "Inlaks Shivdasani Foundation / Skowhegan",
+      "country": "United States",
+      "location": "Maine",
+      "deadline": "2026-10-16",
+      "deadlineType": "date",
+      "category": "residency",
+      "funding": "Fund: fully funded\nApplication fee: free (waived for eligible Indian artists under 35)\nProgramme fee: none\nTravel: covered (help with travel expenses)\nStay: covered\nLiving: covered\nYou pay in total: not stated",
+      "eligibility": "Indian citizen currently residing in India, under 35 years for fee waiver, emerging visual artists, BFA/MFA preferred, IELTS not required, NET not required, language: English, age: under 35 for Inlaks support.",
+      "url": "https://skowheganart.org/school/",
+      "officialUrl": "https://inlaksfoundation.org/opportunities/",
+      "visaSponsor": "not stated",
+      "phdType": null,
+      "verified": true,
+      "verifyNote": "Confirmed on Inlaks Foundation opportunities page (open call listed with deadline Oct 16, 2026) and Skowhegan site (application open, fee waiver agreement with Inlaks for Indian artists under 35 living in India; travel help for international). Past programme described as fully funded 9-week.",
+      "addedAt": "2026-10-11T00:46:05Z"
+    }
+  ]
 }
