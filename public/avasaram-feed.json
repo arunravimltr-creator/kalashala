@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T00:46:05Z",
+  "updatedAt": "2026-10-12T00:45:00Z",
   "items": [
     {
       "id": "delfina-india-winter-2027",
@@ -38,6 +38,44 @@
       "verified": true,
       "verifyNote": "Confirmed on Inlaks Foundation opportunities page (open call listed with deadline Oct 16, 2026) and Skowhegan site (application open, fee waiver agreement with Inlaks for Indian artists under 35 living in India; travel help for international). Past programme described as fully funded 9-week.",
       "addedAt": "2026-10-11T00:46:05Z"
+    },
+    {
+      "id": "artexplora-cite-2027",
+      "title": "Art Explora x Cité internationale des arts Residency Programme 2027",
+      "org": "Art Explora Foundation / Cité internationale des arts",
+      "country": "France",
+      "location": "Paris (Montmartre)",
+      "deadline": "2026-10-30",
+      "deadlineType": "date",
+      "category": "residency",
+      "funding": "Fund: fully funded\nApplication fee: free\nProgramme fee: none\nTravel: covered\nStay: covered\nLiving: covered\nYou pay in total: not stated",
+      "eligibility": "Artists of all nationalities and ages working in visual arts (painting, sculpture, etc.), performing or digital arts; minimum 5 years professional experience with international exhibition track record. Degree not stated. IELTS not required, NET not required. Language: English or French (for application). Age: no limit.",
+      "url": "https://artexplora.plateformecandidature.com/",
+      "officialUrl": "https://www.artexplora.org/en/the-artists-residencies-programme-presentation",
+      "visaSponsor": "not stated",
+      "phdType": null,
+      "verified": true,
+      "verifyNote": "Confirmed on official Art Explora programme page and Cité internationale des arts open call page. Fully funded: furnished studio-apartment ~50m², €1,000/month living stipend, production grant up to €3,000, round-trip travel to Paris. Applications open until 30 October 2026.",
+      "addedAt": "2026-10-12T00:45:00Z"
+    },
+    {
+      "id": "kiar-one-world-2026-27",
+      "title": "ONE WORLD Residency by KIAR",
+      "org": "Kalanirvana International Art Residency (KIAR)",
+      "country": "India",
+      "location": "Bhubaneswar, Odisha",
+      "deadline": "2026-10-15",
+      "deadlineType": "date",
+      "category": "residency",
+      "funding": "Fund: self-funded\nApplication fee: free\nProgramme fee: 850 USD for 15 days (single occupancy; higher for longer stays)\nTravel: you pay\nStay: covered\nLiving: you pay\nYou pay in total: programme fee + travel + meals (meals can be arranged ~15 USD/day)",
+      "eligibility": "Emerging to established visual artists (painting, sculpture, mixed media, etc.), any nationality, self-taught or graduates welcome. Degree not required. IELTS not required, NET not required. Language: English, Hindi. Age: 18+.",
+      "url": "https://kalanirvana.com/one-world-residency/",
+      "officialUrl": "https://kalanirvana.com/one-world-residency/",
+      "visaSponsor": "not stated",
+      "phdType": null,
+      "verified": true,
+      "verifyNote": "Confirmed on official KIAR One World Residency page. Self-funded with listed programme fees including accommodation and studio; artist pays air travel, visa, and meals. Invitation letter available. Apply at least 40 days before preferred start; open for Sept-March sessions.",
+      "addedAt": "2026-10-12T00:45:00Z"
     }
   ]
 }
