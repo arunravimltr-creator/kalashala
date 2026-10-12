@@ -1,7 +1,15 @@
 {
-  "fetchedAt": "2026-10-05T11:18:33.036Z",
+  "fetchedAt": "2026-10-12T11:47:22.712Z",
   "source": "live",
   "items": [
+    {
+      "id": "301eee509ee2f68dc6014898c309e86bf-uploads-2026-10-202610081928217016-pdf",
+      "kind": "register",
+      "title": "Opening of the online registration portal for submission of Online Application Form for UGC-NET December 2026 examination – reg",
+      "url": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/10/202610081928217016.pdf",
+      "published": "2026-10-08",
+      "source": "nta"
+    },
     {
       "id": "s301eee509ee2f68dc6014898c309e86bf-uploads-2026-09-20260924982245914-pdf",
       "kind": "notice",
@@ -11,91 +19,99 @@
       "source": "nta"
     },
     {
-      "id": "301eee509ee2f68dc6014898c309e86bf-uploads-2026-09-202609171984449363-pdf",
-      "kind": "result",
-      "title": "Declaration of results of UGC-NET June 2026 for 3 subjects– reg.",
-      "url": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/09/202609171984449363.pdf",
-      "published": "2026-09-17",
-      "source": "nta"
-    },
-    {
-      "id": "301eee509ee2f68dc6014898c309e86bf-uploads-2026-09-202609171798518057-pdf",
-      "kind": "key",
-      "title": "Display of Final Answer Keys of UGC-NET June 2026 for 3 Subjects– reg.",
-      "url": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/09/202609171798518057.pdf",
-      "published": "2026-09-17",
-      "source": "nta"
-    },
-    {
-      "id": "s301eee509ee2f68dc6014898c309e86bf-uploads-2026-09-20260917470201068-pdf",
-      "kind": "cutoff",
-      "title": "UGC-NET Exam June-2026, (Re-Exam) Subjects Category Wise Cut off Marks",
-      "url": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/09/20260917470201068.pdf",
-      "published": "2026-09-17",
-      "source": "nta"
-    },
-    {
-      "id": "301eee509ee2f68dc6014898c309e86bf-uploads-2026-09-202609101788985717-pdf",
-      "kind": "key",
-      "title": "Challenge of Provisional Answer Keys for UGC-NET June 2026 Re-Exam-reg.",
-      "url": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/09/202609101788985717.pdf",
-      "published": "2026-09-10",
-      "source": "nta"
-    },
-    {
-      "id": "s301eee509ee2f68dc6014898c309e86bf-uploads-2026-09-20260908411031566-pdf",
+      "id": "s301eee509ee2f68dc6014898c309e86bf-uploads-2026-06-20260622477163215-pdf",
       "kind": "notice",
-      "title": "Public Notice regarding Advisory to candidates appearing for UGC-NET Re-Examination at Centre in Delhi",
-      "url": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/09/20260908411031566.pdf",
-      "published": "2026-09-08",
+      "title": "Public Notice dated: 22.06.2026",
+      "url": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/06/20260622477163215.pdf",
+      "published": "2026-06-22",
       "source": "nta"
     },
     {
-      "id": "301eee509ee2f68dc6014898c309e86bf-uploads-2026-09-202609041872400707-pdf",
+      "id": "s301eee509ee2f68dc6014898c309e86bf-uploads-2026-06-20260618603677570-pdf",
+      "kind": "notice",
+      "title": "Public Notice regarding opening of Portal for Submitting Scribe Details by the PwDPwBD Candidates of UGC-NET June 2026 exam",
+      "url": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/06/20260618603677570.pdf",
+      "published": "2026-06-18",
+      "source": "nta"
+    },
+    {
+      "id": "301eee509ee2f68dc6014898c309e86bf-uploads-2026-06-202606172040939335-pdf",
       "kind": "admit",
-      "title": "Release of Admit Card for the UGC-NET June 2026 re-examination on 9th and 10th September 2026-reg",
-      "url": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/09/202609041872400707.pdf",
-      "published": "2026-09-04",
+      "title": "Public Notice regarding the release of Admit Card for the UGC-NET June 2026 examination",
+      "url": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/06/202606172040939335.pdf",
+      "published": "2026-06-17",
       "source": "nta"
     },
     {
-      "id": "301eee509ee2f68dc6014898c309e86bf-uploads-2026-09-202609011468275818-pdf",
+      "id": "301eee509ee2f68dc6014898c309e86bf-uploads-2026-06-202606101497583780-pdf",
       "kind": "city",
-      "title": "Advance Intimation for Allotment of Re-Examination City to the Applicants of UGC-NET June 2026-reg",
-      "url": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/09/202609011468275818.pdf",
-      "published": "2026-09-01",
+      "title": "Public Notice for Advance City Intimation of UGC-NET June 2026",
+      "url": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/06/202606101497583780.pdf",
+      "published": "2026-06-10",
       "source": "nta"
     },
     {
-      "id": "s301eee509ee2f68dc6014898c309e86bf-uploads-2026-08-20260828605740344-pdf",
-      "kind": "result",
-      "title": "Declaration of results of UGC-NET June 2026 – reg.",
-      "url": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/08/20260828605740344.pdf",
-      "published": "2026-08-28",
-      "source": "nta"
-    },
-    {
-      "id": "s301eee509ee2f68dc6014898c309e86bf-uploads-2026-08-20260828776295170-pdf",
-      "kind": "key",
-      "title": "Display of Final Answer Keys of UGC-NET June 2026 – reg.",
-      "url": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/08/20260828776295170.pdf",
-      "published": "2026-08-28",
-      "source": "nta"
-    },
-    {
-      "id": "s301eee509ee2f68dc6014898c309e86bf-uploads-2026-08-2026082829087103-pdf",
-      "kind": "cutoff",
-      "title": "UGC-NET Exam June-2026, (84) Subjects Category Wise Cut off Marks",
-      "url": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/08/2026082829087103.pdf",
-      "published": "2026-08-28",
-      "source": "nta"
-    },
-    {
-      "id": "301eee509ee2f68dc6014898c309e86bf-uploads-2026-08-202608161987098773-pdf",
+      "id": "301eee509ee2f68dc6014898c309e86bf-uploads-2026-06-202606061809556710-pdf",
       "kind": "notice",
-      "title": "Public Notice Re-conduct of the English, Commerce and Sociology papers",
-      "url": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/08/202608161987098773.pdf",
-      "published": "2026-08-16",
+      "title": "Public Notice regarding Subject-wise Scheduled of UGC-NET June 2026 Examination",
+      "url": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/06/202606061809556710.pdf",
+      "published": "2026-06-06",
+      "source": "nta"
+    },
+    {
+      "id": "s301eee509ee2f68dc6014898c309e86bf-uploads-2026-05-2026052749495430-pdf",
+      "kind": "notice",
+      "title": "Public Notice regarding Addition of Examination Cities and Expansion of City Choice Options for UGC-NET June 2026 Examination",
+      "url": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/05/2026052749495430.pdf",
+      "published": "2026-05-27",
+      "source": "nta"
+    },
+    {
+      "id": "301eee509ee2f68dc6014898c309e86bf-uploads-2026-05-202605261722361671-pdf",
+      "kind": "register",
+      "title": "Public Notice regarding Correction in particulars of the Online Application Form for UGC-NET June 2026",
+      "url": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/05/202605261722361671.pdf",
+      "published": "2026-05-26",
+      "source": "nta"
+    },
+    {
+      "id": "301eee509ee2f68dc6014898c309e86bf-uploads-2026-05-202605231648511527-pdf",
+      "kind": "register",
+      "title": "Further Extension of Last Date for submission of online application form for UGC-NET June 2026 examination",
+      "url": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/05/202605231648511527.pdf",
+      "published": "2026-05-23",
+      "source": "nta"
+    },
+    {
+      "id": "s301eee509ee2f68dc6014898c309e86bf-uploads-2026-05-20260522880877469-pdf",
+      "kind": "notice",
+      "title": "Third Advisory for completion of application process of UGC-NET June 2026 examination",
+      "url": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/05/20260522880877469.pdf",
+      "published": "2026-05-22",
+      "source": "nta"
+    },
+    {
+      "id": "301eee509ee2f68dc6014898c309e86bf-uploads-2026-05-202605201462069560-pdf",
+      "kind": "register",
+      "title": "Public Notice regarding Extension of Last Date for submission of online application form for UGC-NET June 2026 examination",
+      "url": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/05/202605201462069560.pdf",
+      "published": "2026-05-20",
+      "source": "nta"
+    },
+    {
+      "id": "s301eee509ee2f68dc6014898c309e86bf-uploads-2026-05-20260514166723442-pdf",
+      "kind": "notice",
+      "title": "Second Advisory for completion of application process of UGC-NET June 2026",
+      "url": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/05/20260514166723442.pdf",
+      "published": "2026-05-14",
+      "source": "nta"
+    },
+    {
+      "id": "s301eee509ee2f68dc6014898c309e86bf-uploads-2026-05-20260509207901598-pdf",
+      "kind": "notice",
+      "title": "Public Notice regarding Special Facility for Upload of Live Photograph for Visually Impaired Candidates of UGC-NET June 2026 Examination",
+      "url": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/05/20260509207901598.pdf",
+      "published": "2026-05-09",
       "source": "nta"
     }
   ]
