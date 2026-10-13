@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T00:45:00Z",
+  "updatedAt": "2026-10-13T00:45:00Z",
   "items": [
     {
       "id": "delfina-india-winter-2027",
@@ -17,7 +17,7 @@
       "visaSponsor": "yes",
       "phdType": null,
       "verified": true,
-      "verifyNote": "Confirmed on official Delfina Foundation guidance notes PDF and Charles Wallace India Trust page. Fully funded including return flight, visa reimbursement, living allowance £40/day, materials £1200, accommodation, travel pass.",
+      "verifyNote": "Confirmed on official Delfina Foundation guidance notes PDF and Charles Wallace India Trust page. Fully funded including return flight, visa reimbursement, living allowance \u00a340/day, materials \u00a31200, accommodation, travel pass.",
       "addedAt": "2026-10-11T00:46:05Z"
     },
     {
@@ -41,8 +41,8 @@
     },
     {
       "id": "artexplora-cite-2027",
-      "title": "Art Explora x Cité internationale des arts Residency Programme 2027",
-      "org": "Art Explora Foundation / Cité internationale des arts",
+      "title": "Art Explora x Cit\u00e9 internationale des arts Residency Programme 2027",
+      "org": "Art Explora Foundation / Cit\u00e9 internationale des arts",
       "country": "France",
       "location": "Paris (Montmartre)",
       "deadline": "2026-10-30",
@@ -55,7 +55,7 @@
       "visaSponsor": "not stated",
       "phdType": null,
       "verified": true,
-      "verifyNote": "Confirmed on official Art Explora programme page and Cité internationale des arts open call page. Fully funded: furnished studio-apartment ~50m², €1,000/month living stipend, production grant up to €3,000, round-trip travel to Paris. Applications open until 30 October 2026.",
+      "verifyNote": "Confirmed on official Art Explora programme page and Cit\u00e9 internationale des arts open call page. Fully funded: furnished studio-apartment ~50m\u00b2, \u20ac1,000/month living stipend, production grant up to \u20ac3,000, round-trip travel to Paris. Applications open until 30 October 2026.",
       "addedAt": "2026-10-12T00:45:00Z"
     },
     {
@@ -76,6 +76,25 @@
       "verified": true,
       "verifyNote": "Confirmed on official KIAR One World Residency page. Self-funded with listed programme fees including accommodation and studio; artist pays air travel, visa, and meals. Invitation letter available. Apply at least 40 days before preferred start; open for Sept-March sessions.",
       "addedAt": "2026-10-12T00:45:00Z"
+    },
+    {
+      "id": "hkpfs-2027-28",
+      "title": "Hong Kong PhD Fellowship Scheme (HKPFS) 2027/28",
+      "org": "Research Grants Council, Hong Kong / participating universities",
+      "country": "Hong Kong",
+      "location": "Hong Kong",
+      "deadline": "2026-12-01",
+      "deadlineType": "date",
+      "category": "phd",
+      "funding": "Fund: fully funded\nApplication fee: not stated\nProgramme fee: none\nTravel: covered\nStay: covered\nLiving: covered\nYou pay in total: not stated",
+      "eligibility": "Applicants seeking admission as new full-time PhD students at one of eight Hong Kong universities, any nationality. Must demonstrate outstanding academic performance, research ability/potential, communication and interpersonal skills, and leadership abilities. Typically requires Master's degree or equivalent (confirm with chosen university/programme). Degree: Master's or equivalent. Who can apply: outstanding international candidates. IELTS not stated, NET not required. Language: English. Age: not stated.",
+      "url": "https://cerg1.ugc.edu.hk/hkpfs/index.html",
+      "officialUrl": "https://cerg1.ugc.edu.hk/hkpfs/index.html",
+      "visaSponsor": "not stated",
+      "phdType": "fully funded fellowship",
+      "verified": true,
+      "verifyNote": "Confirmed on official RGC HKPFS pages. Open for applications 1 September 2026 to 1 December 2026 (initial application by 12:00 noon Hong Kong Time). 400 fellowships for 2027/28. Annual stipend HK$344,400 (approx. US$44,150) + conference and research-related travel allowance HK$14,400 (approx. US$1,840) per year for up to 3 years; additional support possible from universities. Apply via initial application to RGC then full application to chosen university quoting reference number. Relevant for visual arts / visual culture / contemporary art practice research at participating universities.",
+      "addedAt": "2026-10-13T00:45:00Z"
     }
   ]
 }
