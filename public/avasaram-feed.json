@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T00:45:00Z",
+  "updatedAt": "2026-10-14T00:45:00Z",
   "items": [
     {
       "id": "delfina-india-winter-2027",
@@ -95,6 +95,25 @@
       "verified": true,
       "verifyNote": "Confirmed on official RGC HKPFS pages. Open for applications 1 September 2026 to 1 December 2026 (initial application by 12:00 noon Hong Kong Time). 400 fellowships for 2027/28. Annual stipend HK$344,400 (approx. US$44,150) + conference and research-related travel allowance HK$14,400 (approx. US$1,840) per year for up to 3 years; additional support possible from universities. Apply via initial application to RGC then full application to chosen university quoting reference number. Relevant for visual arts / visual culture / contemporary art practice research at participating universities.",
       "addedAt": "2026-10-13T00:45:00Z"
+    },
+    {
+      "id": "hashtag-kalakar-fully-funded-2026",
+      "title": "Hashtag Kalakar Fully Funded Artists Residency 2026",
+      "org": "Hashtag Kalakar",
+      "country": "International",
+      "location": "Multiple cities (artist choice: NYC, Paris, Berlin, etc.)",
+      "deadline": "2026-10-16",
+      "deadlineType": "date",
+      "category": "residency",
+      "funding": "Fund: application fee only\nApplication fee: USD 50\nProgramme fee: none (for selected)\nTravel: covered (round-trip economy if selected)\nStay: covered (accommodation for 30 days if selected)\nLiving: you pay (food and personal expenses not included)\nYou pay in total: USD 50 + food/personal during residency (amount not stated)",
+      "eligibility": "Visual artists 18+, any nationality, any medium (painting, sculpture, digital, etc.). Degree not required. IELTS not required, NET not required. Language: English. Age: 18+. Selection merit-based among global applicants; top 25 selected for residency.",
+      "url": "https://www.hashtagkalakar.com/hashtag-kalakar-fully-funded-art-residency",
+      "officialUrl": "https://www.hashtagkalakar.com/hashtag-kalakar-fully-funded-art-residency",
+      "visaSponsor": "not stated",
+      "phdType": null,
+      "verified": true,
+      "verifyNote": "Confirmed on official Hashtag Kalakar page. Application registration deadline 16 Oct 2026 EST, submission 31 Oct. $50 participation fee for jury; if selected among top 25, round-trip flights, accommodation, and program covered. Food/personal expenses excluded. Invitation letter for visa. Note: mixed online reviews regarding platform trustworthiness; confirm details independently.",
+      "addedAt": "2026-10-14T00:45:00Z"
     }
   ]
 }
