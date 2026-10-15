@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T00:45:00Z",
+  "updatedAt": "2026-10-15T00:45:00Z",
   "items": [
     {
       "id": "delfina-india-winter-2027",
@@ -114,6 +114,44 @@
       "verified": true,
       "verifyNote": "Confirmed on official Hashtag Kalakar page. Application registration deadline 16 Oct 2026 EST, submission 31 Oct. $50 participation fee for jury; if selected among top 25, round-trip flights, accommodation, and program covered. Food/personal expenses excluded. Invitation letter for visa. Note: mixed online reviews regarding platform trustworthiness; confirm details independently.",
       "addedAt": "2026-10-14T00:45:00Z"
+    },
+    {
+      "id": "ocad-iarts-2027",
+      "title": "iArts Residency Programme 2027",
+      "org": "OCAD University",
+      "country": "Canada",
+      "location": "Toronto",
+      "deadline": "2026-10-16",
+      "deadlineType": "date",
+      "category": "residency",
+      "funding": "Fund: fully funded\nApplication fee: free\nProgramme fee: none\nTravel: covered\nStay: covered\nLiving: covered\nYou pay in total: not stated",
+      "eligibility": "Resident of India (artists and designers). Priority to those with teaching or mentoring experience and comfortable in teaching/learning environment. Degree not stated. Who can apply: Indian residents expanding global practice. IELTS not required, NET not required. Language: English (primary for communication and teaching). Age: not stated.",
+      "url": "mailto:iarts@ocadu.ca",
+      "officialUrl": "https://www.ocadu.ca/news/call-proposals-iarts-residency-program",
+      "visaSponsor": "not stated",
+      "phdType": null,
+      "verified": true,
+      "verifyNote": "Confirmed on official OCAD University news and iArts residency pages. Fully funded for Indian residents: round-trip airfare India-Toronto, private OCAD apartment, $5,000 CDN artist fee, $60 CDN/day per diem (total $2,520), $1,000 CDN materials. Visa fee reimbursed. Six-week residency 30 April-11 June 2027. Priority for educators. Apply by email PDF to iarts@ocadu.ca by 16 Oct 2026.",
+      "addedAt": "2026-10-15T00:45:00Z"
+    },
+    {
+      "id": "bernheim-air-2027",
+      "title": "Artist in Residence Program 2027",
+      "org": "Bernheim Forest and Arboretum",
+      "country": "United States",
+      "location": "Clermont, Kentucky",
+      "deadline": "2026-11-30",
+      "deadlineType": "date",
+      "category": "residency",
+      "funding": "Fund: partial\nApplication fee: free\nProgramme fee: none\nTravel: you pay\nStay: covered\nLiving: you pay\nYou pay in total: travel + living expenses (stipend $2,500; exact total not stated)",
+      "eligibility": "Professional visual artists (emerging or established), regional/national/international. Undergraduate students not eligible. Degree not required. Who can apply: professional visual artists. IELTS not required, NET not required. Language: English. Age: not stated.",
+      "url": "https://bernheim.slideroom.com/#/permalink/program/91457/KgcqN2GQZJ",
+      "officialUrl": "https://bernheim.org/arts-in-nature/artist-in-residence/",
+      "visaSponsor": "not stated",
+      "phdType": null,
+      "verified": true,
+      "verifyNote": "Confirmed on official Bernheim AIR pages and overview. Partial: $2,500 stipend, furnished cabin with kitchen, modest studio. Artist responsible for all travel and other living expenses. No application/residency fees. 6-8 weeks in 2027. Open to international artists (visa self-arranged). Deadline midnight EST 30 Nov 2026.",
+      "addedAt": "2026-10-15T00:45:00Z"
     }
   ]
 }
