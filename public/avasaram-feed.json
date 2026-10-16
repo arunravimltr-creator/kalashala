@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T00:45:00Z",
+  "updatedAt": "2026-10-16T00:45:00Z",
   "items": [
     {
       "id": "delfina-india-winter-2027",
@@ -152,6 +152,44 @@
       "verified": true,
       "verifyNote": "Confirmed on official Bernheim AIR pages and overview. Partial: $2,500 stipend, furnished cabin with kitchen, modest studio. Artist responsible for all travel and other living expenses. No application/residency fees. 6-8 weeks in 2027. Open to international artists (visa self-arranged). Deadline midnight EST 30 Nov 2026.",
       "addedAt": "2026-10-15T00:45:00Z"
+    },
+    {
+      "id": "traces-energypolis-2027",
+      "title": "TRACES Art & Science Residency @ Energypolis 2027",
+      "org": "Foundation for the Sustainable Development of Mountain Regions (FDDM) / EPFL",
+      "country": "Switzerland",
+      "location": "Sion, Valais",
+      "deadline": "2026-11-22",
+      "deadlineType": "date",
+      "category": "residency",
+      "funding": "Fund: fully funded\nApplication fee: not stated\nProgramme fee: none\nTravel: covered\nStay: covered\nLiving: covered\nYou pay in total: not stated",
+      "eligibility": "Confirmed professional international visual artists, minimum 2 years of professional practice, at least 25 years old. Degree not stated (professional practice equivalent). Who can apply: international visual artists for art-science dialogue with energy materials lab. IELTS not required, NET not required. Language: English (main working). Age: 25+.",
+      "url": "https://www.traces-opencall.ch/en",
+      "officialUrl": "https://www.traces-opencall.ch/en",
+      "visaSponsor": "not stated",
+      "phdType": null,
+      "verified": true,
+      "verifyNote": "Confirmed on official TRACES opencall site. 3-month residency 11 Jan-18 Apr 2027. Artistic grant CHF 2,000/month, housing and travel expenses covered, production budget separate. Open to international visual artists (installation, sculpture, digital, performance, photography etc.). Application via site by 22 Nov 2026 23:59 CET.",
+      "addedAt": "2026-10-16T00:45:00Z"
+    },
+    {
+      "id": "follow-fluxus-2026-27",
+      "title": "Follow Fluxus Scholarship 2026/27",
+      "org": "Nassauischer Kunstverein Wiesbaden / City of Wiesbaden",
+      "country": "Germany",
+      "location": "Wiesbaden",
+      "deadline": "2026-11-01",
+      "deadlineType": "date",
+      "category": "residency",
+      "funding": "Fund: fully funded\nApplication fee: free\nProgramme fee: none\nTravel: not stated\nStay: covered\nLiving: covered\nYou pay in total: not stated",
+      "eligibility": "International and national artists from all fields of visual and performing arts with completed art-studies degree or self-taught with notable artistic achievements (exhibitions, awards). Relevant practice and exhibition experience. Degree: completed art studies preferred. Who can apply: artists connecting to Fluxus ideas. IELTS not required, NET not required. Language: German or English (application). Age: not stated.",
+      "url": "https://www.kunstverein-wiesbaden.de/follow-fluxus/das-stipendium/die-auswahl-1",
+      "officialUrl": "https://www.kunstverein-wiesbaden.de/follow-fluxus/das-stipendium/die-auswahl-1",
+      "visaSponsor": "not stated",
+      "phdType": null,
+      "verified": true,
+      "verifyNote": "Confirmed on official Nassauischer Kunstverein Wiesbaden page. \u20ac10,000 grant plus 3-month residency 1 June-31 Aug 2027 with rent-free fully equipped living/studio (70.88 m\u00b2) in Kunsthaus Wiesbaden, followed by exhibition. Application documents upload by 1 Nov 2026 23:59 CET, send download link by email. Open to international artists.",
+      "addedAt": "2026-10-16T00:45:00Z"
     }
   ]
 }
