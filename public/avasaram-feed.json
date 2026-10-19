@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T00:45:00Z",
+  "updatedAt": "2026-10-19T00:45:00Z",
   "items": [
     {
       "id": "delfina-india-winter-2027",
@@ -190,6 +190,44 @@
       "verified": true,
       "verifyNote": "Confirmed on official Nassauischer Kunstverein Wiesbaden page. \u20ac10,000 grant plus 3-month residency 1 June-31 Aug 2027 with rent-free fully equipped living/studio (70.88 m\u00b2) in Kunsthaus Wiesbaden, followed by exhibition. Application documents upload by 1 Nov 2026 23:59 CET, send download link by email. Open to international artists.",
       "addedAt": "2026-10-16T00:45:00Z"
+    },
+    {
+      "id": "mensch-maschine-visit-2027",
+      "title": "Mensch Maschine VISIT Residency Programme 2027 (ENERGY GHOSTS)",
+      "org": "Akademie der Künste / E-WERK Luckenwalde / E.ON Foundation / Ujazdowski Castle Centre for Contemporary Art",
+      "country": "Germany",
+      "location": "Luckenwalde / Berlin (with retreat in Warsaw, Poland)",
+      "deadline": "2026-12-01",
+      "deadlineType": "date",
+      "category": "residency",
+      "funding": "Fund: fully funded\nApplication fee: free\nProgramme fee: none\nTravel: covered (within grant)\nStay: covered\nLiving: covered (within grant)\nYou pay in total: not stated",
+      "eligibility": "Artists from around the world working in visual art, performance, film, installation, sound, writing and new media, especially at intersection of art, energy and ecology. Degree desirable but not required. Who can apply: international artists. IELTS not required, NET not required. Language: English (application). Age: not stated.",
+      "url": "https://visit-energy.com/en/apply",
+      "officialUrl": "https://adk.de/en/news/2026/10/open-call-human-machine-fellowship",
+      "visaSponsor": "not stated",
+      "phdType": null,
+      "verified": true,
+      "verifyNote": "Confirmed on official Akademie der Künste page and VISIT application portal. Four fully funded fellowships. Selected artists receive 20,000 euros grant for artist fees, production costs, research, travel, materials and presentation. Studio and accommodation provided at E-WERK Luckenwalde or Akademie der Künste in Berlin for Sept-Nov 2027 (live/work on site at least 75% of time). Open internationally. Deadline 1 Dec 2026 23:59.",
+      "addedAt": "2026-10-19T00:45:00Z"
+    },
+    {
+      "id": "mass-moca-studios-2027",
+      "title": "Studios at MASS MoCA Residencies July–December 2027",
+      "org": "MASS MoCA / The Studios at MASS MoCA",
+      "country": "United States",
+      "location": "North Adams, Massachusetts",
+      "deadline": "2026-11-01",
+      "deadlineType": "date",
+      "category": "residency",
+      "funding": "Fund: partial\nApplication fee: free\nProgramme fee: $650/week (subsidized; full fellowships available covering all fees for up to 4 weeks)\nTravel: you pay\nStay: covered\nLiving: you pay (one communal meal per day included)\nYou pay in total: not stated (0 if full fellowship awarded; otherwise programme fee + travel + remaining living)",
+      "eligibility": "Visual artists (painters, sculptors, installation artists, photographers, video/new media, fiber, printmakers, etc.) and writers, all career stages, any nationality or geographic location. Age 18+. Degree not required. Who can apply: international visual artists and writers. IELTS not required, NET not required. Language: English. Age: 18+.",
+      "url": "https://massmocastudios.submittable.com/submit",
+      "officialUrl": "https://massmoca.org/studios/",
+      "visaSponsor": "not stated",
+      "phdType": null,
+      "verified": true,
+      "verifyNote": "Confirmed on official MASS MoCA Studios pages. Open call for 2- or 4-week residencies July–December 2027. Application free. Provides private studio, housing, one communal meal/day, optional curator visit. Full General Fellowships available (no geographic limits) covering all residency fees. Artists from around the world encouraged. Deadline 1 November 2026 11:59pm EST. Financial aid also available.",
+      "addedAt": "2026-10-19T00:45:00Z"
     }
   ]
 }
