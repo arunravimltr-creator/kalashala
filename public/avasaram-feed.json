@@ -1,1 +1,62 @@
-PLACEHOLDER_FOR_FULL_JSON
+{
+  "updatedAt": "2026-10-22T00:46:23Z",
+  "items": [
+    {
+      "id": "hashtag-kalakar-fully-funded-artists-residency-2026",
+      "title": "Hashtag Kalakar Fully Funded Artists Residency",
+      "org": "Hashtag Kalakar",
+      "country": "International",
+      "location": "Multiple global cities (artist choice: NYC, Paris, Berlin, Florence, Tokyo, Mumbai, Jaipur and others)",
+      "deadline": "2026-10-23",
+      "deadlineType": "fixed",
+      "category": "residency",
+      "funding": "Fund: application fee only\nApplication fee: USD $50\nProgramme fee: none (covered if selected)\nTravel: covered (round-trip economy if selected)\nStay: covered (accommodation for 30 days if selected)\nLiving: you pay (food and personal expenses not included)\nYou pay in total: USD $50 (plus living costs if selected)",
+      "eligibility": "Visual artists (painting, drawing, sculpture, mixed media, digital, etc.), any nationality, age 18+. Degree: not required. Who can apply: emerging to established visual artists worldwide. IELTS: not required. NET: not required. Language: English. Age: 18+.",
+      "url": "https://www.hashtagkalakar.com/hashtag-kalakar-fully-funded-art-residency",
+      "officialUrl": "https://www.hashtagkalakar.com/hashtag-kalakar-fully-funded-art-residency",
+      "visaSponsor": "Invitation letter provided; visa approval depends on embassy",
+      "phdType": null,
+      "verified": true,
+      "verifyNote": "Confirmed on official Hashtag Kalakar page. Participation fee USD 50 for jury; if selected among top 25, flights, accommodation and programme covered. Food/personal not covered.",
+      "addedAt": "2026-10-22T00:46:23Z"
+    },
+    {
+      "id": "art-award-2026",
+      "title": ".ART Award 2026",
+      "org": ".ART Registry / UKCI Holdings Limited",
+      "country": "International",
+      "location": "Online submission; winners announced at Art Basel Miami",
+      "deadline": "2026-11-01",
+      "deadlineType": "fixed",
+      "category": "exhibition",
+      "funding": "Fund: fully funded\nApplication fee: free\nProgramme fee: none\nTravel: not stated (residency prizes may include)\nStay: not stated (residency prizes may include)\nLiving: not stated\nYou pay in total: not stated (requires a .ART domain; registration cost separate if new)",
+      "eligibility": "Individual artists and collectives aged 18+, any medium or art form, worldwide. Degree: not required. Who can apply: open to all artists 18+. IELTS: not required. NET: not required. Language: English for submission. Age: 18+.",
+      "url": "https://www.award.art/",
+      "officialUrl": "https://www.award.art/",
+      "visaSponsor": "not stated",
+      "phdType": null,
+      "verified": true,
+      "verifyNote": "Confirmed on official award.art. Free to submit (requires .ART domain linked to bio, work, and story). Prizes include USD 15,000 cash, residencies in France and Spain, and more. Deadline 1 November 2026 12:00 UTC.",
+      "addedAt": "2026-10-22T00:46:23Z"
+    },
+    {
+      "id": "iit-bhilai-artist-in-residency-2026",
+      "title": "IIT Bhilai Artist in Residency Programme",
+      "org": "IIT Bhilai, Centre for Studies on Culture, Language and Traditions (CCLT)",
+      "country": "India",
+      "location": "IIT Bhilai campus, Chhattisgarh",
+      "deadline": "2026-10-31",
+      "deadlineType": "fixed",
+      "category": "residency",
+      "funding": "Fund: fully funded\nApplication fee: free\nProgramme fee: none\nTravel: not stated\nStay: covered (accommodation provided)\nLiving: covered (monthly honorarium/stipend; exact amount not stated on page)\nYou pay in total: not stated",
+      "eligibility": "Artists and arts practitioners based in Chhattisgarh working on performing arts and handicrafts / traditional art forms of the state. Degree: not required (focus on practice). Who can apply: Chhattisgarh-based practitioners of state art forms. IELTS: not required. NET: not required. Language: not stated. Age: not stated.",
+      "url": "https://www.iitbhilai.ac.in/index.php?pid=cclt_artist_in_residency",
+      "officialUrl": "https://www.iitbhilai.ac.in/index.php?pid=cclt_artist_in_residency",
+      "visaSponsor": "not applicable (India-based)",
+      "phdType": null,
+      "verified": true,
+      "verifyNote": "Confirmed on official IIT Bhilai CCLT page. 3-month residency for Chhattisgarh artists in performing arts and handicrafts; monthly honorarium, accommodation and studio provided. Strong fit only if practice aligns with traditional/folk forms of the state.",
+      "addedAt": "2026-10-22T00:46:23Z"
+    }
+  ]
+}
