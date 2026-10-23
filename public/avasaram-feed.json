@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T00:46:23Z",
+  "updatedAt": "2026-10-23T00:45:57Z",
   "items": [
     {
       "id": "hashtag-kalakar-fully-funded-artists-residency-2026",
@@ -57,6 +57,44 @@
       "verified": true,
       "verifyNote": "Confirmed on official IIT Bhilai CCLT page. 3-month residency for Chhattisgarh artists in performing arts and handicrafts; monthly honorarium, accommodation and studio provided. Strong fit only if practice aligns with traditional/folk forms of the state.",
       "addedAt": "2026-10-22T00:46:23Z"
+    },
+    {
+      "id": "atsu-hyderabad-artist-residency-2027",
+      "title": "After the Single Use Artist in Residence \u2013 Hyderabad",
+      "org": "After the Single Use / NOBA / University of Hyderabad",
+      "country": "India",
+      "location": "Hyderabad, Telangana (Department of Anthropology, University of Hyderabad)",
+      "deadline": "2026-10-23",
+      "deadlineType": "fixed",
+      "category": "residency",
+      "funding": "Fund: fully funded\nApplication fee: free\nProgramme fee: none\nTravel: covered (INR 70,000 budget for accommodation & travel)\nStay: covered (INR 70,000 budget for accommodation & travel)\nLiving: covered (artist fee INR 255,000)\nYou pay in total: not stated (budgets provided: artist fee INR 255,000, materials INR 102,000, accom & travel INR 70,000)",
+      "eligibility": "Artists any medium interested in research on single-use medical plastics, waste, health and material culture. Degree: not required. Who can apply: artists based in Hyderabad or able to be based there during the residency (priority to local/Indian); must communicate in Telugu, Hindi and English. IELTS: not required. NET: not required. Language: Telugu, Hindi, English. Age: not stated.",
+      "url": "https://aftersingleuse.net/news-events/2026/open-call-artist-residence",
+      "officialUrl": "https://aftersingleuse.net/news-events/2026/open-call-artist-residence",
+      "visaSponsor": "not applicable (India-based)",
+      "phdType": null,
+      "verified": true,
+      "verifyNote": "Confirmed on official After the Single Use page and Hyderabad-specific PDF. Part-time research-embedded residency Mar-May 2027 with University of Hyderabad anthropologists. Artist fee INR 255,000, materials INR 102,000, accommodation & travel budget INR 70,000. Artist arranges own stay/travel but funded. Deadline 23 October 2026.",
+      "addedAt": "2026-10-23T00:45:57Z"
+    },
+    {
+      "id": "hopper-prize-fall-2026",
+      "title": "The Hopper Prize Grants for Artists \u2013 Fall 2026",
+      "org": "The Hopper Prize",
+      "country": "International",
+      "location": "Online submission",
+      "deadline": "2026-11-17",
+      "deadlineType": "fixed",
+      "category": "artist",
+      "funding": "Fund: application fee only\nApplication fee: USD $40\nProgramme fee: none\nTravel: not stated\nStay: not stated\nLiving: not stated\nYou pay in total: USD $40",
+      "eligibility": "Visual artists and photographers working in any medium, worldwide, age 18+. Degree: not required. Who can apply: all visual artists 18+ globally. IELTS: not required. NET: not required. Language: English. Age: 18+.",
+      "url": "https://hopperprize.org/",
+      "officialUrl": "https://hopperprize.org/",
+      "visaSponsor": "not applicable",
+      "phdType": null,
+      "verified": true,
+      "verifyNote": "Confirmed on official hopperprize.org. Non-refundable USD 40 application fee for unrestricted cash grants (2 x USD 4,500 and 4 x USD 1,000) plus 30-artist shortlist with visibility on site and Instagram. Deadline 17 November 2026 11:59 PM PST.",
+      "addedAt": "2026-10-23T00:45:57Z"
     }
   ]
 }
