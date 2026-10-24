@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T00:45:57Z",
+  "updatedAt": "2026-10-24T00:45:44Z",
   "items": [
     {
       "id": "hashtag-kalakar-fully-funded-artists-residency-2026",
@@ -95,6 +95,25 @@
       "verified": true,
       "verifyNote": "Confirmed on official hopperprize.org. Non-refundable USD 40 application fee for unrestricted cash grants (2 x USD 4,500 and 4 x USD 1,000) plus 30-artist shortlist with visibility on site and Instagram. Deadline 17 November 2026 11:59 PM PST.",
       "addedAt": "2026-10-23T00:45:57Z"
+    },
+    {
+      "id": "ai-horizons-art-beyond-algorithms-parma-360-2026",
+      "title": "AI Horizons: Art Beyond Algorithms",
+      "org": "PARMA 360 Festival / 360\u00b0 Creativity Events APS",
+      "country": "Italy",
+      "location": "Parma, Italy (group exhibition spring 2027)",
+      "deadline": "2026-10-31",
+      "deadlineType": "fixed",
+      "category": "exhibition",
+      "funding": "Fund: application fee only\nApplication fee: free\nProgramme fee: none\nTravel: not stated (exhibition participation travel not covered)\nStay: not stated\nLiving: not stated\nYou pay in total: not stated",
+      "eligibility": "Artists under 35 (by deadline) from Italy and abroad working with AI, digital languages or emerging technologies. Degree: Fine Arts Academy students or emerging artists. Who can apply: young artists under 35 using AI as poetic/critical tool. IELTS: not required. NET: not required. Language: English/Italian for form. Age: under 35.",
+      "url": "https://parma360festival.it/",
+      "officialUrl": "https://parma360festival.it/wp-content/uploads/2026/05/Call-AI-HORIZONS.-Call-for-Artists-eng.pdf",
+      "visaSponsor": "not stated",
+      "phdType": null,
+      "verified": true,
+      "verifyNote": "Confirmed on official call PDF from PARMA 360 Festival. Free to apply. Selects 20 finalists for collective exhibition in spring 2027 at PARMA 360 Festival. Cash awards of \u20ac1,500 each for four categories. Deadline 31 October 2026 midnight Rome time. Special residency award for one young European artist.",
+      "addedAt": "2026-10-24T00:45:44Z"
     }
   ]
 }
