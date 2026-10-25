@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T00:45:44Z",
+  "updatedAt": "2026-10-25T00:46:12Z",
   "items": [
     {
       "id": "hashtag-kalakar-fully-funded-artists-residency-2026",
@@ -7,7 +7,7 @@
       "org": "Hashtag Kalakar",
       "country": "International",
       "location": "Multiple global cities (artist choice: NYC, Paris, Berlin, Florence, Tokyo, Mumbai, Jaipur and others)",
-      "deadline": "2026-10-23",
+      "deadline": "2026-10-25",
       "deadlineType": "fixed",
       "category": "residency",
       "funding": "Fund: application fee only\nApplication fee: USD $50\nProgramme fee: none (covered if selected)\nTravel: covered (round-trip economy if selected)\nStay: covered (accommodation for 30 days if selected)\nLiving: you pay (food and personal expenses not included)\nYou pay in total: USD $50 (plus living costs if selected)",
@@ -17,7 +17,7 @@
       "visaSponsor": "Invitation letter provided; visa approval depends on embassy",
       "phdType": null,
       "verified": true,
-      "verifyNote": "Confirmed on official Hashtag Kalakar page. Participation fee USD 50 for jury; if selected among top 25, flights, accommodation and programme covered. Food/personal not covered.",
+      "verifyNote": "Confirmed on official Hashtag Kalakar page. Participation fee USD 50 for jury; if selected among top 25, flights, accommodation and programme covered. Food/personal not covered. Registration deadline 25 October 2026 EST; submission 31 October 2026.",
       "addedAt": "2026-10-22T00:46:23Z"
     },
     {
@@ -114,6 +114,44 @@
       "verified": true,
       "verifyNote": "Confirmed on official call PDF from PARMA 360 Festival. Free to apply. Selects 20 finalists for collective exhibition in spring 2027 at PARMA 360 Festival. Cash awards of \u20ac1,500 each for four categories. Deadline 31 October 2026 midnight Rome time. Special residency award for one young European artist.",
       "addedAt": "2026-10-24T00:45:44Z"
+    },
+    {
+      "id": "art-explora-cite-internationale-des-arts-residency-2027",
+      "title": "Art Explora \u2013 Cit\u00e9 internationale des arts Artist Residency Programme 2027",
+      "org": "Art Explora Foundation / Cit\u00e9 internationale des arts",
+      "country": "France",
+      "location": "Cit\u00e9 internationale des arts, Montmartre, Paris",
+      "deadline": "2026-10-30",
+      "deadlineType": "fixed",
+      "category": "residency",
+      "funding": "Fund: fully funded\nApplication fee: free\nProgramme fee: none\nTravel: covered (round-trip to Paris)\nStay: covered (furnished studio apartment approx. 50 m\u00b2)\nLiving: covered (\u20ac1,000 monthly stipend)\nYou pay in total: not stated",
+      "eligibility": "Visual artists, performing artists and digital artists of all nationalities. Degree: not required. Who can apply: artists with minimum five years of professional activity and international exhibition track record; SOLO (3 or 6 months) or COLLECTIVE (3 months). IELTS: not required. NET: not required. Language: English for application. Age: no limit.",
+      "url": "https://www.artexplora.org/en/the-artists-residencies-programme-presentation",
+      "officialUrl": "https://www.artexplora.org/en/the-artists-residencies-programme-presentation",
+      "visaSponsor": "not stated",
+      "phdType": null,
+      "verified": true,
+      "verifyNote": "Confirmed on official Art Explora page and open-call PDF. Fully funded residency at Montmartre: live-work studio, \u20ac1,000/month living stipend, \u20ac3,000 production grant, round-trip travel. Free to apply. Deadline 30 October 2026 23:59 Paris time. Sessions March\u2013August 2027 or September 2027\u2013February 2028.",
+      "addedAt": "2026-10-25T00:46:12Z"
+    },
+    {
+      "id": "arcathens-athens-residency-spring-2027",
+      "title": "ARCAthens Athens Residency 2027 \u2013 Visual Art Fellowship",
+      "org": "ARCAthens",
+      "country": "Greece",
+      "location": "Athens, Greece",
+      "deadline": "2026-11-14",
+      "deadlineType": "fixed",
+      "category": "residency",
+      "funding": "Fund: fully funded\nApplication fee: free\nProgramme fee: none\nTravel: covered (basic coach round-trip ticket reimbursed)\nStay: covered (private bedroom and bathroom, shared kitchen; studio access for visual art fellows)\nLiving: covered ($3,000 USD fellowship prize + $200 USD weekly stipend for food and local transportation)\nYou pay in total: not stated",
+      "eligibility": "Visual artists (separate curatorial track available). Degree: not required. Who can apply: international applicants of all nationalities not residing in Greece. IELTS: not required. NET: not required. Language: English. Age: not stated.",
+      "url": "https://arcathens.org/arcathens-athens-residency/",
+      "officialUrl": "https://arcathens.org/arcathens-athens-residency/",
+      "visaSponsor": "not stated (Fellows responsible for procuring visas if applicable)",
+      "phdType": null,
+      "verified": true,
+      "verifyNote": "Confirmed on official ARCAthens page. Fully funded 3-month Spring 2027 residency (4 February\u201326 April 2027). Includes $3,000 prize, $200/week stipend, reimbursed airfare, private accommodation and studio access. Free open call. Deadline 14 November 2026 23:00 ET.",
+      "addedAt": "2026-10-25T00:46:12Z"
     }
   ]
 }
