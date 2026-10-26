@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T00:46:12Z",
+  "updatedAt": "2026-10-26T00:45:45Z",
   "items": [
     {
       "id": "hashtag-kalakar-fully-funded-artists-residency-2026",
@@ -152,6 +152,25 @@
       "verified": true,
       "verifyNote": "Confirmed on official ARCAthens page. Fully funded 3-month Spring 2027 residency (4 February\u201326 April 2027). Includes $3,000 prize, $200/week stipend, reimbursed airfare, private accommodation and studio access. Free open call. Deadline 14 November 2026 23:00 ET.",
       "addedAt": "2026-10-25T00:46:12Z"
+    },
+    {
+      "id": "ai-art-magazine-number-4-open-call-2026",
+      "title": "The AI Art Magazine No. 4 Open Call: Working with and through AI",
+      "org": "The AI Art Magazine / polardots.studio",
+      "country": "International",
+      "location": "Online submission; selected works in print edition (release 2027)",
+      "deadline": "2026-11-01",
+      "deadlineType": "fixed",
+      "category": "exhibition",
+      "funding": "Fund: application fee only\nApplication fee: free\nProgramme fee: none\nTravel: not stated\nStay: not stated\nLiving: not stated\nYou pay in total: not stated",
+      "eligibility": "Artists working artistically with and through artificial intelligence, any discipline or background; collaborative works welcome. Degree: not required. Who can apply: anyone creating artistic work with or through AI. IELTS: not required. NET: not required. Language: English. Age: not stated.",
+      "url": "https://www.art-magazine.ai/edition/number-four",
+      "officialUrl": "https://www.art-magazine.ai/edition/number-four",
+      "visaSponsor": "not applicable",
+      "phdType": null,
+      "verified": true,
+      "verifyNote": "Confirmed on official art-magazine.ai page. Free open call 28 September to 1 November 2026. No theme, no submission fee. Jury selects around 50 works for the fourth print edition. Submissions via Artist Space.",
+      "addedAt": "2026-10-26T00:45:45Z"
     }
   ]
 }
