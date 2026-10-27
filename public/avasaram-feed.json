@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T00:45:45Z",
+  "updatedAt": "2026-10-27T00:45:41Z",
   "items": [
     {
       "id": "hashtag-kalakar-fully-funded-artists-residency-2026",
@@ -60,7 +60,7 @@
     },
     {
       "id": "atsu-hyderabad-artist-residency-2027",
-      "title": "After the Single Use Artist in Residence \u2013 Hyderabad",
+      "title": "After the Single Use Artist in Residence – Hyderabad",
       "org": "After the Single Use / NOBA / University of Hyderabad",
       "country": "India",
       "location": "Hyderabad, Telangana (Department of Anthropology, University of Hyderabad)",
@@ -79,7 +79,7 @@
     },
     {
       "id": "hopper-prize-fall-2026",
-      "title": "The Hopper Prize Grants for Artists \u2013 Fall 2026",
+      "title": "The Hopper Prize Grants for Artists – Fall 2026",
       "org": "The Hopper Prize",
       "country": "International",
       "location": "Online submission",
@@ -117,7 +117,7 @@
     },
     {
       "id": "art-explora-cite-internationale-des-arts-residency-2027",
-      "title": "Art Explora \u2013 Cit\u00e9 internationale des arts Artist Residency Programme 2027",
+      "title": "Art Explora – Cit\u00e9 internationale des arts Artist Residency Programme 2027",
       "org": "Art Explora Foundation / Cit\u00e9 internationale des arts",
       "country": "France",
       "location": "Cit\u00e9 internationale des arts, Montmartre, Paris",
@@ -171,6 +171,44 @@
       "verified": true,
       "verifyNote": "Confirmed on official art-magazine.ai page. Free open call 28 September to 1 November 2026. No theme, no submission fee. Jury selects around 50 works for the fourth print edition. Submissions via Artist Space.",
       "addedAt": "2026-10-26T00:45:45Z"
+    },
+    {
+      "id": "schaufler-residency-tu-dresden-2027",
+      "title": "Schaufler Residency@TU Dresden 2027",
+      "org": "Schaufler Lab@TU Dresden / TU Dresden / THE SCHAUFLER FOUNDATION",
+      "country": "Germany",
+      "location": "TU Dresden campus, Dresden",
+      "deadline": "2026-11-09",
+      "deadlineType": "fixed",
+      "category": "residency",
+      "funding": "Fund: fully funded\nApplication fee: free\nProgramme fee: none\nTravel: not stated\nStay: not stated (assistance in finding accommodation)\nLiving: covered (\u20ac3,000 net monthly stipend for six months)\nYou pay in total: not stated",
+      "eligibility": "Professional, internationally active artists or collectives in media art, conceptual art, performance and related fields. Degree: not required. Who can apply: artists with relevant international projects and interest in art-science collaboration at TUD. IELTS: not required. NET: not required. Language: German or English. Age: not stated.",
+      "url": "https://tu-dresden.de/gsw/schauflerlab/schaufler-residency/ausschreibung-schaufler-residency-tu-dresden-2027",
+      "officialUrl": "https://tu-dresden.de/gsw/schauflerlab/schaufler-residency/ausschreibung-schaufler-residency-tu-dresden-2027",
+      "visaSponsor": "not stated",
+      "phdType": null,
+      "verified": true,
+      "verifyNote": "Confirmed on official TU Dresden Schaufler Lab page. Six-month residency from April 2027 on theme Energy Cultures in Transition. Monthly stipend \u20ac3,000 net, studio on campus, production support up to \u20ac10,000, solo exhibition. Free to apply. Deadline 9 November 2026. Subject to funding approval.",
+      "addedAt": "2026-10-27T00:45:41Z"
+    },
+    {
+      "id": "mensch-maschine-visit-residency-2027",
+      "title": "Mensch Maschine VISIT Residency Programme 2027: ENERGY GHOSTS",
+      "org": "Akademie der K\u00fcnste / E-WERK Luckenwalde / Ujazdowski Castle / E.ON Foundation VISIT",
+      "country": "Germany",
+      "location": "E-WERK Luckenwalde or Akademie der K\u00fcnste, Berlin (with Warsaw retreat)",
+      "deadline": "2026-12-01",
+      "deadlineType": "fixed",
+      "category": "residency",
+      "funding": "Fund: fully funded\nApplication fee: free\nProgramme fee: none\nTravel: covered (may be included in the \u20ac20,000 grant)\nStay: covered (studio and accommodation provided)\nLiving: covered (\u20ac20,000 grant for artist fees and production costs)\nYou pay in total: not stated",
+      "eligibility": "Artists from around the world working in visual art, performance, film, installation, sound, writing and new media. Degree: desirable but not required. Who can apply: individual artists or project groups with proposals on art, energy and ecology. IELTS: not required. NET: not required. Language: English. Age: not stated.",
+      "url": "https://adk.de/en/news/2026/10/open-call-human-machine-fellowship",
+      "officialUrl": "https://adk.de/en/news/2026/10/open-call-human-machine-fellowship",
+      "visaSponsor": "not stated",
+      "phdType": null,
+      "verified": true,
+      "verifyNote": "Confirmed on official Akademie der K\u00fcnste page and VISIT apply portal. Four fully funded fellowships of \u20ac20,000 each for three-month residency mid-August to mid-November 2027. Studio and accommodation at E-WERK or Akademie; grant covers fees, production, travel, materials. Free to apply. Deadline 1 December 2026 23:59.",
+      "addedAt": "2026-10-27T00:45:41Z"
     }
   ]
 }
