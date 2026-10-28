@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T00:45:41Z",
+  "updatedAt": "2026-10-28T00:45:00Z",
   "items": [
     {
       "id": "hashtag-kalakar-fully-funded-artists-residency-2026",
@@ -60,7 +60,7 @@
     },
     {
       "id": "atsu-hyderabad-artist-residency-2027",
-      "title": "After the Single Use Artist in Residence – Hyderabad",
+      "title": "After the Single Use Artist in Residence \u2013 Hyderabad",
       "org": "After the Single Use / NOBA / University of Hyderabad",
       "country": "India",
       "location": "Hyderabad, Telangana (Department of Anthropology, University of Hyderabad)",
@@ -79,7 +79,7 @@
     },
     {
       "id": "hopper-prize-fall-2026",
-      "title": "The Hopper Prize Grants for Artists – Fall 2026",
+      "title": "The Hopper Prize Grants for Artists \u2013 Fall 2026",
       "org": "The Hopper Prize",
       "country": "International",
       "location": "Online submission",
@@ -117,7 +117,7 @@
     },
     {
       "id": "art-explora-cite-internationale-des-arts-residency-2027",
-      "title": "Art Explora – Cit\u00e9 internationale des arts Artist Residency Programme 2027",
+      "title": "Art Explora \u2013 Cit\u00e9 internationale des arts Artist Residency Programme 2027",
       "org": "Art Explora Foundation / Cit\u00e9 internationale des arts",
       "country": "France",
       "location": "Cit\u00e9 internationale des arts, Montmartre, Paris",
@@ -209,6 +209,44 @@
       "verified": true,
       "verifyNote": "Confirmed on official Akademie der K\u00fcnste page and VISIT apply portal. Four fully funded fellowships of \u20ac20,000 each for three-month residency mid-August to mid-November 2027. Studio and accommodation at E-WERK or Akademie; grant covers fees, production, travel, materials. Free to apply. Deadline 1 December 2026 23:59.",
       "addedAt": "2026-10-27T00:45:41Z"
+    },
+    {
+      "id": "yaddo-winter-application-cycle-2027",
+      "title": "Yaddo Artist Residency \u2013 Winter Application Cycle",
+      "org": "Yaddo",
+      "country": "United States",
+      "location": "Saratoga Springs, New York",
+      "deadline": "2026-12-20",
+      "deadlineType": "fixed",
+      "category": "residency",
+      "funding": "Fund: application fee only\nApplication fee: USD $35\nProgramme fee: none\nTravel: you pay (modest access grants available after invitation to offset costs)\nStay: covered (private bedroom)\nLiving: covered (board/meals provided)\nYou pay in total: USD $35 (plus travel if no access grant)",
+      "eligibility": "Professional or emerging visual artists (painting, drawing, sculpture, printmaking, photography, mixed media, installation), all nations. Degree: not required. Who can apply: generative artists working at professional level or with strong professional promise; not currently enrolled in degree programmes. IELTS: not required. NET: not required. Language: English helpful (no interpreters provided). Age: not stated.",
+      "url": "https://yaddo.org/apply/",
+      "officialUrl": "https://yaddo.org/apply/",
+      "visaSponsor": "not stated (Yaddo does not assist with U.S. visa arrangements)",
+      "phdType": null,
+      "verified": true,
+      "verifyNote": "Confirmed on official yaddo.org/apply. Winter cycle portal opens 20 November 2026; deadline 20 December 2026 11:59 PM EST (or when 1,600-application cap reached). Residencies 2 weeks to 2 months include room, board and studio. Non-refundable USD 35 application fee. Artists responsible for travel; modest access grants available with invitation. Open to international visual artists. No students.",
+      "addedAt": "2026-10-28T00:45:00Z"
+    },
+    {
+      "id": "ucross-fall-2027-residency",
+      "title": "Ucross Foundation Artist Residency \u2013 Fall 2027",
+      "org": "Ucross Foundation",
+      "country": "United States",
+      "location": "Ucross, Wyoming (High Plains)",
+      "deadline": "2027-01-15",
+      "deadlineType": "fixed",
+      "category": "residency",
+      "funding": "Fund: application fee only\nApplication fee: USD $40\nProgramme fee: none\nTravel: you pay (USD $1,500 stipend provided to accepted residents to help defray travel)\nStay: covered (private living accommodations)\nLiving: covered (chef-prepared meals)\nYou pay in total: USD $40 (plus any travel costs exceeding the $1,500 stipend; $50 refundable deposit if accepted)",
+      "eligibility": "Visual artists, interdisciplinary artists and others with professional standing, all nationalities. Degree: not required. Who can apply: established and emerging artists of promise worldwide; no students at any level. IELTS: not required. NET: not required. Language: English. Age: not stated.",
+      "url": "https://www.ucrossfoundation.org/",
+      "officialUrl": "https://ucrossfoundation.submittable.com/",
+      "visaSponsor": "not stated",
+      "phdType": null,
+      "verified": true,
+      "verifyNote": "Confirmed on official Ucross Foundation site and Submittable guidelines. Open call for Fall 2027 (August\u2013early December) opens 1 November 2026; deadline 15 January 2027 11:59 PM MT. Provides private studio, living accommodations, meals and USD 1,500 stipend. Non-refundable USD 40 application fee (no waivers). No residency charge. Open to international visual artists. No students.",
+      "addedAt": "2026-10-28T00:45:00Z"
     }
   ]
 }
