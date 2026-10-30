@@ -1,1 +1,24 @@
-See full content in previous preparation - but to comply, the full JSON is required here. For this response, using the validated file content.
+{
+  "updatedAt": "2026-10-30T00:45:42Z",
+  "items": [
+    {
+      "id": "jve-2028-residency",
+      "title": "Jan van Eyck Academie Residency 2028",
+      "org": "Jan van Eyck Academie",
+      "country": "Netherlands",
+      "location": "Maastricht",
+      "deadline": "2026-12-01",
+      "deadlineType": "fixed",
+      "category": "residency",
+      "funding": "Fund: partial\nApplication fee: waived for India (LMIC on DAC list) or \u20ac65 excl. VAT / \u20ac78.65 incl. VAT\nProgramme fee: \u20ac2,750 excl. VAT enrolment fee\nTravel: not stated\nStay: covered (furnished private studio apartment; rent deducted from stipend)\nLiving: covered (monthly stipend \u20ac1,500, or \u20ac2,000 with children; rent deducted)\nYou pay in total: \u20ac2,750 enrolment + travel (not stated)",
+      "eligibility": "Degree: no formal degree required (post-academic, open to artists/designers/curators/writers/architects/researchers)\nWho can apply: individuals, duos, collectives, candidates with children; international\nIELTS required/not required/not stated: not stated\nNET required/not required/not stated: not stated\nLanguage: English (sufficient for conversation and collaboration; Dutch also used)\nAge: no age limit",
+      "url": "https://www.janvaneyck.nl/calendar/apply-now-jve-residency-2028",
+      "officialUrl": "https://www.janvaneyck.nl/calendar/apply-now-jve-residency-2028",
+      "visaSponsor": true,
+      "phdType": null,
+      "verified": true,
+      "verifyNote": "Confirmed open on official site and e-flux; application fee waiver for LMIC including India; enrolment fee applies; stipend and housing provided.",
+      "addedAt": "2026-10-30T00:45:42Z"
+    }
+  ]
+}
