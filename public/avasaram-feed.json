@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T00:45:42Z",
+  "updatedAt": "2026-10-31T00:45:00Z",
   "items": [
     {
       "id": "jve-2028-residency",
@@ -19,6 +19,44 @@
       "verified": true,
       "verifyNote": "Confirmed open on official site and e-flux; application fee waiver for LMIC including India; enrolment fee applies; stipend and housing provided.",
       "addedAt": "2026-10-30T00:45:42Z"
+    },
+    {
+      "id": "arcathens-spring-2027",
+      "title": "ARCAthens Spring 2027 Athens Residency (Visual Art)",
+      "org": "ARCAthens",
+      "country": "Greece",
+      "location": "Athens",
+      "deadline": "2026-11-14",
+      "deadlineType": "fixed",
+      "category": "residency",
+      "funding": "Fund: fully funded\nApplication fee: free\nProgramme fee: none\nTravel: covered (reimbursed basic coach round-trip)\nStay: covered (private bedroom, private bathroom, shared kitchen; studio for visual art)\nLiving: partial ($3,000 fellowship prize + $200 USD/week stipend toward food and local transport; other personal expenses you pay)\nYou pay in total: additional personal expenses and visa costs (not stated)",
+      "eligibility": "Degree: no formal degree required\nWho can apply: international visual artists, curators and scholars not residing in Greece\nIELTS required/not required/not stated: not stated\nNET required/not required/not stated: not stated\nLanguage: English\nAge: not stated (no age limit)",
+      "url": "https://arcathens.org/aa-application/",
+      "officialUrl": "https://arcathens.org/arcathens-athens-residency/",
+      "visaSponsor": false,
+      "phdType": null,
+      "verified": true,
+      "verifyNote": "Confirmed open on official site; no application fee; travel reimbursed, housing and studio provided, prize and weekly stipend; visa responsibility of fellow.",
+      "addedAt": "2026-10-31T00:45:00Z"
+    },
+    {
+      "id": "hopper-prize-fall-2026",
+      "title": "The Hopper Prize Fall 2026 Artist Grants",
+      "org": "The Hopper Prize",
+      "country": "United States",
+      "location": "Remote / online",
+      "deadline": "2026-11-17",
+      "deadlineType": "fixed",
+      "category": "artist",
+      "funding": "Fund: application fee only\nApplication fee: $40\nProgramme fee: none\nTravel: not stated\nStay: not stated\nLiving: not stated\nYou pay in total: $40",
+      "eligibility": "Degree: not required\nWho can apply: visual artists and photographers age 18+ worldwide, any media\nIELTS required/not required/not stated: not stated\nNET required/not required/not stated: not stated\nLanguage: English (application)\nAge: 18+",
+      "url": "https://hopperprize.org/",
+      "officialUrl": "https://hopperprize.org/",
+      "visaSponsor": null,
+      "phdType": null,
+      "verified": true,
+      "verifyNote": "Confirmed open on official site; $40 application fee; unrestricted cash grants ($4,500 x2, $1,000 x4) plus shortlist visibility; no travel or stay.",
+      "addedAt": "2026-10-31T00:45:00Z"
     }
   ]
 }
