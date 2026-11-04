@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T00:46:00Z",
+  "updatedAt": "2026-11-04T00:46:11Z",
   "items": [
     {
       "id": "jve-2028-residency",
@@ -247,6 +247,44 @@
       "verified": true,
       "verifyNote": "Confirmed open on official site; seven-month residency Oct 2027-Apr 2028 with housing, studio, monthly and exit stipends; application fee tiered in prior cycles (not stated on current main page); strong fit for emerging visual artists.",
       "addedAt": "2026-11-03T00:46:00Z"
+    },
+    {
+      "id": "villa-perochon-photo-2027",
+      "title": "Rencontres de la jeune photographie internationale 2027 Residency",
+      "org": "Villa Pérochon / CACP",
+      "country": "France",
+      "location": "Niort",
+      "deadline": "2026-11-15",
+      "deadlineType": "fixed",
+      "category": "residency",
+      "funding": "Fund: fully funded\nApplication fee: free\nProgramme fee: none\nTravel: covered (round-trip from home)\nStay: covered\nLiving: covered (breakfast and dinner + \u20ac400 residency stipend + \u20ac400 exhibition fee)\nYou pay in total: not stated",
+      "eligibility": "Degree: not stated\nWho can apply: emerging international photographers of any origin or aesthetic; individuals only\nIELTS required/not required/not stated: not stated\nNET required/not required/not stated: not stated\nLanguage: not stated (application materials accepted; jury in photography context)\nAge: no constraint",
+      "url": "https://www.cacp-villaperochon.com/agenda/appel-a-candidature-rencontres-de-la-jeune-photographie-internationale-2027/",
+      "officialUrl": "https://www.cacp-villaperochon.com/agenda/appel-a-candidature-rencontres-de-la-jeune-photographie-internationale-2027/",
+      "visaSponsor": false,
+      "phdType": null,
+      "verified": true,
+      "verifyNote": "Confirmed open on official Villa Pérochon site; fully funded with round-trip travel, lodging, breakfast/dinner, materials/consumables, \u20ac400 stipend + \u20ac400 exhibition rights; residency 26 Mar-12 Apr 2027; open to emerging international photographers.",
+      "addedAt": "2026-11-04T00:46:11Z"
+    },
+    {
+      "id": "kira-air-2027",
+      "title": "KIRA Artist-in-Residence Program 2027",
+      "org": "Kingsbrae International Residence for the Arts (KIRA)",
+      "country": "Canada",
+      "location": "Saint Andrews, New Brunswick",
+      "deadline": "2026-11-30",
+      "deadlineType": "fixed",
+      "category": "residency",
+      "funding": "Fund: partial\nApplication fee: $10 CAD\nProgramme fee: none\nTravel: you pay\nStay: covered (private bedroom and ensuite bathroom in historic estate)\nLiving: partial (two meals a day six days a week; supplemental food and other living you pay)\nYou pay in total: $10 CAD + travel + materials + supplemental living (not stated)",
+      "eligibility": "Degree: not required\nWho can apply: artists in visual arts, music/composition, writing, new media, interdisciplinary arts; all career stages; international\nIELTS required/not required/not stated: not stated\nNET required/not required/not stated: not stated\nLanguage: English\nAge: not stated",
+      "url": "https://www.kingsbraeartscentre.com/residencies",
+      "officialUrl": "https://www.kingsbraeartscentre.com/residencies",
+      "visaSponsor": false,
+      "phdType": null,
+      "verified": true,
+      "verifyNote": "Confirmed open on official KIRA site; $10 CAD application fee; housing, studio and two meals provided; artist pays travel, materials and supplemental living; residency 19 May-9 Jun 2027; community engagement required.",
+      "addedAt": "2026-11-04T00:46:11Z"
     }
   ]
 }
