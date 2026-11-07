@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T00:45:59Z",
+  "updatedAt": "2026-11-07T00:45:52Z",
   "items": [
     {
       "id": "wsw-artists-book-2027",
@@ -29,8 +29,7 @@
       "deadline": "2026-12-01",
       "deadlineType": "fixed",
       "category": "residency",
-      "funding": "Fund: partial\nApplication fee: €65 (excl. VAT) or free for DAC list countries (India lower-middle)
-Programme fee: €2750 (excl. VAT)\nTravel: you pay\nStay: covered (private studio apartment, rent may be deducted from stipend)\nLiving: covered (€1500/month stipend)\nYou pay in total: application fee + programme fee + travel (not fully stated)",
+      "funding": "Fund: partial\nApplication fee: €65 (excl. VAT) or free for DAC list countries (India lower-middle)\nProgramme fee: €2750 (excl. VAT)\nTravel: you pay\nStay: covered (private studio apartment, rent may be deducted from stipend)\nLiving: covered (€1500/month stipend)\nYou pay in total: application fee + programme fee + travel (not fully stated)",
       "eligibility": "Artists, curators, designers, writers, architects, artistic researchers; BFA/MFA equivalent preferred but not strictly required; open worldwide; IELTS not stated; NET not required; language English; age not stated",
       "url": "https://www.janvaneyck.nl/residency/",
       "officialUrl": "https://www.janvaneyck.nl/residency/",
@@ -39,6 +38,44 @@ Programme fee: €2750 (excl. VAT)\nTravel: you pay\nStay: covered (private stud
       "verified": true,
       "verifyNote": "Confirmed via official announcements and Res Artis; open until 1 Dec 2026",
       "addedAt": "2026-11-06T00:45:59Z"
+    },
+    {
+      "id": "sixi-air-2027",
+      "title": "Sixi International Artist-in-Residence Project 2027 Spring & Autumn",
+      "org": "Sixi Museum",
+      "country": "China",
+      "location": "Nanjing",
+      "deadline": "2026-11-15",
+      "deadlineType": "fixed",
+      "category": "residency",
+      "funding": "Fund: partial\nApplication fee: free\nProgramme fee: none\nTravel: covered (round-trip flights)\nStay: covered (private apartment or loft studio)\nLiving: you pay (material allowance provided; no daily stipend stated)\nYou pay in total: living expenses (not stated)",
+      "eligibility": "Artists of all disciplines including visual arts/painting/sculpture; open worldwide no nationality restriction; 18+ at application; sufficient spoken/written English or Mandarin; IELTS not required; NET not required; language English or Mandarin; age 18+",
+      "url": "https://siximuseum.com/en/residency/",
+      "officialUrl": "https://siximuseum.com/en/residency/",
+      "visaSponsor": "not stated (visa application fees covered)",
+      "phdType": null,
+      "verified": true,
+      "verifyNote": "Confirmed on official Sixi Museum residency page and Res Artis open call 7 Nov 2026; deadline 15 Nov 2026 GMT+8; covers visa fees, round-trip flights, insurance, stay, materials; living costs by artist",
+      "addedAt": "2026-11-07T00:45:52Z"
+    },
+    {
+      "id": "drs-arts-grant-2027",
+      "title": "DRS Arts Grant 2027",
+      "org": "DRS Arts Company",
+      "country": "India",
+      "location": "India",
+      "deadline": "2026-11-23",
+      "deadlineType": "fixed",
+      "category": "artist",
+      "funding": "Fund: fully funded\nApplication fee: free\nProgramme fee: none\nTravel: not applicable\nStay: not applicable\nLiving: not applicable\nYou pay in total: none",
+      "eligibility": "Indian citizens currently based in India; practising visual artists any medium (painting, sculpture etc.), formally trained, independently trained or self-taught; age 18+ on closing date (categories: 18-24 ₹60000, 25-29 ₹60000, 30+ ₹240000, under 30 award ₹30000); IELTS not required; NET not required; language English, Hindi, Gujarati or any Indian language; age 18+",
+      "url": "https://drsartsgrant.com",
+      "officialUrl": "https://drsartsgrant.com",
+      "visaSponsor": "not applicable",
+      "phdType": null,
+      "verified": true,
+      "verifyNote": "Confirmed on official drsartsgrant.com how-to-apply page 7 Nov 2026; applications open 3-23 Nov 2026; free to apply; cash grants for visual artists in India",
+      "addedAt": "2026-11-07T00:45:52Z"
     }
   ]
 }
