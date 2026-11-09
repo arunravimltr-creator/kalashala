@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T00:45:52Z",
+  "updatedAt": "2026-11-09T00:45:47Z",
   "items": [
     {
       "id": "wsw-artists-book-2027",
@@ -64,7 +64,7 @@
       "org": "DRS Arts Company",
       "country": "India",
       "location": "India",
-      "deadline": "2026-11-23",
+      "deadline": "2026-11-30",
       "deadlineType": "fixed",
       "category": "artist",
       "funding": "Fund: fully funded\nApplication fee: free\nProgramme fee: none\nTravel: not applicable\nStay: not applicable\nLiving: not applicable\nYou pay in total: none",
@@ -74,8 +74,65 @@
       "visaSponsor": "not applicable",
       "phdType": null,
       "verified": true,
-      "verifyNote": "Confirmed on official drsartsgrant.com how-to-apply page 7 Nov 2026; applications open 3-23 Nov 2026; free to apply; cash grants for visual artists in India",
+      "verifyNote": "Confirmed on official drsartsgrant.com how-to-apply page 9 Nov 2026; applications open 3-30 Nov 2026; free to apply; cash grants for visual artists in India",
       "addedAt": "2026-11-07T00:45:52Z"
+    },
+    {
+      "id": "hopper-prize-fall-2026",
+      "title": "Hopper Prize Fall 2026 Artist Grants",
+      "org": "The Hopper Prize",
+      "country": "United States",
+      "location": "Online / worldwide",
+      "deadline": "2026-11-17",
+      "deadlineType": "fixed",
+      "category": "artist",
+      "funding": "Fund: application fee only\nApplication fee: $40\nProgramme fee: none\nTravel: not applicable\nStay: not applicable\nLiving: not applicable\nYou pay in total: $40",
+      "eligibility": "Visual artists aged 18+ worldwide any medium including painting and sculpture; no restrictions on genre or subject; IELTS not required; NET not required; language English; age 18+",
+      "url": "https://hopperprize.org",
+      "officialUrl": "https://hopperprize.org",
+      "visaSponsor": "not applicable",
+      "phdType": null,
+      "verified": true,
+      "verifyNote": "Confirmed on official hopperprize.org 9 Nov 2026; deadline 17 Nov 2026 11:59 PM PST; two $4500 and four $1000 unrestricted grants; application fee $40; open worldwide",
+      "addedAt": "2026-11-09T00:45:47Z"
+    },
+    {
+      "id": "artist-grant-nov-2026",
+      "title": "Artist Grant Unrestricted $1200",
+      "org": "Artist Grant",
+      "country": "United States",
+      "location": "Online / worldwide",
+      "deadline": "2026-11-15",
+      "deadlineType": "fixed",
+      "category": "artist",
+      "funding": "Fund: application fee only\nApplication fee: $30\nProgramme fee: none\nTravel: not applicable\nStay: not applicable\nLiving: not applicable\nYou pay in total: $30",
+      "eligibility": "Visual artists aged 18+ worldwide; media including painting, drawing, sculpture, ceramics, printmaking, photography, mixed media; IELTS not required; NET not required; language English; age 18+",
+      "url": "https://artistgrant.org/apply",
+      "officialUrl": "https://artistgrant.org/apply",
+      "visaSponsor": "not applicable",
+      "phdType": null,
+      "verified": true,
+      "verifyNote": "Confirmed on official artistgrant.org/apply 9 Nov 2026; next deadline 15 Nov 2026; unrestricted $1200 grant; application fee $30; open worldwide visual artists",
+      "addedAt": "2026-11-09T00:45:47Z"
+    },
+    {
+      "id": "pollock-krasner-grants-rolling",
+      "title": "Pollock-Krasner Foundation Artist Grants",
+      "org": "Pollock-Krasner Foundation",
+      "country": "United States",
+      "location": "Online / worldwide",
+      "deadline": "rolling",
+      "deadlineType": "rolling",
+      "category": "artist",
+      "funding": "Fund: fully funded\nApplication fee: free\nProgramme fee: none\nTravel: not applicable\nStay: not applicable\nLiving: not applicable (grant unrestricted up to $50000)\nYou pay in total: none",
+      "eligibility": "Professional visual artists primarily in painting, sculpture or works on paper with established exhibition history (minimum 10 exhibitions in past 10 years at professional venues); open worldwide; students ineligible; IELTS not required; NET not required; language English; age not stated",
+      "url": "https://www.pkf.org/how-to-apply/",
+      "officialUrl": "https://www.pkf.org/how-to-apply/",
+      "visaSponsor": "not applicable",
+      "phdType": null,
+      "verified": true,
+      "verifyNote": "Confirmed on official pkf.org/how-to-apply 9 Nov 2026; rolling applications no deadline; unrestricted grants up to $50000 (typically ~$35000); free to apply; open internationally for painters, sculptors, works on paper",
+      "addedAt": "2026-11-09T00:45:47Z"
     }
   ]
 }
