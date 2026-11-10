@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T00:45:47Z",
+  "updatedAt": "2026-11-10T00:45:45Z",
   "items": [
     {
       "id": "wsw-artists-book-2027",
@@ -133,6 +133,63 @@
       "verified": true,
       "verifyNote": "Confirmed on official pkf.org/how-to-apply 9 Nov 2026; rolling applications no deadline; unrestricted grants up to $50000 (typically ~$35000); free to apply; open internationally for painters, sculptors, works on paper",
       "addedAt": "2026-11-09T00:45:47Z"
+    },
+    {
+      "id": "arcathens-spring-2027",
+      "title": "ARCAthens Spring 2027 Athens Residency (Visual Art Fellowship)",
+      "org": "ARCAthens",
+      "country": "Greece",
+      "location": "Athens",
+      "deadline": "2026-11-14",
+      "deadlineType": "fixed",
+      "category": "residency",
+      "funding": "Fund: fully funded\nApplication fee: free\nProgramme fee: none\nTravel: covered (basic coach round-trip reimbursed after approval)\nStay: covered (private bedroom, private bathroom, shared kitchen)\nLiving: covered ($200 USD/week stipend for food and local transport + $3000 USD fellowship prize)\nYou pay in total: visa costs if required + any excess personal expenses (not stated)",
+      "eligibility": "Visual artists (and curators/scholars); open to all nationalities not currently residing in Greece; any career stage; IELTS not required; NET not required; language English; age not stated",
+      "url": "https://arcathens.org/aa-application/",
+      "officialUrl": "https://arcathens.org/arcathens-athens-residency/",
+      "visaSponsor": "no (fellows responsible for procuring visas)",
+      "phdType": null,
+      "verified": true,
+      "verifyNote": "Confirmed on official ARCAthens pages 10 Nov 2026; applications open 16 Oct–14 Nov 2026 11:00pm ET; 3-month residency Feb–Apr 2027; free to apply; travel reimbursed, accommodation and stipend + prize provided; visual art fellowship available",
+      "addedAt": "2026-11-10T00:45:45Z"
+    },
+    {
+      "id": "acc-individual-fellowship-2027",
+      "title": "Asian Cultural Council Individual Fellowship 2027",
+      "org": "Asian Cultural Council",
+      "country": "United States / Asia",
+      "location": "Eligible countries in Asia or US (self-directed)",
+      "deadline": "2026-11-10",
+      "deadlineType": "fixed",
+      "category": "artist",
+      "funding": "Fund: fully funded\nApplication fee: free\nProgramme fee: none\nTravel: covered (eligible expenses within award)\nStay: covered\nLiving: covered (daily expenses)\nYou pay in total: none (award up to $35000 USD covers eligible costs)",
+      "eligibility": "Artists, scholars, or arts professionals with at least 5 years experience in visual art or eligible disciplines; citizens or permanent residents of India and other listed Asian countries/US; cannot propose travel to current country of residence; IELTS not required (English proficiency needed for US J-1 if applicable); NET not required; language English or destination language (with plan); age 21+ by fellowship start",
+      "url": "https://www.asianculturalcouncil.org/grant-opportunities",
+      "officialUrl": "https://www.asianculturalcouncil.org/grant-opportunities",
+      "visaSponsor": "not stated (visa assistance possible for US)",
+      "phdType": null,
+      "verified": true,
+      "verifyNote": "Confirmed on official ACC grant-opportunities page 10 Nov 2026; applications open to 10 Nov 2026 9:59 AM ET; free; max $35000 for 1–6 month cultural exchange/research (not production of new work); open to Indian visual artists/educators meeting experience criteria",
+      "addedAt": "2026-11-10T00:45:45Z"
+    },
+    {
+      "id": "groot-grant-2027",
+      "title": "Virginia A. Groot Foundation Sculpture Grants 2027",
+      "org": "Virginia A. Groot Foundation",
+      "country": "United States",
+      "location": "Online / worldwide",
+      "deadline": "2027-01-09",
+      "deadlineType": "fixed",
+      "category": "artist",
+      "funding": "Fund: application fee only\nApplication fee: $7\nProgramme fee: none\nTravel: not applicable\nStay: not applicable\nLiving: not applicable (unrestricted grants $20000–$60000 for living, travel, materials, create)\nYou pay in total: $7",
+      "eligibility": "Artists working in ceramic sculpture or sculpture of diverse mediums (including painting/sculpture background); any career stage emerging to mature; open international; students ineligible, no student work; IELTS not required; NET not required; language English; age 21+",
+      "url": "https://www.virginiaagrootfoundation.org/grants/",
+      "officialUrl": "https://www.virginiaagrootfoundation.org/grants/",
+      "visaSponsor": "not applicable",
+      "phdType": null,
+      "verified": true,
+      "verifyNote": "Confirmed on official grants page 10 Nov 2026; applications open, deadline 9 Jan 2027 11:59 PM CT; three grants $60k/$30k/$20k; application fee $7 reported consistently; open worldwide for sculptors; teachers eligible for own artistic development",
+      "addedAt": "2026-11-10T00:45:45Z"
     }
   ]
 }
