@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T00:45:00Z",
+  "updatedAt": "2026-11-12T00:45:57Z",
   "items": [
     {
       "id": "wsw-artists-book-2027",
@@ -228,6 +228,25 @@
       "verified": true,
       "verifyNote": "Confirmed on official Montpellier 2028 and Communaut\u00e9 de communes Vall\u00e9e de l\u2019H\u00e9rault pages 11 Nov 2026; free application; \u20ac6000 grant per artist covers remuneration, daily allowances and return travel; accommodation provided; 8 weeks (possibly non-consecutive) Jan-Apr 2027; open to visual artists",
       "addedAt": "2026-11-11T00:45:00Z"
+    },
+    {
+      "id": "hashtag-kalakar-fully-funded-2026",
+      "title": "Hashtag Kalakar Fully Funded Artists Residency",
+      "org": "Hashtag Kalakar",
+      "country": "Multiple (artist choice from list including India, Europe, US, Asia)",
+      "location": "Selected global cities (e.g. Mumbai, Paris, NYC, Tokyo)",
+      "deadline": "2026-11-13",
+      "deadlineType": "fixed",
+      "category": "residency",
+      "funding": "Fund: application fee only\nApplication fee: $50\nProgramme fee: none\nTravel: covered (round-trip economy if selected)\nStay: covered (accommodation for 30 days if selected)\nLiving: you pay (food and personal expenses not covered)\nYou pay in total: $50",
+      "eligibility": "Visual artists (painters, sculptors, mixed media etc.) aged 18+ any medium; open worldwide no nationality restriction; any career stage; IELTS not required; NET not required; language English; age 18+",
+      "url": "https://www.hashtagkalakar.com/hashtag-kalakar-fully-funded-art-residency",
+      "officialUrl": "https://www.hashtagkalakar.com/hashtag-kalakar-fully-funded-art-residency",
+      "visaSponsor": "not stated (invitation letter provided)",
+      "phdType": null,
+      "verified": true,
+      "verifyNote": "Confirmed on official Hashtag Kalakar page 12 Nov 2026; registration deadline 13 Nov 2026 EST; $50 participation fee for jury; if selected among top 25, fully funded 30-day residency (flights, accommodation, program); food/personal not covered; open to visual artists worldwide",
+      "addedAt": "2026-11-12T00:45:57Z"
     }
   ]
 }
