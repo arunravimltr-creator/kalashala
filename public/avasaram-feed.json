@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T00:45:57Z",
+  "updatedAt": "2026-11-13T00:45:45Z",
   "items": [
     {
       "id": "wsw-artists-book-2027",
@@ -247,6 +247,25 @@
       "verified": true,
       "verifyNote": "Confirmed on official Hashtag Kalakar page 12 Nov 2026; registration deadline 13 Nov 2026 EST; $50 participation fee for jury; if selected among top 25, fully funded 30-day residency (flights, accommodation, program); food/personal not covered; open to visual artists worldwide",
       "addedAt": "2026-11-12T00:45:57Z"
+    },
+    {
+      "id": "ucross-fall-2027",
+      "title": "Ucross Fall 2027 Artist Residency",
+      "org": "Ucross Foundation",
+      "country": "United States",
+      "location": "Ucross, Wyoming",
+      "deadline": "2027-01-15",
+      "deadlineType": "fixed",
+      "category": "residency",
+      "funding": "Fund: application fee only\nApplication fee: $40\nProgramme fee: none\nTravel: you pay (partial $1500 stipend to help offset travel)\nStay: covered\nLiving: covered (meals prepared Mon-Fri, provisions weekends)\nYou pay in total: $40 + remaining travel + materials (not stated)",
+      "eligibility": "Professional visual artists (emerging and established of promise), writers, composers etc.; open worldwide; students at any level ineligible; IELTS not required; NET not required; language English; age not stated",
+      "url": "https://www.ucrossfoundation.org/",
+      "officialUrl": "https://ucrossfoundation.submittable.com/submit",
+      "visaSponsor": "not stated",
+      "phdType": null,
+      "verified": true,
+      "verifyNote": "Confirmed on official Ucross Foundation site and Submittable 13 Nov 2026; applications open for Fall 2027 (August-early December); deadline 15 Jan 2027 11:59 PM MT; $40 fee no waivers; no residency charge, private room/studio, meals, $1500 stipend; artist pays travel and materials",
+      "addedAt": "2026-11-13T00:45:45Z"
     }
   ]
 }
