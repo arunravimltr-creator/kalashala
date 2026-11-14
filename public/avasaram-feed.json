@@ -1,1 +1,24 @@
-PLACEHOLDER
+{
+  "updatedAt": "2026-11-14T00:45:00Z",
+  "items": [
+    {
+      "id": "wsw-artists-book-2027",
+      "title": "Artist's Book Residency Grant",
+      "org": "Women's Studio Workshop",
+      "country": "United States",
+      "location": "Rosendale, NY",
+      "deadline": "2026-11-15",
+      "deadlineType": "fixed",
+      "category": "residency",
+      "funding": "Fund: partial\nApplication fee: free\nProgramme fee: none\nTravel: you pay (up to $250 covered for Continental US only)\nStay: covered\nLiving: covered ($350/week stipend)\nYou pay in total: international travel (not stated)",
+      "eligibility": "Visual artists producing artist's books; open to women, trans, intersex, non-binary, gender-fluid artists worldwide; any career stage; IELTS not required; NET not required; language English; age not stated",
+      "url": "https://wsworkshop.org/residencies/artists-book-residency-grant/",
+      "officialUrl": "https://wsworkshop.org/residencies/artists-book-residency-grant/",
+      "visaSponsor": "not stated",
+      "phdType": null,
+      "verified": true,
+      "verifyNote": "Confirmed on official WSW page 6 Nov 2026; applications open, deadline 15 Nov 2026 23:59 EST",
+      "addedAt": "2026-11-06T00:45:59Z"
+    }
+  ]
+}
