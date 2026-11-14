@@ -1,0 +1,3 @@
+import{T as e}from"./t-XepA_ntI.js";var t=e();function n({text:e,className:n}){let r=e.split(`
+
+`);return(0,t.jsx)(`div`,{className:n??`space-y-3`,children:r.map((e,n)=>(0,t.jsx)(`p`,{className:`text-pretty leading-relaxed text-ink-soft`,children:e.split(/(\*\*[^*]+\*\*)/g).map((e,n)=>e.startsWith(`**`)&&e.endsWith(`**`)?(0,t.jsx)(`strong`,{className:`font-medium text-ink`,children:e.slice(2,-2)},n):(0,t.jsx)(`span`,{children:e},n))},n))})}export{n as t};
