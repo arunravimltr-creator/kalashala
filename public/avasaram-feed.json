@@ -1,1 +1,1 @@
-$(cat /tmp/content.txt)
+$(cat /tmp/avasaram-feed-final.json)
