@@ -1,1 +1,62 @@
-$(cat /tmp/avasaram-feed-final.json)
+{
+  "updatedAt": "2026-11-17T00:46:39Z",
+  "items": [
+    {
+      "id": "air-insilo-2027-when-the-hourless-seeps",
+      "title": "AIR InSILo Open Call 2027: when the hourless seeps",
+      "org": "AIR InSILo",
+      "country": "Austria",
+      "location": "Hollabrunn, Lower Austria",
+      "deadline": "2026-12-30",
+      "deadlineType": "fixed",
+      "category": "residency",
+      "funding": "Fund: fully funded\nApplication fee: \u20ac7 (solidarity fee; waivers available for displaced persons)\nProgramme fee: none\nTravel: covered (up to \u20ac400)\nStay: covered\nLiving: covered (honorarium up to \u20ac2450)\nYou pay in total: \u20ac7",
+      "eligibility": "Visual artists and practitioners focused on place, matter, memory, body, landscape, time; late-emerging and early mid-career preferred; no current undergraduate/graduate students (PhD candidates eligible); no age limit; language: English, German or Russian; IELTS: not required; NET: not required",
+      "url": "https://in-silo.com/opencalls",
+      "officialUrl": "https://in-silo.com/opencalls",
+      "visaSponsor": "not stated",
+      "phdType": null,
+      "verified": true,
+      "verifyNote": "Confirmed open on official site until 30 Dec 2026; funding details consistent across listings",
+      "addedAt": "2026-11-17T00:46:39Z"
+    },
+    {
+      "id": "jan-van-eyck-academie-residency-2028",
+      "title": "Jan van Eyck Academie Residency 2028",
+      "org": "Jan van Eyck Academie",
+      "country": "Netherlands",
+      "location": "Maastricht",
+      "deadline": "2026-12-01",
+      "deadlineType": "fixed",
+      "category": "residency",
+      "funding": "Fund: partial\nApplication fee: \u20ac65 (excl. VAT) or free (waived for DAC list countries including India)\nProgramme fee: \u20ac2,750 (excl. VAT) enrolment fee\nTravel: you pay\nStay: covered (housing provided; rent deducted from stipend)\nLiving: partial (monthly stipend \u20ac1,500 minus rent)\nYou pay in total: application fee if applicable + \u20ac2,750 + travel (amounts not fully stated)",
+      "eligibility": "Artists, curators, designers, writers, architects and artistic researchers; individuals, duos, collectives; no specific degree required; IELTS: not stated; NET: not required; language: English and Dutch; no age limit",
+      "url": "https://www.janvaneyck.nl/residency/apply/",
+      "officialUrl": "https://www.janvaneyck.nl/residency/apply/",
+      "visaSponsor": "yes",
+      "phdType": null,
+      "verified": true,
+      "verifyNote": "Official open call confirmed, deadline 1 Dec 2026 23:59 CET",
+      "addedAt": "2026-11-17T00:46:39Z"
+    },
+    {
+      "id": "yaddo-winter-2026-application",
+      "title": "Yaddo Artists-in-Residence Program (Winter Cycle)",
+      "org": "Yaddo",
+      "country": "United States",
+      "location": "Saratoga Springs, NY",
+      "deadline": "2026-12-20",
+      "deadlineType": "fixed",
+      "category": "residency",
+      "funding": "Fund: fully funded\nApplication fee: $35\nProgramme fee: none\nTravel: you pay\nStay: covered (room and board)\nLiving: covered (room and board)\nYou pay in total: $35 + travel",
+      "eligibility": "Professional creative artists in painting, sculpture, photography, etc.; all nationalities; no enrolled students; IELTS: not stated; NET: not required; language: English; apply once every other year",
+      "url": "https://yaddo.org/apply/",
+      "officialUrl": "https://yaddo.org/apply/",
+      "visaSponsor": "not stated",
+      "phdType": null,
+      "verified": true,
+      "verifyNote": "Official deadline 20 Dec 2026; room, board, studio provided; $35 application fee",
+      "addedAt": "2026-11-17T00:46:39Z"
+    }
+  ]
+}
