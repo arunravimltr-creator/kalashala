@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T00:46:39Z",
+  "updatedAt": "2026-11-18T00:46:27Z",
   "items": [
     {
       "id": "air-insilo-2027-when-the-hourless-seeps",
@@ -57,6 +57,63 @@
       "verified": true,
       "verifyNote": "Official deadline 20 Dec 2026; room, board, studio provided; $35 application fee",
       "addedAt": "2026-11-17T00:46:39Z"
+    },
+    {
+      "id": "drs-arts-grant-2027",
+      "title": "DRS Arts Grant 2027",
+      "org": "DRS Arts Company",
+      "country": "India",
+      "location": "India",
+      "deadline": "2026-11-30",
+      "deadlineType": "fixed",
+      "category": "artist",
+      "funding": "Fund: fully funded\nApplication fee: free\nProgramme fee: none\nTravel: not stated\nStay: not stated\nLiving: not stated\nYou pay in total: not stated",
+      "eligibility": "Indian citizens currently based in India; practising visual artists in any medium; formally trained, independently trained or self-taught; degree not required; aged 18 or above on closing date (categories by age: 30+ for main grant \u20b92,40,000, 25\u201329 for emerging \u20b960,000, 18\u201324 for young \u20b960,000); language: English, Hindi, Gujarati or any Indian language; IELTS: not required; NET: not required",
+      "url": "https://drsartsgrant.com/",
+      "officialUrl": "https://drsartsgrant.com/",
+      "visaSponsor": "not stated",
+      "phdType": null,
+      "verified": true,
+      "verifyNote": "Official site confirms open 3\u201330 Nov 2026, no application fee, grants for Indian visual artists based in India",
+      "addedAt": "2026-11-18T00:46:27Z"
+    },
+    {
+      "id": "spiekeroog-campsite-residency-2027",
+      "title": "Spiekeroog Campsite Residency 2027",
+      "org": "Nordseebad Spiekeroog GmbH",
+      "country": "Germany",
+      "location": "Spiekeroog, North Sea",
+      "deadline": "2026-12-01",
+      "deadlineType": "fixed",
+      "category": "residency",
+      "funding": "Fund: fully funded\nApplication fee: free\nProgramme fee: none\nTravel: covered (ferry costs)\nStay: covered (one-month stay in tent)\nLiving: covered (honorarium \u20ac1,400 + up to \u20ac2,400 project costs)\nYou pay in total: not stated",
+      "eligibility": "Installation, land art, performance, photography and video artists; conceptual temporary projects in public space or participatory formats related to the island; degree not required; age not stated; language: not stated (English/German materials available); IELTS: not stated; NET: not required",
+      "url": "https://www.spiekeroog.de/informieren/kunst-kultur/zeltplatzresidenz",
+      "officialUrl": "https://www.spiekeroog.de/informieren/kunst-kultur/zeltplatzresidenz",
+      "visaSponsor": "not stated",
+      "phdType": null,
+      "verified": true,
+      "verifyNote": "Official open call confirmed on site, deadline 1 Dec 2026, email applications, funding includes stay, ferry, honorarium and project costs",
+      "addedAt": "2026-11-18T00:46:27Z"
+    },
+    {
+      "id": "banff-sounding-like-a-mountain-2027",
+      "title": "Visual Arts - Sounding Like a Mountain",
+      "org": "Banff Centre for Arts and Creativity",
+      "country": "Canada",
+      "location": "Banff, Alberta",
+      "deadline": "2026-11-18",
+      "deadlineType": "fixed",
+      "category": "residency",
+      "funding": "Fund: partial\nApplication fee: $65 CAD\nProgramme fee: $4,476.78 CAD (after Banff Centre Arts Scholarship; full programme fee $10,033.70 CAD)\nTravel: you pay\nStay: covered (included in programme/scholarship)\nLiving: covered (meals included)\nYou pay in total: $65 + $4,476.78 + travel",
+      "eligibility": "Individual artists or duos; any stage; formal post-secondary visual arts training or equivalent experience; available for full 5 weeks; practices including painting, sculpture, installation; age 18+; language: English; IELTS: not stated; NET: not required",
+      "url": "https://www.banffcentre.ca/programs/visual-arts/visual-arts-sounding-mountain",
+      "officialUrl": "https://www.banffcentre.ca/programs/visual-arts/visual-arts-sounding-mountain",
+      "visaSponsor": "not stated",
+      "phdType": null,
+      "verified": true,
+      "verifyNote": "Official site confirms deadline 18 Nov 2026, partial funding via scholarship leaving participant cost of about $4,477 CAD plus application fee and travel",
+      "addedAt": "2026-11-18T00:46:27Z"
     }
   ]
 }
