@@ -1,1 +1,24 @@
-PLACEHOLDER
+{
+  "updatedAt": "2026-11-22T00:45:48Z",
+  "items": [
+    {
+      "id": "air-insilo-2027-when-the-hourless-seeps",
+      "title": "AIR InSILo Open Call 2027: when the hourless seeps",
+      "org": "AIR InSILo",
+      "country": "Austria",
+      "location": "Hollabrunn, Lower Austria",
+      "deadline": "2026-12-30",
+      "deadlineType": "fixed",
+      "category": "residency",
+      "funding": "Fund: fully funded\nApplication fee: \u20ac7 (solidarity fee; waivers available for displaced persons)\nProgramme fee: none\nTravel: covered (up to \u20ac400)\nStay: covered\nLiving: covered (honorarium up to \u20ac2450)\nYou pay in total: \u20ac7",
+      "eligibility": "Visual artists and practitioners focused on place, matter, memory, body, landscape, time; late-emerging and early mid-career preferred; no current undergraduate/graduate students (PhD candidates eligible); no age limit; language: English, German or Russian; IELTS: not required; NET: not required",
+      "url": "https://in-silo.com/opencalls",
+      "officialUrl": "https://in-silo.com/opencalls",
+      "visaSponsor": "not stated",
+      "phdType": null,
+      "verified": true,
+      "verifyNote": "Confirmed open on official site until 30 Dec 2026; funding details consistent across listings",
+      "addedAt": "2026-11-17T00:46:39Z"
+    }
+  ]
+}
