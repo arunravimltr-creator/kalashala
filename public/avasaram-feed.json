@@ -1,1 +1,62 @@
-PLACEHOLDER_FOR_FULL_JSON
+{
+  "updatedAt": "2026-11-26T00:46:14Z",
+  "items": [
+    {
+      "id": "casa-velazquez-air-2027-2028",
+      "title": "Artistes en résidence 2027-2028",
+      "org": "Casa de Velázquez / Académie de France à Madrid",
+      "country": "Spain",
+      "location": "Madrid",
+      "deadline": "2026-11-27",
+      "deadlineType": "fixed",
+      "category": "residency",
+      "funding": "Fund: fully funded\nApplication fee: free\nProgramme fee: none\nTravel: not stated\nStay: covered\nLiving: covered\nYou pay in total: not stated",
+      "eligibility": "Higher artistic studies diploma or significant artistic practice. Open to any nationality. Age: must be of legal age (major). Language: good command of French required; dossier and interview in French. IELTS: not required. NET: not required.",
+      "url": "https://www.casadevelazquez.org/que-pasa-en-la-casa/detail/appel-artistes-en-residence-2027-2028",
+      "officialUrl": "https://www.casadevelazquez.org/que-pasa-en-la-casa/detail/appel-artistes-en-residence-2027-2028",
+      "visaSponsor": "not stated",
+      "phdType": null,
+      "verified": true,
+      "verifyNote": "Confirmed on official Casa de Velázquez page. Open 19 Oct–27 Nov 2026. Housing and studio provided. Monthly stipend amount for 2027-28 not yet approved by board (previous year €3,600/month for housed artists). Application free.",
+      "addedAt": "2026-11-26T00:46:14Z"
+    },
+    {
+      "id": "jan-van-eyck-residency-2028",
+      "title": "Residency 2028",
+      "org": "Jan van Eyck Academie",
+      "country": "Netherlands",
+      "location": "Maastricht",
+      "deadline": "2026-12-01",
+      "deadlineType": "fixed",
+      "category": "residency",
+      "funding": "Fund: partial\nApplication fee: €65 excl. VAT (€78.65 incl. VAT) or free (waived for DAC list countries including Lower Middle Income)\nProgramme fee: €2,750 excl. VAT\nTravel: you pay\nStay: covered (rent deducted from stipend)\nLiving: covered (monthly stipend €1,500 after rent deduction; €2,000 working budget)\nYou pay in total: €2,815 + travel (approx., if no waiver)",
+      "eligibility": "Open to artists, designers, curators, writers, architects and artistic researchers. Individuals, duos, collectives, candidates with children welcome. No formal degree required. Age: no limit. Language: English sufficient for communication (Dutch also used). IELTS: not required. NET: not required. Alumni of Rijksakademie or De Ateliers full-time not eligible.",
+      "url": "https://www.janvaneyck.nl/calendar/apply-now-jve-residency-2028",
+      "officialUrl": "https://www.janvaneyck.nl/calendar/apply-now-jve-residency-2028",
+      "visaSponsor": "yes",
+      "phdType": null,
+      "verified": true,
+      "verifyNote": "Confirmed via official site and e-flux/FAQ. Application open 5 Oct–1 Dec 2026 23:59 CET. Private furnished studio apartment, labs, €1,500 monthly stipend (housing deducted), €2,000 annual working budget. Enrolment fee €2,750. Application fee waived for Lower Middle Income countries (India qualifies).",
+      "addedAt": "2026-11-26T00:46:14Z"
+    },
+    {
+      "id": "snowball-art-award-2026",
+      "title": "Snowball Art Award 2026",
+      "org": "Ann Wolff Foundation Gotland / Kosta Boda",
+      "country": "Sweden",
+      "location": "Kosta / Visby",
+      "deadline": "2026-11-26",
+      "deadlineType": "fixed",
+      "category": "artist",
+      "funding": "Fund: fully funded\nApplication fee: free\nProgramme fee: none\nTravel: covered\nStay: covered\nLiving: covered\nYou pay in total: 0",
+      "eligibility": "Professional artists worldwide, wholly or partly supported by artistic practice. All disciplines; previous glass experience not required. Primarily supports female artists from Nordic region and internationally. Age: not stated. Language: English. IELTS: not required. NET: not required.",
+      "url": "https://www.e-flux.com/announcements/6788534/open-call-application",
+      "officialUrl": "https://www.e-flux.com/announcements/6788534/open-call-application",
+      "visaSponsor": "not stated",
+      "phdType": null,
+      "verified": true,
+      "verifyNote": "Confirmed on e-flux announcement from Ann Wolff Foundation. Deadline 26 Nov 2026. Unrestricted grant SEK 200,000 + fully funded 5-day residency and travel/accommodation to Kosta Boda and award ceremony in Visby. Apply by PDF email to snowballartaward@awfg.se.",
+      "addedAt": "2026-11-26T00:46:14Z"
+    }
+  ]
+}
