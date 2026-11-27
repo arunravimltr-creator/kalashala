@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T00:46:14Z",
+  "updatedAt": "2026-11-27T00:45:00Z",
   "items": [
     {
       "id": "casa-velazquez-air-2027-2028",
@@ -57,6 +57,44 @@
       "verified": true,
       "verifyNote": "Confirmed on e-flux announcement from Ann Wolff Foundation. Deadline 26 Nov 2026. Unrestricted grant SEK 200,000 + fully funded 5-day residency and travel/accommodation to Kosta Boda and award ceremony in Visby. Apply by PDF email to snowballartaward@awfg.se.",
       "addedAt": "2026-11-26T00:46:14Z"
+    },
+    {
+      "id": "yaddo-residency-winter-2026",
+      "title": "Yaddo Residency (Winter Application Cycle)",
+      "org": "Yaddo",
+      "country": "United States",
+      "location": "Saratoga Springs, NY",
+      "deadline": "2026-12-20",
+      "deadlineType": "fixed",
+      "category": "residency",
+      "funding": "Fund: application fee only\nApplication fee: $40\nProgramme fee: none\nTravel: you pay\nStay: covered\nLiving: covered\nYou pay in total: $40 + travel",
+      "eligibility": "Professional creative artists from all nations and backgrounds in visual art (painting, sculpture, printmaking, photography, mixed media, installation), literature, music composition, performance, film & video. Not enrolled in graduate or undergraduate degree programs. Age: not stated. Language: working knowledge of English helpful (no interpreters provided). IELTS: not required. NET: not required. Apply once every other calendar year.",
+      "url": "https://yaddo.org/apply/",
+      "officialUrl": "https://yaddo.org/apply/",
+      "visaSponsor": "not stated",
+      "phdType": null,
+      "verified": true,
+      "verifyNote": "Confirmed on official Yaddo apply page. Winter cycle portal open 20 Nov, deadline 20 Dec 2026 23:59 EST (or 1,600 apps). Room, board, studio provided. Access grants available for travel. No residency fee.",
+      "addedAt": "2026-11-27T00:45:00Z"
+    },
+    {
+      "id": "helene-wurlitzer-2028",
+      "title": "Artist Residency Grants 2028",
+      "org": "Helene Wurlitzer Foundation of New Mexico",
+      "country": "United States",
+      "location": "Taos, NM",
+      "deadline": "2027-01-18",
+      "deadlineType": "fixed",
+      "category": "residency",
+      "funding": "Fund: application fee only\nApplication fee: $30\nProgramme fee: none\nTravel: you pay\nStay: covered\nLiving: you pay\nYou pay in total: $30 + $300 deposit (half refundable) + food + travel",
+      "eligibility": "Visual artists (painters, sculptors, photographers, etc.), literary artists, music composers from any nationality. Age: not stated. Language: English (application in English). IELTS: not required. NET: not required. No imposed work requirements during stay.",
+      "url": "https://wurlitzerfoundation.org/apply",
+      "officialUrl": "https://wurlitzerfoundation.org/apply",
+      "visaSponsor": "not stated",
+      "phdType": null,
+      "verified": true,
+      "verifyNote": "Confirmed on official foundation apply page. Open for 2028 sessions (Jan-Apr, Jun-Aug, Sep-Dec). Rent-free fully furnished casita and utilities. Residents pay own food and transportation. $300 deposit on selection (half retained).",
+      "addedAt": "2026-11-27T00:45:00Z"
     }
   ]
 }
