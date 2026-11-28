@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T00:45:00Z",
+  "updatedAt": "2026-11-28T00:45:00Z",
   "items": [
     {
       "id": "casa-velazquez-air-2027-2028",
@@ -95,6 +95,63 @@
       "verified": true,
       "verifyNote": "Confirmed on official foundation apply page. Open for 2028 sessions (Jan-Apr, Jun-Aug, Sep-Dec). Rent-free fully furnished casita and utilities. Residents pay own food and transportation. $300 deposit on selection (half retained).",
       "addedAt": "2026-11-27T00:45:00Z"
+    },
+    {
+      "id": "bogliasco-fall-2027",
+      "title": "Bogliasco Fellowships Fall 2027",
+      "org": "Bogliasco Foundation",
+      "country": "Italy",
+      "location": "Bogliasco (near Genoa)",
+      "deadline": "2026-12-01",
+      "deadlineType": "fixed",
+      "category": "residency",
+      "funding": "Fund: application fee only\nApplication fee: $30 (early deadline 24 Nov) or $45 (final)\nProgramme fee: none\nTravel: you pay\nStay: covered\nLiving: covered\nYou pay in total: $30 or $45 + travel",
+      "eligibility": "Artists and scholars in arts and humanities including visual arts. Any nationality. Not currently enrolled in a degree-granting program. Age: not stated. Language: conversational English required. IELTS: not required. NET: not required.",
+      "url": "https://www.bfny.org/en/apply/requirements",
+      "officialUrl": "https://www.bfny.org/en/apply/requirements",
+      "visaSponsor": "not stated",
+      "phdType": null,
+      "verified": true,
+      "verifyNote": "Confirmed on official Bogliasco Center requirements page. Portal open for Fall 2027 (deadline 1 Dec 2026, early 24 Nov). Full room, board and workspace provided. Fellows pay own travel, materials, personal expenses. Application fee tiered.",
+      "addedAt": "2026-11-28T00:45:00Z"
+    },
+    {
+      "id": "joshua-tree-highlands-2027-28",
+      "title": "Joshua Tree Highlands Artist Residency 2027-2028",
+      "org": "Joshua Tree Highlands Artist Residency (JTHAR)",
+      "country": "United States",
+      "location": "Joshua Tree, CA",
+      "deadline": "2026-12-15",
+      "deadlineType": "fixed",
+      "category": "residency",
+      "funding": "Fund: partial\nApplication fee: $45\nProgramme fee: none\nTravel: you pay\nStay: covered\nLiving: you pay (or use $1,500 scholarship)\nYou pay in total: $45 + travel/living beyond scholarship",
+      "eligibility": "Artists in visual arts, photography, sculpture, film/video, new media, installation, writing, interdisciplinary, social practice, architecture. Any nationality. Age: 18+. Language: not stated (English context). IELTS: not required. NET: not required. Must donate one work.",
+      "url": "https://www.jthar.org/apply.html",
+      "officialUrl": "https://www.jthar.org/apply.html",
+      "visaSponsor": "not stated",
+      "phdType": null,
+      "verified": true,
+      "verifyNote": "Confirmed on official JTHAR apply page. Applications open to 15 Dec 2026. Seven-week residencies with own house, studio access, $1,500 scholarship for supplies/travel/meals. Vehicle needed on site. International eligible.",
+      "addedAt": "2026-11-28T00:45:00Z"
+    },
+    {
+      "id": "villa-albertine-2028-general",
+      "title": "General Call for 2028 Residencies",
+      "org": "Villa Albertine",
+      "country": "United States",
+      "location": "Various US cities (Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, New York, New Orleans, San Francisco, Washington D.C. or other)",
+      "deadline": "2027-01-21",
+      "deadlineType": "fixed",
+      "category": "residency",
+      "funding": "Fund: fully funded\nApplication fee: free\nProgramme fee: none\nTravel: covered\nStay: covered\nLiving: covered (daily stipend ~$110 in Washington D.C. example)\nYou pay in total: 0",
+      "eligibility": "Creators, thinkers, cultural professionals with original research project requiring US immersion. Any nationality if supported by French partner based in France. Age: 21+ before departure. Language: working proficiency in English (3-min video required). IELTS: not required. NET: not required. Professional experience required. Individual preferred (duos possible).",
+      "url": "https://villa-albertine.org/va/professionals/appel-a-candidatures-de-la-villa-albertine-residences-2028/",
+      "officialUrl": "https://villa-albertine.org/va/professionals/appel-a-candidatures-de-la-villa-albertine-residences-2028/",
+      "visaSponsor": "not stated",
+      "phdType": null,
+      "verified": true,
+      "verifyNote": "Confirmed on official Villa Albertine page. Applications open to 21 Jan 2027 23:59 Paris time. Exploratory 1-3 month residencies. Covers international travel, accommodation, daily living stipend, insurance. Requires French partner letter of support. Not production residency.",
+      "addedAt": "2026-11-28T00:45:00Z"
     }
   ]
 }
